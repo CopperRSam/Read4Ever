@@ -1,0 +1,134 @@
+[
+    {
+      "chinese": "你认识这两个人吗",
+      "translation": "Do you know these two people",
+      "tokens": [
+        "你",
+        "认识",
+        "这",
+        "两个",
+        "人",
+        "吗"
+      ]
+    },
+    {
+      "chinese": "她是我的中文老师，姓王；他是我弟弟的英文老师，姓李",
+      "translation": "She is my Chinese teacher, her surname is Wang; he is my younger brother's English teacher, her surname is Li",
+      "tokens": [
+        "她",
+        "是",
+        "我",
+        "的",
+        "中文",
+        "老师",
+        "，",
+        "姓王",
+        "；",
+        "他",
+        "是",
+        "我",
+        "弟弟",
+        "的",
+        "英文",
+        "老师",
+        "，",
+        "姓李"
+      ]
+    },
+    {
+      "chinese": "王老师很漂亮，她今年二十八岁，喜欢旅游和跑步",
+      "translation": "Teacher Wang is very beautiful. She is 28 years old this year and likes to travel and run.",
+      "tokens": [
+        "王老师",
+        "很漂亮",
+        "，",
+        "她",
+        "今年",
+        "二十八岁",
+        "，",
+        "喜欢",
+        "旅游",
+        "和",
+        "跑步"
+      ]
+    },
+    {
+      "chinese": "李老师很高，今年三十二岁，在大学工作",
+      "translation": "Teacher Li is very tall, 32 years old this year, working in university",
+      "tokens": [
+        "李老师",
+        "很",
+        "高",
+        "，",
+        "今年",
+        "三十二岁",
+        "，",
+        "在",
+        "大学",
+        "工作"
+      ]
+    },
+    {
+      "chinese": "他们两个人认识五年了，有一个女儿和一个儿子",
+      "translation": "They have known each other for five years, and have a daughter and a son",
+      "tokens": [
+        "他们",
+        "两个",
+        "人",
+        "认识",
+        "五年",
+        "了",
+        "，",
+        "有",
+        "一个",
+        "女儿",
+        "和",
+        "一个",
+        "儿子"
+      ]
+    },
+    {
+      "chinese": "女儿一岁，儿子三岁，他们会说中文，也会说英文",
+      "translation": "The daughter is one year old and the son is three years old. They can speak Chinese and English.",
+      "tokens": [
+        "女儿",
+        "一岁",
+        "，",
+        "儿子",
+        "三岁",
+        "，",
+        "他们",
+        "会",
+        "说",
+        "中文",
+        "，",
+        "也",
+        "会",
+        "说",
+        "英文"
+      ]
+    },
+    {
+      "chinese": "王老师和李老师都是很好的人，我和弟弟都很喜欢他们",
+      "translation": "Teacher Wang and Teacher Li are both very good people, and my brother and I like them very much.",
+      "tokens": [
+        "王老师",
+        "和",
+        "李老师",
+        "都",
+        "是",
+        "很",
+        "好",
+        "的",
+        "人",
+        "，",
+        "我",
+        "和",
+        "弟弟",
+        "都",
+        "很",
+        "喜欢",
+        "他们"
+      ]
+    }
+  ]
