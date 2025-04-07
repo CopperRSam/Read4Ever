@@ -12,9 +12,9 @@ The app uses a scoring system: words gain points each time they’re marked as k
 - HSK vocabulary focus (starting with HSK 1)
 
 ### Tech Stack (Planned)
-- React + Tailwind CSS (frontend)
-- Node.js / Express (backend)
-- SQLite or Firebase (for storing word scores)
+- Flutter (frontend)
+- local storage JSON files (Data)
+- Python for sentence generation
 
 ### Status
 MVP in progress — focused on HSK 1 sentence generation and word scoring system.
