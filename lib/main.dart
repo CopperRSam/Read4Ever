@@ -143,57 +143,63 @@ class _SentenceReaderState extends State<SentenceReader> {
 
     return Scaffold(
       appBar: AppBar(title: Text('Read4ever')),
-      body: Padding(
-        padding: const EdgeInsets.all(16.0),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Text(sentence.chinese, style: TextStyle(fontSize: 24), textAlign: TextAlign.center),
-            SizedBox(height: 12),
-            if (showTranslation) ...[
-              Text(sentence.translation, style: TextStyle(fontSize: 18, color: Colors.grey[700])),
-              SizedBox(height: 24),
-              Wrap(
-                spacing: 8,
-                runSpacing: 4,
-                children: sentence.tokens.map((word) {
-                  final isSelected = selectedWords.contains(word);
-                  final gloss = hskGlossary[word] != null
-                      ? "${hskGlossary[word]!['pinyin']} - ${hskGlossary[word]!['meaning']}"
-                      : "(no definition)";
-                  return Tooltip(
-                    message: gloss,
-                    child: ChoiceChip(
-                      label: Text(word),
-                      selected: isSelected,
-                      onSelected: (selectedNow) {
-                        setState(() {
-                          if (selectedNow) selectedWords.add(word);
-                          else selectedWords.remove(word);
-                        });
-                      },
-                    ),
-                  );
-                }).toList(),
-              )
-            ] else
-              Text('(Press reveal to continue)', style: TextStyle(color: Colors.grey)),
-            SizedBox(height: 32),
-            ElevatedButton(
-              child: Text(showTranslation ? 'Submit' : 'Reveal'),
-              onPressed: () {
-                setState(() {
-                  if (showTranslation) {
-                    onSubmit();
-                  } else {
-                    showTranslation = true;
-                  }
-                });
-              },
+body: Center(
+  child: SingleChildScrollView(
+    child: Padding(
+      padding: const EdgeInsets.all(16.0),
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        crossAxisAlignment: CrossAxisAlignment.center,
+        children: [
+          Text(sentence.chinese, style: TextStyle(fontSize: 24), textAlign: TextAlign.center),
+          SizedBox(height: 12),
+          if (showTranslation) ...[
+            Text(sentence.translation, style: TextStyle(fontSize: 18, color: Colors.grey[700])),
+            SizedBox(height: 24),
+            Wrap(
+              spacing: 8,
+              runSpacing: 4,
+              alignment: WrapAlignment.center,
+              children: sentence.tokens.map((word) {
+                final isSelected = selectedWords.contains(word);
+                final gloss = hskGlossary[word] != null
+                    ? "${hskGlossary[word]!['pinyin']} - ${hskGlossary[word]!['meaning']}"
+                    : "$word (not in HSK1)";
+                return Tooltip(
+                  message: gloss,
+                  child: ChoiceChip(
+                    label: Text(word),
+                    selected: isSelected,
+                    onSelected: (selectedNow) {
+                      setState(() {
+                        if (selectedNow) selectedWords.add(word);
+                        else selectedWords.remove(word);
+                      });
+                    },
+                  ),
+                );
+              }).toList(),
             )
-          ],
-        ),
+          ] else
+            Text('(Press reveal to continue)', style: TextStyle(color: Colors.grey)),
+          SizedBox(height: 32),
+          ElevatedButton(
+            child: Text(showTranslation ? 'Submit' : 'Reveal'),
+            onPressed: () {
+              setState(() {
+                if (showTranslation) {
+                  onSubmit();
+                } else {
+                  showTranslation = true;
+                }
+              });
+            },
+          )
+        ],
       ),
+    ),
+  ),
+),
     );
   }
 }

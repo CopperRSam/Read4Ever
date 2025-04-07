@@ -1,134 +1,9816 @@
 [
-    {
-      "chinese": "你认识这两个人吗",
-      "translation": "Do you know these two people",
-      "tokens": [
-        "你",
-        "认识",
-        "这",
-        "两个",
-        "人",
-        "吗"
-      ]
-    },
-    {
-      "chinese": "她是我的中文老师，姓王；他是我弟弟的英文老师，姓李",
-      "translation": "She is my Chinese teacher, her surname is Wang; he is my younger brother's English teacher, her surname is Li",
-      "tokens": [
-        "她",
-        "是",
-        "我",
-        "的",
-        "中文",
-        "老师",
-        "，",
-        "姓王",
-        "；",
-        "他",
-        "是",
-        "我",
-        "弟弟",
-        "的",
-        "英文",
-        "老师",
-        "，",
-        "姓李"
-      ]
-    },
-    {
-      "chinese": "王老师很漂亮，她今年二十八岁，喜欢旅游和跑步",
-      "translation": "Teacher Wang is very beautiful. She is 28 years old this year and likes to travel and run.",
-      "tokens": [
-        "王老师",
-        "很漂亮",
-        "，",
-        "她",
-        "今年",
-        "二十八岁",
-        "，",
-        "喜欢",
-        "旅游",
-        "和",
-        "跑步"
-      ]
-    },
-    {
-      "chinese": "李老师很高，今年三十二岁，在大学工作",
-      "translation": "Teacher Li is very tall, 32 years old this year, working in university",
-      "tokens": [
-        "李老师",
-        "很",
-        "高",
-        "，",
-        "今年",
-        "三十二岁",
-        "，",
-        "在",
-        "大学",
-        "工作"
-      ]
-    },
-    {
-      "chinese": "他们两个人认识五年了，有一个女儿和一个儿子",
-      "translation": "They have known each other for five years, and have a daughter and a son",
-      "tokens": [
-        "他们",
-        "两个",
-        "人",
-        "认识",
-        "五年",
-        "了",
-        "，",
-        "有",
-        "一个",
-        "女儿",
-        "和",
-        "一个",
-        "儿子"
-      ]
-    },
-    {
-      "chinese": "女儿一岁，儿子三岁，他们会说中文，也会说英文",
-      "translation": "The daughter is one year old and the son is three years old. They can speak Chinese and English.",
-      "tokens": [
-        "女儿",
-        "一岁",
-        "，",
-        "儿子",
-        "三岁",
-        "，",
-        "他们",
-        "会",
-        "说",
-        "中文",
-        "，",
-        "也",
-        "会",
-        "说",
-        "英文"
-      ]
-    },
-    {
-      "chinese": "王老师和李老师都是很好的人，我和弟弟都很喜欢他们",
-      "translation": "Teacher Wang and Teacher Li are both very good people, and my brother and I like them very much.",
-      "tokens": [
-        "王老师",
-        "和",
-        "李老师",
-        "都",
-        "是",
-        "很",
-        "好",
-        "的",
-        "人",
-        "，",
-        "我",
-        "和",
-        "弟弟",
-        "都",
-        "很",
-        "喜欢",
-        "他们"
-      ]
-    }
-  ]
+  {
+    "chinese": "你认识这两个人吗",
+    "translation": "Do you know these two people",
+    "tokens": [
+      "你",
+      "认识",
+      "这",
+      "两个",
+      "人",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "她是我的中文老师，姓王；他是我弟弟的英文老师，姓李",
+    "translation": "She is my Chinese teacher, her surname is Wang; he is my younger brother's English teacher, her surname is Li",
+    "tokens": [
+      "她",
+      "是",
+      "我",
+      "的",
+      "中文",
+      "老师",
+      "，",
+      "姓王",
+      "；",
+      "他",
+      "是",
+      "我",
+      "弟弟",
+      "的",
+      "英文",
+      "老师",
+      "，",
+      "姓李"
+    ]
+  },
+  {
+    "chinese": "王老师很漂亮，她今年二十八岁，喜欢旅游和跑步",
+    "translation": "Teacher Wang is very beautiful. She is 28 years old this year and likes to travel and run.",
+    "tokens": [
+      "王老师",
+      "很漂亮",
+      "，",
+      "她",
+      "今年",
+      "二十八岁",
+      "，",
+      "喜欢",
+      "旅游",
+      "和",
+      "跑步"
+    ]
+  },
+  {
+    "chinese": "李老师很高，今年三十二岁，在大学工作",
+    "translation": "Teacher Li is very tall, 32 years old this year, working in university",
+    "tokens": [
+      "李老师",
+      "很",
+      "高",
+      "，",
+      "今年",
+      "三十二岁",
+      "，",
+      "在",
+      "大学",
+      "工作"
+    ]
+  },
+  {
+    "chinese": "他们两个人认识五年了，有一个女儿和一个儿子",
+    "translation": "They have known each other for five years, and have a daughter and a son",
+    "tokens": [
+      "他们",
+      "两个",
+      "人",
+      "认识",
+      "五年",
+      "了",
+      "，",
+      "有",
+      "一个",
+      "女儿",
+      "和",
+      "一个",
+      "儿子"
+    ]
+  },
+  {
+    "chinese": "女儿一岁，儿子三岁，他们会说中文，也会说英文",
+    "translation": "The daughter is one year old and the son is three years old. They can speak Chinese and English.",
+    "tokens": [
+      "女儿",
+      "一岁",
+      "，",
+      "儿子",
+      "三岁",
+      "，",
+      "他们",
+      "会",
+      "说",
+      "中文",
+      "，",
+      "也",
+      "会",
+      "说",
+      "英文"
+    ]
+  },
+  {
+    "chinese": "王老师和李老师都是很好的人，我和弟弟都很喜欢他们",
+    "translation": "Teacher Wang and Teacher Li are both very good people, and my brother and I like them very much.",
+    "tokens": [
+      "王老师",
+      "和",
+      "李老师",
+      "都",
+      "是",
+      "很",
+      "好",
+      "的",
+      "人",
+      "，",
+      "我",
+      "和",
+      "弟弟",
+      "都",
+      "很",
+      "喜欢",
+      "他们"
+    ]
+  },
+  {
+    "chinese": "孩子经常找爸爸妈妈要钱买东西",
+    "translation": "Children often ask their parents for money to buy things",
+    "tokens": [
+      "孩子",
+      "经常",
+      "找",
+      "爸爸妈妈",
+      "要钱",
+      "买",
+      "东西"
+    ]
+  },
+  {
+    "chinese": "这一天，孩子又找爸爸要钱",
+    "translation": "On this day, the child asked his father for money again",
+    "tokens": [
+      "这",
+      "一天",
+      "，",
+      "孩子",
+      "又",
+      "找",
+      "爸爸",
+      "要钱"
+    ]
+  },
+  {
+    "chinese": "孩子说：爸爸，给我五毛钱吧，我想买吃的东西",
+    "translation": "The child said: Dad, give me 50 cents, I want to buy food",
+    "tokens": [
+      "孩子",
+      "说",
+      "：",
+      "爸爸",
+      "，",
+      "给",
+      "我",
+      "五毛钱",
+      "吧",
+      "，",
+      "我",
+      "想",
+      "买",
+      "吃",
+      "的",
+      "东西"
+    ]
+  },
+  {
+    "chinese": "爸爸说：你10岁了，已经长大了",
+    "translation": "Dad said: You are 10 years old and have grown up",
+    "tokens": [
+      "爸爸",
+      "说",
+      "：",
+      "你",
+      "10",
+      "岁",
+      "了",
+      "，",
+      "已经",
+      "长大",
+      "了"
+    ]
+  },
+  {
+    "chinese": "昨天你要了五毛钱，今天你又要五毛钱，明天还要五毛钱，这样不好吧",
+    "translation": "Yesterday you asked for 50 cents, today you asked for another 50 cents, tomorrow you asked for another 50 cents. Isn't that good",
+    "tokens": [
+      "昨天",
+      "你",
+      "要",
+      "了",
+      "五毛钱",
+      "，",
+      "今天",
+      "你",
+      "又",
+      "要",
+      "五毛钱",
+      "，",
+      "明天",
+      "还要",
+      "五毛钱",
+      "，",
+      "这样",
+      "不好",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "大孩子会这样做吗",
+    "translation": "Will older kids do this",
+    "tokens": [
+      "大",
+      "孩子",
+      "会",
+      "这样",
+      "做",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "孩子想了想，说：爸爸你说得对，这样不好",
+    "translation": "The child thought about it and said: Dad, you are right, this is not good",
+    "tokens": [
+      "孩子",
+      "想",
+      "了",
+      "想",
+      "，",
+      "说",
+      "：",
+      "爸爸",
+      "你",
+      "说得对",
+      "，",
+      "这样",
+      "不好"
+    ]
+  },
+  {
+    "chinese": "我是大孩子了，那你今天给我五块钱吧",
+    "translation": "I'm a big child, so give me five dollars today",
+    "tokens": [
+      "我",
+      "是",
+      "大",
+      "孩子",
+      "了",
+      "，",
+      "那",
+      "你",
+      "今天",
+      "给",
+      "我",
+      "五块",
+      "钱",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "A：你在学什么",
+    "translation": "A: What are you learning",
+    "tokens": [
+      "A",
+      "：",
+      "你",
+      "在",
+      "学",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "B：我在学汉语",
+    "translation": "B: I'm learning Chinese",
+    "tokens": [
+      "B",
+      "：",
+      "我",
+      "在",
+      "学",
+      "汉语"
+    ]
+  },
+  {
+    "chinese": "A：你有汉语老师吗",
+    "translation": "A: Do you have a Chinese teacher?",
+    "tokens": [
+      "A",
+      "：",
+      "你",
+      "有",
+      "汉语",
+      "老师",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "B：我有两个汉语老师，他们也是我的好朋友",
+    "translation": "B: I have two Chinese teachers, and they are also my good friends.",
+    "tokens": [
+      "B",
+      "：",
+      "我",
+      "有",
+      "两个",
+      "汉语",
+      "老师",
+      "，",
+      "他们",
+      "也",
+      "是",
+      "我",
+      "的",
+      "好",
+      "朋友"
+    ]
+  },
+  {
+    "chinese": "A：你在家学习吗",
+    "translation": "A: Are you studying at home?",
+    "tokens": [
+      "A",
+      "：",
+      "你",
+      "在家",
+      "学习",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "B：不，我在汉语学校学习",
+    "translation": "B: No, I'm studying in Chinese school",
+    "tokens": [
+      "B",
+      "：",
+      "不",
+      "，",
+      "我",
+      "在",
+      "汉语",
+      "学校",
+      "学习"
+    ]
+  },
+  {
+    "chinese": "我有三十个同学",
+    "translation": "I have thirty classmates",
+    "tokens": [
+      "我",
+      "有",
+      "三十个",
+      "同学"
+    ]
+  },
+  {
+    "chinese": "A：你学汉语多长时间了",
+    "translation": "A: How long have you been learning Chinese?",
+    "tokens": [
+      "A",
+      "：",
+      "你学",
+      "汉语",
+      "多长时间",
+      "了"
+    ]
+  },
+  {
+    "chinese": "B：我学汉语三年了，现在是HSK四级",
+    "translation": "B: I have been learning Chinese for three years, and now I am HSK Level 4",
+    "tokens": [
+      "B",
+      "：",
+      "我学",
+      "汉语",
+      "三年",
+      "了",
+      "，",
+      "现在",
+      "是",
+      "HSK",
+      "四级"
+    ]
+  },
+  {
+    "chinese": "A：真棒",
+    "translation": "A: Very awesome",
+    "tokens": [
+      "A",
+      "：",
+      "真棒"
+    ]
+  },
+  {
+    "chinese": "B：但是我的汉字不好",
+    "translation": "B: But my Chinese characters are not good",
+    "tokens": [
+      "B",
+      "：",
+      "但是",
+      "我",
+      "的",
+      "汉字",
+      "不好"
+    ]
+  },
+  {
+    "chinese": "很多汉字我会读，不会写",
+    "translation": "I can read many Chinese characters but can't write them",
+    "tokens": [
+      "很多",
+      "汉字",
+      "我会",
+      "读",
+      "，",
+      "不会",
+      "写"
+    ]
+  },
+  {
+    "chinese": "A：没关系，多练习就好了",
+    "translation": "A: It doesn't matter, just practice more",
+    "tokens": [
+      "A",
+      "：",
+      "没关系",
+      "，",
+      "多",
+      "练习",
+      "就",
+      "好",
+      "了"
+    ]
+  },
+  {
+    "chinese": "B：我的老师也这么说",
+    "translation": "B: My teacher said so",
+    "tokens": [
+      "B",
+      "：",
+      "我",
+      "的",
+      "老师",
+      "也",
+      "这么",
+      "说"
+    ]
+  },
+  {
+    "chinese": "A：王老师，好久不见",
+    "translation": "A: Teacher Wang, long time no see",
+    "tokens": [
+      "A",
+      "：",
+      "王老师",
+      "，",
+      "好久不见"
+    ]
+  },
+  {
+    "chinese": "B：好久不见",
+    "translation": "B: Long time no see",
+    "tokens": [
+      "B",
+      "：",
+      "好久不见"
+    ]
+  },
+  {
+    "chinese": "你也来这家饭店吃饭",
+    "translation": "You'll have a meal at this restaurant, too",
+    "tokens": [
+      "你",
+      "也",
+      "来",
+      "这家",
+      "饭店",
+      "吃饭"
+    ]
+  },
+  {
+    "chinese": "A：对，我和我的家人来吃饭",
+    "translation": "A: Yes, my family and I come to have a meal",
+    "tokens": [
+      "A",
+      "：",
+      "对",
+      "，",
+      "我",
+      "和",
+      "我",
+      "的",
+      "家人",
+      "来",
+      "吃饭"
+    ]
+  },
+  {
+    "chinese": "我的朋友说这里的广东菜很好吃",
+    "translation": "My friend said the Cantonese food here is delicious",
+    "tokens": [
+      "我",
+      "的",
+      "朋友",
+      "说",
+      "这里",
+      "的",
+      "广东菜",
+      "很",
+      "好吃"
+    ]
+  },
+  {
+    "chinese": "B：你的爸爸妈妈也来了吗",
+    "translation": "B: Are your parents here too",
+    "tokens": [
+      "B",
+      "：",
+      "你",
+      "的",
+      "爸爸妈妈",
+      "也",
+      "来",
+      "了",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "A：没有，他们喜欢在家吃",
+    "translation": "A: No, they like to eat at home",
+    "tokens": [
+      "A",
+      "：",
+      "没有",
+      "，",
+      "他们",
+      "喜欢",
+      "在家",
+      "吃"
+    ]
+  },
+  {
+    "chinese": "我的孩子们来了",
+    "translation": "My children are here",
+    "tokens": [
+      "我",
+      "的",
+      "孩子",
+      "们",
+      "来",
+      "了"
+    ]
+  },
+  {
+    "chinese": "那是我的老公，小孙；那个是我的大儿子，小宝，今年7岁了；这是我的小女儿，小贝，今年5岁了",
+    "translation": "That is my husband, Xiao Sun; that is my eldest son, Xiao Bao, who is 7 years old this year; this is my youngest daughter, Xiao Bei, who is 5 years old this year.",
+    "tokens": [
+      "那",
+      "是",
+      "我",
+      "的",
+      "老公",
+      "，",
+      "小孙",
+      "；",
+      "那个",
+      "是",
+      "我",
+      "的",
+      "大儿子",
+      "，",
+      "小宝",
+      "，",
+      "今年",
+      "7",
+      "岁",
+      "了",
+      "；",
+      "这",
+      "是",
+      "我",
+      "的",
+      "小女儿",
+      "，",
+      "小贝",
+      "，",
+      "今年",
+      "5",
+      "岁",
+      "了"
+    ]
+  },
+  {
+    "chinese": "B：你们一家四口人真幸福",
+    "translation": "B: Your family of four is so happy",
+    "tokens": [
+      "B",
+      "：",
+      "你们",
+      "一家",
+      "四口",
+      "人",
+      "真幸福"
+    ]
+  },
+  {
+    "chinese": "孩子们都上学了吗",
+    "translation": "Have the kids all gone to school?",
+    "tokens": [
+      "孩子",
+      "们",
+      "都",
+      "上学",
+      "了",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "A：大儿子去年上小学了，小女儿明年上小学",
+    "translation": "A: The eldest son went to elementary school last year, and the younger daughter went to elementary school next year",
+    "tokens": [
+      "A",
+      "：",
+      "大儿子",
+      "去年",
+      "上",
+      "小学",
+      "了",
+      "，",
+      "小女儿",
+      "明年",
+      "上",
+      "小学"
+    ]
+  },
+  {
+    "chinese": "B：你老公也会说汉语吗",
+    "translation": "B: Does your husband speak Chinese?",
+    "tokens": [
+      "B",
+      "：",
+      "你",
+      "老公",
+      "也",
+      "会",
+      "说",
+      "汉语",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "A：哈哈，当然，他是中国人",
+    "translation": "A: Haha, of course, he is Chinese",
+    "tokens": [
+      "A",
+      "：",
+      "哈哈",
+      "，",
+      "当然",
+      "，",
+      "他",
+      "是",
+      "中国",
+      "人"
+    ]
+  },
+  {
+    "chinese": "A：明天你想做什么",
+    "translation": "A: What do you want to do tomorrow",
+    "tokens": [
+      "A",
+      "：",
+      "明天",
+      "你",
+      "想",
+      "做",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "B：明天去学校",
+    "translation": "B: Go to school tomorrow",
+    "tokens": [
+      "B",
+      "：",
+      "明天",
+      "去",
+      "学校"
+    ]
+  },
+  {
+    "chinese": "A：明天星期六，休息",
+    "translation": "A: Tomorrow Saturday, rest",
+    "tokens": [
+      "A",
+      "：",
+      "明天",
+      "星期六",
+      "，",
+      "休息"
+    ]
+  },
+  {
+    "chinese": "B：是呢，我忘了",
+    "translation": "B: Yes, I forgot",
+    "tokens": [
+      "B",
+      "：",
+      "是",
+      "呢",
+      "，",
+      "我",
+      "忘",
+      "了"
+    ]
+  },
+  {
+    "chinese": "明天上午我想在家睡觉，下午我想去书店买书，你呢",
+    "translation": "I want to sleep at home tomorrow morning, and I want to go to the bookstore to buy books in the afternoon. What about you",
+    "tokens": [
+      "明天",
+      "上午",
+      "我",
+      "想",
+      "在家",
+      "睡觉",
+      "，",
+      "下午",
+      "我",
+      "想",
+      "去",
+      "书店",
+      "买",
+      "书",
+      "，",
+      "你",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "A：我想去买东西",
+    "translation": "A: I want to buy something",
+    "tokens": [
+      "A",
+      "：",
+      "我",
+      "想",
+      "去",
+      "买",
+      "东西"
+    ]
+  },
+  {
+    "chinese": "B：你想买什么",
+    "translation": "B: What do you want to buy",
+    "tokens": [
+      "B",
+      "：",
+      "你",
+      "想",
+      "买",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "A：我想买一个杯子，一盒牛奶，还有一些水果",
+    "translation": "A: I want to buy a cup, a box of milk, and some fruits",
+    "tokens": [
+      "A",
+      "：",
+      "我",
+      "想",
+      "买",
+      "一个",
+      "杯子",
+      "，",
+      "一盒",
+      "牛奶",
+      "，",
+      "还有",
+      "一些",
+      "水果"
+    ]
+  },
+  {
+    "chinese": "B：你喜欢吃什么水果",
+    "translation": "B: What fruit do you like to eat",
+    "tokens": [
+      "B",
+      "：",
+      "你",
+      "喜欢",
+      "吃",
+      "什么",
+      "水果"
+    ]
+  },
+  {
+    "chinese": "A：我喜欢吃香蕉和苹果",
+    "translation": "A: I like eating bananas and apples",
+    "tokens": [
+      "A",
+      "：",
+      "我",
+      "喜欢",
+      "吃",
+      "香蕉",
+      "和",
+      "苹果"
+    ]
+  },
+  {
+    "chinese": "B：我家也没有水果了",
+    "translation": "B: I don't have any fruits at home",
+    "tokens": [
+      "B",
+      "：",
+      "我家",
+      "也",
+      "没有",
+      "水果",
+      "了"
+    ]
+  },
+  {
+    "chinese": "现在的苹果很好，你帮我也买一斤吧",
+    "translation": "Apples are very good now, please buy a pound for me too",
+    "tokens": [
+      "现在",
+      "的",
+      "苹果",
+      "很",
+      "好",
+      "，",
+      "你",
+      "帮",
+      "我",
+      "也",
+      "买",
+      "一斤",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "A：没问题",
+    "translation": "A: No problem",
+    "tokens": [
+      "A",
+      "：",
+      "没",
+      "问题"
+    ]
+  },
+  {
+    "chinese": "我明天几点给你苹果",
+    "translation": "When will I give you apples tomorrow",
+    "tokens": [
+      "我",
+      "明天",
+      "几点",
+      "给",
+      "你",
+      "苹果"
+    ]
+  },
+  {
+    "chinese": "B：明天我五点从书店回家，你五点来我家吧",
+    "translation": "B: I will go home from the bookstore at 5 o'clock tomorrow, come to my house at 5 o'clock",
+    "tokens": [
+      "B",
+      "：",
+      "明天",
+      "我",
+      "五点",
+      "从",
+      "书店",
+      "回家",
+      "，",
+      "你",
+      "五点",
+      "来",
+      "我家",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "你也可以在我家吃饭，明天我们自己做，怎么样",
+    "translation": "You can also have dinner at my house, we will do it ourselves tomorrow. How about it",
+    "tokens": [
+      "你",
+      "也",
+      "可以",
+      "在",
+      "我家",
+      "吃饭",
+      "，",
+      "明天",
+      "我们",
+      "自己",
+      "做",
+      "，",
+      "怎么样"
+    ]
+  },
+  {
+    "chinese": "A：好，明天五点我去你家",
+    "translation": "A: OK, I will go to your house at five o'clock tomorrow",
+    "tokens": [
+      "A",
+      "：",
+      "好",
+      "，",
+      "明天",
+      "五点",
+      "我",
+      "去",
+      "你家"
+    ]
+  },
+  {
+    "chinese": "A：先生，你想买什么",
+    "translation": "A: Sir, what do you want to buy",
+    "tokens": [
+      "A",
+      "：",
+      "先生",
+      "，",
+      "你",
+      "想",
+      "买",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "B：我很渴，有喝的东西吗",
+    "translation": "B: I'm very thirsty, do I have anything to drink?",
+    "tokens": [
+      "B",
+      "：",
+      "我",
+      "很渴",
+      "，",
+      "有",
+      "喝",
+      "的",
+      "东西",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "A：有",
+    "translation": "A: Yes",
+    "tokens": [
+      "A",
+      "：",
+      "有"
+    ]
+  },
+  {
+    "chinese": "我们有水、茶、牛奶、咖啡、啤酒，你想喝什么",
+    "translation": "We have water, tea, milk, coffee, beer, what do you want to drink",
+    "tokens": [
+      "我们",
+      "有水",
+      "、",
+      "茶",
+      "、",
+      "牛奶",
+      "、",
+      "咖啡",
+      "、",
+      "啤酒",
+      "，",
+      "你",
+      "想",
+      "喝",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "B：我要一瓶啤酒",
+    "translation": "B: I want a bottle of beer",
+    "tokens": [
+      "B",
+      "：",
+      "我要",
+      "一瓶",
+      "啤酒"
+    ]
+  },
+  {
+    "chinese": "A：好的，还要什么吗",
+    "translation": "A: OK, do you want anything else?",
+    "tokens": [
+      "A",
+      "：",
+      "好",
+      "的",
+      "，",
+      "还要",
+      "什么",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "B：我也买些吃的东西吧",
+    "translation": "B: I'll buy some food too",
+    "tokens": [
+      "B",
+      "：",
+      "我",
+      "也",
+      "买些",
+      "吃",
+      "的",
+      "东西",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "A：没问题",
+    "translation": "A: No problem",
+    "tokens": [
+      "A",
+      "：",
+      "没",
+      "问题"
+    ]
+  },
+  {
+    "chinese": "我们有米饭、面条，也有面包，你想要哪个",
+    "translation": "We have rice, noodles, and bread, which one do you want",
+    "tokens": [
+      "我们",
+      "有",
+      "米饭",
+      "、",
+      "面条",
+      "，",
+      "也",
+      "有",
+      "面包",
+      "，",
+      "你",
+      "想要",
+      "哪个"
+    ]
+  },
+  {
+    "chinese": "B：一个面包",
+    "translation": "B: One bread",
+    "tokens": [
+      "B",
+      "：",
+      "一个",
+      "面包"
+    ]
+  },
+  {
+    "chinese": "一共多少钱",
+    "translation": "How much is the total",
+    "tokens": [
+      "一共",
+      "多少",
+      "钱"
+    ]
+  },
+  {
+    "chinese": "A：啤酒三块五，面包十块，一共十三块五",
+    "translation": "A: Beer three or five yuan, bread ten yuan, a total of thirteen yuan",
+    "tokens": [
+      "A",
+      "：",
+      "啤酒",
+      "三块",
+      "五",
+      "，",
+      "面包",
+      "十块",
+      "，",
+      "一共",
+      "十三块",
+      "五"
+    ]
+  },
+  {
+    "chinese": "B：好的，给你钱",
+    "translation": "B: OK, I'll give you money",
+    "tokens": [
+      "B",
+      "：",
+      "好",
+      "的",
+      "，",
+      "给",
+      "你",
+      "钱"
+    ]
+  },
+  {
+    "chinese": "A：这是你买的东西，再见",
+    "translation": "A: This is what you bought, goodbye",
+    "tokens": [
+      "A",
+      "：",
+      "这",
+      "是",
+      "你",
+      "买",
+      "的",
+      "东西",
+      "，",
+      "再见"
+    ]
+  },
+  {
+    "chinese": "B：再见",
+    "translation": "B: Goodbye",
+    "tokens": [
+      "B",
+      "：",
+      "再见"
+    ]
+  },
+  {
+    "chinese": "A：李老师，好久不见",
+    "translation": "A: Teacher Li, long time no see",
+    "tokens": [
+      "A",
+      "：",
+      "李老师",
+      "，",
+      "好久不见"
+    ]
+  },
+  {
+    "chinese": "B：乐乐妈妈，好久不见",
+    "translation": "B: Mother Lele, long time no see",
+    "tokens": [
+      "B",
+      "：",
+      "乐乐",
+      "妈妈",
+      "，",
+      "好久不见"
+    ]
+  },
+  {
+    "chinese": "A：乐乐最近在学校怎么样",
+    "translation": "A: How is Lele doing in school recently",
+    "tokens": [
+      "A",
+      "：",
+      "乐乐",
+      "最近",
+      "在",
+      "学校",
+      "怎么样"
+    ]
+  },
+  {
+    "chinese": "B：他喜欢帮助大家，同学们也很喜欢他，但是最近学习马马虎虎",
+    "translation": "B: He likes to help everyone, and his classmates like him very much, but he has been studying so carelessly recently",
+    "tokens": [
+      "B",
+      "：",
+      "他",
+      "喜欢",
+      "帮助",
+      "大家",
+      "，",
+      "同学",
+      "们",
+      "也",
+      "很",
+      "喜欢",
+      "他",
+      "，",
+      "但是",
+      "最近",
+      "学习",
+      "马马虎虎"
+    ]
+  },
+  {
+    "chinese": "A：他学习不努力，每天回家就喜欢看电视",
+    "translation": "A: He doesn't study hard, and he likes to watch TV every day when he gets home",
+    "tokens": [
+      "A",
+      "：",
+      "他",
+      "学习",
+      "不",
+      "努力",
+      "，",
+      "每天",
+      "回家",
+      "就",
+      "喜欢",
+      "看电视"
+    ]
+  },
+  {
+    "chinese": "B：看太多电视不好",
+    "translation": "B: It’s not good to watch too much TV",
+    "tokens": [
+      "B",
+      "：",
+      "看太多",
+      "电视",
+      "不好"
+    ]
+  },
+  {
+    "chinese": "A：是",
+    "translation": "A: Yes",
+    "tokens": [
+      "A",
+      "：",
+      "是"
+    ]
+  },
+  {
+    "chinese": "我说了，他不听",
+    "translation": "I said, he won't listen",
+    "tokens": [
+      "我",
+      "说",
+      "了",
+      "，",
+      "他",
+      "不",
+      "听"
+    ]
+  },
+  {
+    "chinese": "B：明天他来学校，我也跟他说说这个事",
+    "translation": "B: He will come to school tomorrow, and I will also talk about this to him",
+    "tokens": [
+      "B",
+      "：",
+      "明天",
+      "他来",
+      "学校",
+      "，",
+      "我",
+      "也",
+      "跟",
+      "他",
+      "说",
+      "说",
+      "这个",
+      "事"
+    ]
+  },
+  {
+    "chinese": "A：太好了",
+    "translation": "A: That's great",
+    "tokens": [
+      "A",
+      "：",
+      "太好了"
+    ]
+  },
+  {
+    "chinese": "谢谢李老师",
+    "translation": "Thank you, Teacher Li",
+    "tokens": [
+      "谢谢",
+      "李老师"
+    ]
+  },
+  {
+    "chinese": "今天爸爸妈妈不在家，我和弟弟妹妹在家",
+    "translation": "Today, my parents are not at home, my younger brother and sister are at home",
+    "tokens": [
+      "今天",
+      "爸爸妈妈",
+      "不",
+      "在家",
+      "，",
+      "我",
+      "和",
+      "弟弟",
+      "妹妹",
+      "在家"
+    ]
+  },
+  {
+    "chinese": "妹妹想喝可乐，吃米饭；弟弟想喝茶，吃面条；我想喝咖啡，吃面包",
+    "translation": "My sister wants to drink coke and eat rice; my younger brother wants to drink tea and eat noodles; I want to drink coffee and eat bread",
+    "tokens": [
+      "妹妹",
+      "想",
+      "喝",
+      "可乐",
+      "，",
+      "吃",
+      "米饭",
+      "；",
+      "弟弟",
+      "想",
+      "喝茶",
+      "，",
+      "吃",
+      "面条",
+      "；",
+      "我",
+      "想",
+      "喝咖啡",
+      "，",
+      "吃",
+      "面包"
+    ]
+  },
+  {
+    "chinese": "但是我不会做米饭和面条，他们不喜欢面包，这是个问题",
+    "translation": "But I can't make rice and noodles, they don't like bread, it's a problem",
+    "tokens": [
+      "但是",
+      "我",
+      "不会",
+      "做",
+      "米饭",
+      "和",
+      "面条",
+      "，",
+      "他们",
+      "不",
+      "喜欢",
+      "面包",
+      "，",
+      "这",
+      "是",
+      "个",
+      "问题"
+    ]
+  },
+  {
+    "chinese": "爸爸妈妈什么时候回家呢",
+    "translation": "When will mom and dad go home",
+    "tokens": [
+      "爸爸妈妈",
+      "什么",
+      "时候",
+      "回家",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "7岁的女儿回家后，妈妈看见她的手很脏，就说：”看你的手，多脏",
+    "translation": "After the 7-year-old daughter returned home, her mother saw that her hands were dirty and said, \"Look at your hands, how dirty they are.",
+    "tokens": [
+      "7",
+      "岁",
+      "的",
+      "女儿",
+      "回家",
+      "后",
+      "，",
+      "妈妈",
+      "看见",
+      "她",
+      "的",
+      "手",
+      "很脏",
+      "，",
+      "就",
+      "说",
+      "：",
+      "”",
+      "看",
+      "你",
+      "的",
+      "手",
+      "，",
+      "多脏"
+    ]
+  },
+  {
+    "chinese": "你什么时候看到过我的手这么脏了",
+    "translation": "When did you see my hands so dirty",
+    "tokens": [
+      "你",
+      "什么",
+      "时候",
+      "看到",
+      "过",
+      "我",
+      "的",
+      "手",
+      "这么",
+      "脏",
+      "了"
+    ]
+  },
+  {
+    "chinese": "”\n\n女儿回答：”没有，妈妈",
+    "translation": "”\n\nMy daughter replied: \"No, mom",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "女儿",
+      "回答",
+      "：",
+      "”",
+      "没有",
+      "，",
+      "妈妈"
+    ]
+  },
+  {
+    "chinese": "因为我没有看到过你7岁的样子",
+    "translation": "Because I've never seen you look like you were 7 years old",
+    "tokens": [
+      "因为",
+      "我",
+      "没有",
+      "看到",
+      "过",
+      "你",
+      "7",
+      "岁",
+      "的",
+      "样子"
+    ]
+  },
+  {
+    "chinese": "一天，爸爸带儿子去玩",
+    "translation": "One day, my father took my son to play",
+    "tokens": [
+      "一天",
+      "，",
+      "爸爸",
+      "带",
+      "儿子",
+      "去",
+      "玩"
+    ]
+  },
+  {
+    "chinese": "回来的路上，儿子对爸爸说：”爸爸，我累了，我们坐车吧",
+    "translation": "On the way back, my son said to my father: \"Dad, I'm tired, let's take the bus.",
+    "tokens": [
+      "回来",
+      "的",
+      "路上",
+      "，",
+      "儿子",
+      "对",
+      "爸爸",
+      "说",
+      "：",
+      "”",
+      "爸爸",
+      "，",
+      "我累",
+      "了",
+      "，",
+      "我们",
+      "坐车",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "”\n\n”那要看你表现",
+    "translation": "”\n\n\"It depends on your performance",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "”",
+      "那要",
+      "看",
+      "你",
+      "表现"
+    ]
+  },
+  {
+    "chinese": "”爸爸说",
+    "translation": "\"Dad said",
+    "tokens": [
+      "”",
+      "爸爸",
+      "说"
+    ]
+  },
+  {
+    "chinese": "儿子说：”好的，如果我表现好，我们就坐公共汽车回去；如果我表现不好，我们就坐出租车回去",
+    "translation": "My son said: \"Okay, if I perform well, we will take the bus back; if I perform poorly, we will take the taxi back.",
+    "tokens": [
+      "儿子",
+      "说",
+      "：",
+      "”",
+      "好",
+      "的",
+      "，",
+      "如果",
+      "我",
+      "表现",
+      "好",
+      "，",
+      "我们",
+      "就",
+      "坐",
+      "公共汽车",
+      "回去",
+      "；",
+      "如果",
+      "我",
+      "表现",
+      "不好",
+      "，",
+      "我们",
+      "就",
+      "坐",
+      "出租车",
+      "回去"
+    ]
+  },
+  {
+    "chinese": "”\n\n儿子不想睡觉，爸爸坐在他的旁边给他讲故事",
+    "translation": "”\n\nMy son doesn't want to sleep, so my father sits next to him and tells him a story",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "儿子",
+      "不想",
+      "睡觉",
+      "，",
+      "爸爸",
+      "坐在",
+      "他",
+      "的",
+      "旁边",
+      "给",
+      "他",
+      "讲故事"
+    ]
+  },
+  {
+    "chinese": "一个小时过去了，房间里很安静，没有一点儿声音",
+    "translation": "An hour passed, the room was quiet without a sound",
+    "tokens": [
+      "一个",
+      "小时",
+      "过去",
+      "了",
+      "，",
+      "房间",
+      "里",
+      "很",
+      "安静",
+      "，",
+      "没有",
+      "一点儿",
+      "声音"
+    ]
+  },
+  {
+    "chinese": "这时妈妈开门问：”他睡着了吗",
+    "translation": "At this time, my mother opened the door and asked, \"Is he asleep?",
+    "tokens": [
+      "这时",
+      "妈妈",
+      "开门",
+      "问",
+      "：",
+      "”",
+      "他",
+      "睡着",
+      "了",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "”\n\n”睡着了，妈妈",
+    "translation": "”\n\n\"I fell asleep, mom",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "”",
+      "睡着",
+      "了",
+      "，",
+      "妈妈"
+    ]
+  },
+  {
+    "chinese": "”儿子说，”爸爸读了一分钟就睡着了",
+    "translation": "\"The son said, \"Dad read for a minute and fell asleep",
+    "tokens": [
+      "”",
+      "儿子",
+      "说",
+      "，",
+      "”",
+      "爸爸",
+      "读",
+      "了",
+      "一分钟",
+      "就",
+      "睡着",
+      "了"
+    ]
+  },
+  {
+    "chinese": "”\n\n老师说：”今天我们来学习减法",
+    "translation": "”\n\nThe teacher said: \"Today we will learn subtraction",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "老师",
+      "说",
+      "：",
+      "”",
+      "今天",
+      "我们",
+      "来",
+      "学习",
+      "减法"
+    ]
+  },
+  {
+    "chinese": "小明，你哥哥有五个苹果，你从那儿拿走三个，结果会怎样",
+    "translation": "Xiao Ming, your brother has five apples, you take three from there, what will happen",
+    "tokens": [
+      "小明",
+      "，",
+      "你",
+      "哥哥",
+      "有",
+      "五个",
+      "苹果",
+      "，",
+      "你",
+      "从",
+      "那儿",
+      "拿走",
+      "三个",
+      "，",
+      "结果",
+      "会",
+      "怎样"
+    ]
+  },
+  {
+    "chinese": "”\n\n小明回答：”老师，结果他一定会打我的",
+    "translation": "”\n\nXiao Ming replied: \"Teacher, he will definitely hit me.\"",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "小明",
+      "回答",
+      "：",
+      "”",
+      "老师",
+      "，",
+      "结果",
+      "他",
+      "一定",
+      "会",
+      "打",
+      "我",
+      "的"
+    ]
+  },
+  {
+    "chinese": "昨天我只吃了哥哥的一个苹果，他就打我了",
+    "translation": "Yesterday I only ate one apple from my brother, and he hit me",
+    "tokens": [
+      "昨天",
+      "我",
+      "只",
+      "吃",
+      "了",
+      "哥哥",
+      "的",
+      "一个",
+      "苹果",
+      "，",
+      "他",
+      "就",
+      "打",
+      "我",
+      "了"
+    ]
+  },
+  {
+    "chinese": "所以我们可以不从哥哥那儿拿走苹果吗",
+    "translation": "So can we not take the apples from our brother?",
+    "tokens": [
+      "所以",
+      "我们",
+      "可以",
+      "不",
+      "从",
+      "哥哥",
+      "那儿",
+      "拿走",
+      "苹果",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "”\n\n7岁的小波不喜欢洗脸",
+    "translation": "”\n\n7-year-old Xiaobo doesn't like washing his face",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "7",
+      "岁",
+      "的",
+      "小波",
+      "不",
+      "喜欢",
+      "洗脸"
+    ]
+  },
+  {
+    "chinese": "有一天，老师看见他的脸很脏，就说：”你怎么每天不洗脸",
+    "translation": "One day, the teacher saw his face was dirty and said, \"Why don't you wash your face every day",
+    "tokens": [
+      "有",
+      "一天",
+      "，",
+      "老师",
+      "看见",
+      "他",
+      "的",
+      "脸",
+      "很脏",
+      "，",
+      "就",
+      "说",
+      "：",
+      "”",
+      "你",
+      "怎么",
+      "每天",
+      "不",
+      "洗脸"
+    ]
+  },
+  {
+    "chinese": "吃的早饭渣还在脸上呢",
+    "translation": "The breakfast scraps are still on your face",
+    "tokens": [
+      "吃",
+      "的",
+      "早饭",
+      "渣",
+      "还",
+      "在",
+      "脸上",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "”\n\n小波说：”老师，那你猜猜我吃的是什么",
+    "translation": "”\n\nXiaobo said: \"Teacher, then guess what I eat",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "小波",
+      "说",
+      "：",
+      "”",
+      "老师",
+      "，",
+      "那",
+      "你",
+      "猜猜",
+      "我",
+      "吃",
+      "的",
+      "是",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "”\n\n老师说：”米饭",
+    "translation": "”\n\nThe teacher said: \"Rice",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "老师",
+      "说",
+      "：",
+      "”",
+      "米饭"
+    ]
+  },
+  {
+    "chinese": "”\n\n小波说：”老师，你猜错了，那是昨天吃的",
+    "translation": "”\n\nXiaobo said: \"Teacher, you guessed it wrong, that was eaten yesterday",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "小波",
+      "说",
+      "：",
+      "”",
+      "老师",
+      "，",
+      "你",
+      "猜",
+      "错",
+      "了",
+      "，",
+      "那",
+      "是",
+      "昨天",
+      "吃",
+      "的"
+    ]
+  },
+  {
+    "chinese": "”\n\n爸爸买了一个西瓜，儿子叫来了两个小朋友一起吃，一个说：”我要二分之一",
+    "translation": "”\n\nDad bought a watermelon, and his son called two children to eat together. One said, \"I want one-half.\"",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "爸爸",
+      "买",
+      "了",
+      "一个",
+      "西瓜",
+      "，",
+      "儿子",
+      "叫",
+      "来",
+      "了",
+      "两个",
+      "小朋友",
+      "一起",
+      "吃",
+      "，",
+      "一个",
+      "说",
+      "：",
+      "”",
+      "我要",
+      "二分之一"
+    ]
+  },
+  {
+    "chinese": "”\n\n另一个说：”我要三分之一",
+    "translation": "”\n\nAnother said: \"I want one-third",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "另",
+      "一个",
+      "说",
+      "：",
+      "”",
+      "我要",
+      "三分之一"
+    ]
+  },
+  {
+    "chinese": "”\n\n儿子最后说：”这个西瓜是我爸爸买的，我就多吃一点儿，我要百分之一",
+    "translation": "”\n\nMy son finally said: \"This watermelon was bought by my father, so I will eat more, I want one percent.\"",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "儿子",
+      "最后",
+      "说",
+      "：",
+      "”",
+      "这个",
+      "西瓜",
+      "是",
+      "我",
+      "爸爸",
+      "买",
+      "的",
+      "，",
+      "我",
+      "就",
+      "多",
+      "吃",
+      "一点儿",
+      "，",
+      "我要",
+      "百分之一"
+    ]
+  },
+  {
+    "chinese": "”\n\n有一个人去买牛奶，小贩说：”三元一杯，十元三杯",
+    "translation": "”\n\nA man went to buy milk, and the vendor said: \"Three yuan per cup, ten yuan three cups.\"",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "有",
+      "一个",
+      "人去",
+      "买",
+      "牛奶",
+      "，",
+      "小贩",
+      "说",
+      "：",
+      "”",
+      "三元",
+      "一杯",
+      "，",
+      "十元",
+      "三杯"
+    ]
+  },
+  {
+    "chinese": "”\n\n他拿三块钱买了一杯，像这样买了三次，然后对小贩说：”你看，我拿九块钱就买了三杯",
+    "translation": "”\n\nHe bought a cup with three dollars, bought it like this three times, and then said to the vendor, \"Look, I bought three cups with nine dollars.",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "他",
+      "拿",
+      "三块",
+      "钱",
+      "买",
+      "了",
+      "一杯",
+      "，",
+      "像",
+      "这样",
+      "买",
+      "了",
+      "三次",
+      "，",
+      "然后",
+      "对",
+      "小贩",
+      "说",
+      "：",
+      "”",
+      "你",
+      "看",
+      "，",
+      "我",
+      "拿",
+      "九块",
+      "钱",
+      "就",
+      "买",
+      "了",
+      "三杯"
+    ]
+  },
+  {
+    "chinese": "”\n\n小贩说：”我这么做，每次都能卖出三杯",
+    "translation": "”\n\nThe vendor said: \"I can sell three cups every time I do this.",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "小贩",
+      "说",
+      "：",
+      "”",
+      "我",
+      "这么",
+      "做",
+      "，",
+      "每次",
+      "都",
+      "能",
+      "卖出",
+      "三杯"
+    ]
+  },
+  {
+    "chinese": "”\n\n有一个小女孩在路边哭，警察过来问：”好孩子，怎么了",
+    "translation": "”\n\nA little girl cried on the side of the road, and the police came over and asked, \"Good boy, what's wrong.\"",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "有",
+      "一个",
+      "小女孩",
+      "在",
+      "路边",
+      "哭",
+      "，",
+      "警察",
+      "过来",
+      "问",
+      "：",
+      "”",
+      "好孩子",
+      "，",
+      "怎么",
+      "了"
+    ]
+  },
+  {
+    "chinese": "”\n\n小女孩哭着说：”我想回家，但是我不知道回家的路了",
+    "translation": "”\n\nThe little girl cried and said, \"I want to go home, but I don't know the way home.\"",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "小女孩",
+      "哭",
+      "着",
+      "说",
+      "：",
+      "”",
+      "我",
+      "想",
+      "回家",
+      "，",
+      "但是",
+      "我",
+      "不",
+      "知道",
+      "回家",
+      "的",
+      "路",
+      "了"
+    ]
+  },
+  {
+    "chinese": "”\n\n警察问：”你爸爸叫什么",
+    "translation": "”\n\nThe police asked: \"What's your father's name",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "警察",
+      "问",
+      "：",
+      "”",
+      "你",
+      "爸爸",
+      "叫",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "”\n\n小女孩说：”亲爱的",
+    "translation": "”\n\nThe little girl said: \"Dear,",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "小女孩",
+      "说",
+      "：",
+      "”",
+      "亲爱",
+      "的"
+    ]
+  },
+  {
+    "chinese": "”\n\n警察问：”你妈妈叫什么",
+    "translation": "”\n\nThe police asked: \"What's your mother's name",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "警察",
+      "问",
+      "：",
+      "”",
+      "你",
+      "妈妈",
+      "叫",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "”\n\n小女孩说：”宝贝",
+    "translation": "”\n\nThe little girl said: \"Baby",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "小女孩",
+      "说",
+      "：",
+      "”",
+      "宝贝"
+    ]
+  },
+  {
+    "chinese": "”\n\n星期六，妈妈和儿子在家看电视",
+    "translation": "”\n\nMom and son watch TV at home on Saturday",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "星期六",
+      "，",
+      "妈妈",
+      "和",
+      "儿子",
+      "在家",
+      "看电视"
+    ]
+  },
+  {
+    "chinese": "妈妈说：”儿子，你很喜欢玩水，是不是",
+    "translation": "Mom said: \"Son, you like playing with water very much, don't you?",
+    "tokens": [
+      "妈妈",
+      "说",
+      "：",
+      "”",
+      "儿子",
+      "，",
+      "你",
+      "很",
+      "喜欢",
+      "玩水",
+      "，",
+      "是不是"
+    ]
+  },
+  {
+    "chinese": "”\n\n五岁的儿子以为妈妈要带他去游泳池玩，高兴地说：”是的，妈妈",
+    "translation": "”\n\nThe five-year-old son thought his mother wanted to take him to the swimming pool and said happily: \"Yes, mom.\"",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "五岁",
+      "的",
+      "儿子",
+      "以为",
+      "妈妈",
+      "要",
+      "带",
+      "他",
+      "去",
+      "游泳池",
+      "玩",
+      "，",
+      "高兴",
+      "地说",
+      "：",
+      "”",
+      "是",
+      "的",
+      "，",
+      "妈妈"
+    ]
+  },
+  {
+    "chinese": "”\n\n妈妈说：”那你一定也喜欢洗碗，今天你洗碗，怎么样",
+    "translation": "”\n\nMom said: \"Then you must also like washing dishes. Today you do it, how about it",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "妈妈",
+      "说",
+      "：",
+      "”",
+      "那",
+      "你",
+      "一定",
+      "也",
+      "喜欢",
+      "洗碗",
+      "，",
+      "今天",
+      "你",
+      "洗碗",
+      "，",
+      "怎么样"
+    ]
+  },
+  {
+    "chinese": "”\n\n星期六，爸爸带着小儿子爬山，他们花了3个小时爬到了山顶",
+    "translation": "”\n\nOn Saturday, my father took his youngest son to climb the mountain, and they spent 3 hours climbing to the top of the mountain.",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "星期六",
+      "，",
+      "爸爸",
+      "带",
+      "着",
+      "小儿子",
+      "爬山",
+      "，",
+      "他们",
+      "花",
+      "了",
+      "3",
+      "个",
+      "小时",
+      "爬",
+      "到",
+      "了",
+      "山顶"
+    ]
+  },
+  {
+    "chinese": "爸爸说：”看，山下的景色多好",
+    "translation": "Dad said: \"Look, how beautiful the scenery is at the foot of the mountain",
+    "tokens": [
+      "爸爸",
+      "说",
+      "：",
+      "”",
+      "看",
+      "，",
+      "山下",
+      "的",
+      "景色",
+      "多好"
+    ]
+  },
+  {
+    "chinese": "”\n\n儿子说：”爸爸，山下的景色那么好，我们为什么要花那么多时间爬上来呢",
+    "translation": "”\n\nMy son said: \"Dad, the scenery at the foot of the mountain is so good, why do we spend so much time climbing up?",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "儿子",
+      "说",
+      "：",
+      "”",
+      "爸爸",
+      "，",
+      "山下",
+      "的",
+      "景色",
+      "那么",
+      "好",
+      "，",
+      "我们",
+      "为什么",
+      "要花",
+      "那么",
+      "多",
+      "时间",
+      "爬上来",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "”\n\n老师说：”我们学校从下学期开始，用英语上课",
+    "translation": "”\n\nThe teacher said: \"Our school will teach in English starting from the next semester.\"",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "老师",
+      "说",
+      "：",
+      "”",
+      "我们",
+      "学校",
+      "从下",
+      "学期开始",
+      "，",
+      "用",
+      "英语",
+      "上课"
+    ]
+  },
+  {
+    "chinese": "”\n\n学生说：”我们会听不懂的",
+    "translation": "”\n\nThe student said: \"We won't understand.\"",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "学生",
+      "说",
+      "：",
+      "”",
+      "我们",
+      "会",
+      "听不懂",
+      "的"
+    ]
+  },
+  {
+    "chinese": "”\n\n老师说：”学英语就是要多听,听多了就会了",
+    "translation": "”\n\nThe teacher said: \"Learning English means listening more, and you will be able to listen more.",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "老师",
+      "说",
+      "：",
+      "”",
+      "学",
+      "英语",
+      "就是",
+      "要",
+      "多",
+      "听",
+      ",",
+      "听",
+      "多",
+      "了",
+      "就",
+      "会",
+      "了"
+    ]
+  },
+  {
+    "chinese": "”\n\n学生说：”我每天听家里的小狗叫，但是一直不知道它在说什么",
+    "translation": "”\n\nThe student said: \"I listen to the barking of the puppy at home every day, but I don't know what it is saying.",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "学生",
+      "说",
+      "：",
+      "”",
+      "我",
+      "每天",
+      "听",
+      "家里",
+      "的",
+      "小狗",
+      "叫",
+      "，",
+      "但是",
+      "一直",
+      "不",
+      "知道",
+      "它",
+      "在",
+      "说",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "”\n\n妈妈：你怎么啦",
+    "translation": "”\n\nMom: What's wrong with you",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "妈妈",
+      "：",
+      "你",
+      "怎么",
+      "啦"
+    ]
+  },
+  {
+    "chinese": "孩子：妈妈，我累了……口也很渴",
+    "translation": "Child: Mom, I'm tired... I'm thirsty",
+    "tokens": [
+      "孩子",
+      "：",
+      "妈妈",
+      "，",
+      "我累",
+      "了",
+      "…",
+      "…",
+      "口",
+      "也",
+      "很渴"
+    ]
+  },
+  {
+    "chinese": "妈妈：坐在这儿吧",
+    "translation": "Mom: Sit here",
+    "tokens": [
+      "妈妈",
+      "：",
+      "坐在",
+      "这儿",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "你现在怎么样",
+    "translation": "How are you now",
+    "tokens": [
+      "你",
+      "现在",
+      "怎么样"
+    ]
+  },
+  {
+    "chinese": "孩子：好一点",
+    "translation": "Child: Better",
+    "tokens": [
+      "孩子",
+      "：",
+      "好",
+      "一点"
+    ]
+  },
+  {
+    "chinese": "妈妈：看",
+    "translation": "Mom: Look",
+    "tokens": [
+      "妈妈",
+      "：",
+      "看"
+    ]
+  },
+  {
+    "chinese": "那有可乐",
+    "translation": "That's Coke",
+    "tokens": [
+      "那有",
+      "可乐"
+    ]
+  },
+  {
+    "chinese": "我去买",
+    "translation": "I'll buy it",
+    "tokens": [
+      "我",
+      "去",
+      "买"
+    ]
+  },
+  {
+    "chinese": "妈妈：给你喝",
+    "translation": "Mom: I'll give you a drink",
+    "tokens": [
+      "妈妈",
+      "：",
+      "给",
+      "你",
+      "喝"
+    ]
+  },
+  {
+    "chinese": "孩子：谢谢，妈妈",
+    "translation": "Child: Thank you, mom",
+    "tokens": [
+      "孩子",
+      "：",
+      "谢谢",
+      "，",
+      "妈妈"
+    ]
+  },
+  {
+    "chinese": "真好喝",
+    "translation": "Very delicious",
+    "tokens": [
+      "真",
+      "好喝"
+    ]
+  },
+  {
+    "chinese": "妈妈：你现在好了吗",
+    "translation": "Mom: Are you doing well now",
+    "tokens": [
+      "妈妈",
+      "：",
+      "你",
+      "现在",
+      "好了吗"
+    ]
+  },
+  {
+    "chinese": "孩子：是的，现在好了，谢谢妈妈",
+    "translation": "Child: Yes, now it's OK, thank you mom",
+    "tokens": [
+      "孩子",
+      "：",
+      "是",
+      "的",
+      "，",
+      "现在",
+      "好",
+      "了",
+      "，",
+      "谢谢",
+      "妈妈"
+    ]
+  },
+  {
+    "chinese": "有一天，女儿在朋友明明家玩",
+    "translation": "One day, my daughter was having fun at my friend Mingming's house",
+    "tokens": [
+      "有",
+      "一天",
+      "，",
+      "女儿",
+      "在",
+      "朋友",
+      "明明",
+      "家",
+      "玩"
+    ]
+  },
+  {
+    "chinese": "回家后，她对妈妈说：“妈妈，明明家一定很穷",
+    "translation": "After returning home, she said to her mother: \"Mom, the family must be very poor.",
+    "tokens": [
+      "回家",
+      "后",
+      "，",
+      "她",
+      "对",
+      "妈妈",
+      "说",
+      "：",
+      "“",
+      "妈妈",
+      "，",
+      "明明",
+      "家",
+      "一定",
+      "很穷"
+    ]
+  },
+  {
+    "chinese": "”\n\n妈妈问：“你怎么知道",
+    "translation": "”\n\nMom asked: \"How did you know",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "妈妈",
+      "问",
+      "：",
+      "“",
+      "你",
+      "怎么",
+      "知道"
+    ]
+  },
+  {
+    "chinese": "”\n\n女儿说：“今天明明只是吃下了一块钱，他的爸爸妈妈就都很紧张",
+    "translation": "”\n\nThe daughter said: \"It's obvious that he only ate one dollar today, but his parents are very nervous.",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "女儿",
+      "说",
+      "：",
+      "“",
+      "今天",
+      "明明",
+      "只是",
+      "吃",
+      "下",
+      "了",
+      "一块钱",
+      "，",
+      "他",
+      "的",
+      "爸爸妈妈",
+      "就",
+      "都",
+      "很",
+      "紧张"
+    ]
+  },
+  {
+    "chinese": "”\n\n三年级有一个非常聪明的学生，但是他很爱玩，不喜欢做作业，也不喜欢听课",
+    "translation": "”\n\nThere is a very smart student in the third grade, but he loves to play, doesn't like doing homework, and doesn't like to listen to classes.",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "三年级",
+      "有",
+      "一个",
+      "非常",
+      "聪明",
+      "的",
+      "学生",
+      "，",
+      "但是",
+      "他",
+      "很",
+      "爱玩",
+      "，",
+      "不",
+      "喜欢",
+      "做作业",
+      "，",
+      "也",
+      "不",
+      "喜欢",
+      "听课"
+    ]
+  },
+  {
+    "chinese": "有一天，他对学校的老师说：“我懂的东西已经很多了，所以我不想读书了",
+    "translation": "One day, he said to the teacher at the school: \"I already know a lot, so I don't want to study anymore.\"",
+    "tokens": [
+      "有",
+      "一天",
+      "，",
+      "他",
+      "对",
+      "学校",
+      "的",
+      "老师",
+      "说",
+      "：",
+      "“",
+      "我",
+      "懂",
+      "的",
+      "东西",
+      "已经",
+      "很多",
+      "了",
+      "，",
+      "所以",
+      "我",
+      "不想",
+      "读书",
+      "了"
+    ]
+  },
+  {
+    "chinese": "”\n\n老师问：“那你想做什么呢",
+    "translation": "”\n\nThe teacher asked, \"What do you want to do?\"",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "老师",
+      "问",
+      "：",
+      "“",
+      "那",
+      "你",
+      "想",
+      "做",
+      "什么",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "”\n\n学生说：“教二年级",
+    "translation": "”\n\nThe student said: \"Teaching for the second grade",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "学生",
+      "说",
+      "：",
+      "“",
+      "教",
+      "二年级"
+    ]
+  },
+  {
+    "chinese": "A：喂",
+    "translation": "A: Hello",
+    "tokens": [
+      "A",
+      "：",
+      "喂"
+    ]
+  },
+  {
+    "chinese": "你在哪",
+    "translation": "Where are you",
+    "tokens": [
+      "你",
+      "在",
+      "哪"
+    ]
+  },
+  {
+    "chinese": "你没带你的书",
+    "translation": "You didn't bring your book",
+    "tokens": [
+      "你",
+      "没带",
+      "你",
+      "的",
+      "书"
+    ]
+  },
+  {
+    "chinese": "B：什么",
+    "translation": "B: What",
+    "tokens": [
+      "B",
+      "：",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "你是谁",
+    "translation": "Who are you",
+    "tokens": [
+      "你",
+      "是",
+      "谁"
+    ]
+  },
+  {
+    "chinese": "A：我是你妈",
+    "translation": "A: I am your mother",
+    "tokens": [
+      "A",
+      "：",
+      "我",
+      "是",
+      "你",
+      "妈"
+    ]
+  },
+  {
+    "chinese": "我看见你的书在家",
+    "translation": "I saw your book at home",
+    "tokens": [
+      "我",
+      "看见",
+      "你",
+      "的",
+      "书",
+      "在家"
+    ]
+  },
+  {
+    "chinese": "你忘了，是吗",
+    "translation": "You forgot, did you",
+    "tokens": [
+      "你",
+      "忘",
+      "了",
+      "，",
+      "是",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "B：妈妈",
+    "translation": "B: Mom",
+    "tokens": [
+      "B",
+      "：",
+      "妈妈"
+    ]
+  },
+  {
+    "chinese": "对，我的书在家，今天不用带书",
+    "translation": "Yes, my books are at home, so I don't need to bring books today",
+    "tokens": [
+      "对",
+      "，",
+      "我",
+      "的",
+      "书",
+      "在家",
+      "，",
+      "今天",
+      "不用",
+      "带书"
+    ]
+  },
+  {
+    "chinese": "A：好的，知道了",
+    "translation": "A: OK, I understand",
+    "tokens": [
+      "A",
+      "：",
+      "好",
+      "的",
+      "，",
+      "知道",
+      "了"
+    ]
+  },
+  {
+    "chinese": "今天想吃什么",
+    "translation": "What do you want to eat today",
+    "tokens": [
+      "今天",
+      "想",
+      "吃",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "B：我想吃米饭",
+    "translation": "B: I want to eat rice",
+    "tokens": [
+      "B",
+      "：",
+      "我",
+      "想",
+      "吃",
+      "米饭"
+    ]
+  },
+  {
+    "chinese": "A：好的，吃米饭",
+    "translation": "A: OK, eat rice",
+    "tokens": [
+      "A",
+      "：",
+      "好",
+      "的",
+      "，",
+      "吃",
+      "米饭"
+    ]
+  },
+  {
+    "chinese": "再见",
+    "translation": "goodbye",
+    "tokens": [
+      "再见"
+    ]
+  },
+  {
+    "chinese": "B：再见",
+    "translation": "B: Goodbye",
+    "tokens": [
+      "B",
+      "：",
+      "再见"
+    ]
+  },
+  {
+    "chinese": "星期日，学校组织春游,每人要交一百元,儿子回家说:“妈妈,我不去春游了,太贵了",
+    "translation": "On Sunday, the school organized a spring outing, and each person had to pay 100 yuan. The son went home and said, \"Mom, I won't go on a spring outing, it's too expensive.",
+    "tokens": [
+      "星期日",
+      "，",
+      "学校",
+      "组织",
+      "春游",
+      ",",
+      "每人",
+      "要交",
+      "一百元",
+      ",",
+      "儿子",
+      "回家",
+      "说",
+      ":",
+      "“",
+      "妈妈",
+      ",",
+      "我",
+      "不",
+      "去",
+      "春游",
+      "了",
+      ",",
+      "太贵",
+      "了"
+    ]
+  },
+  {
+    "chinese": "”\n\n但是第二天,儿子一到家,就说:“妈妈,能给我一百块钱吗",
+    "translation": "”\n\nBut the next day, as soon as my son arrived home, he said, \"Mom, can you give me one hundred dollars?",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "但是",
+      "第二天",
+      ",",
+      "儿子",
+      "一到",
+      "家",
+      ",",
+      "就",
+      "说",
+      ":",
+      "“",
+      "妈妈",
+      ",",
+      "能",
+      "给",
+      "我",
+      "一百块",
+      "钱",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "”妈妈问:“为什么",
+    "translation": "\"Mom asked: \"Why",
+    "tokens": [
+      "”",
+      "妈妈",
+      "问",
+      ":",
+      "“",
+      "为什么"
+    ]
+  },
+  {
+    "chinese": "”儿子说:“老师今天说，去春游的同学没有作业",
+    "translation": "\"The son said: \"The teacher said today that the students who went out for the spring outing had no homework",
+    "tokens": [
+      "”",
+      "儿子",
+      "说",
+      ":",
+      "“",
+      "老师",
+      "今天",
+      "说",
+      "，",
+      "去",
+      "春游",
+      "的",
+      "同学",
+      "没有",
+      "作业"
+    ]
+  },
+  {
+    "chinese": "”\n\n今天在公司认识了一个新朋友，他是个中国人",
+    "translation": "”\n\nToday I met a new friend in the company. He is a Chinese",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "今天",
+      "在",
+      "公司",
+      "认识",
+      "了",
+      "一个",
+      "新",
+      "朋友",
+      "，",
+      "他",
+      "是",
+      "个",
+      "中国",
+      "人"
+    ]
+  },
+  {
+    "chinese": "晚上他带我去了一个中国饭馆，这是我第一次吃中国菜，很好吃，我很喜欢",
+    "translation": "He took me to a Chinese restaurant in the evening. This was my first time eating Chinese food. It was delicious and I liked it very much.",
+    "tokens": [
+      "晚上",
+      "他",
+      "带我去",
+      "了",
+      "一个",
+      "中国",
+      "饭馆",
+      "，",
+      "这",
+      "是",
+      "我",
+      "第一次",
+      "吃",
+      "中国",
+      "菜",
+      "，",
+      "很",
+      "好吃",
+      "，",
+      "我",
+      "很",
+      "喜欢"
+    ]
+  },
+  {
+    "chinese": "他说周末可以教我做中国菜，我非常高兴",
+    "translation": "He said he could teach me how to cook Chinese food on weekends, and I was very happy",
+    "tokens": [
+      "他",
+      "说",
+      "周末",
+      "可以",
+      "教",
+      "我",
+      "做",
+      "中国",
+      "菜",
+      "，",
+      "我",
+      "非常高兴"
+    ]
+  },
+  {
+    "chinese": "他是个很好的朋友，但是他的英语不好，我想我可以学习汉语，我们就可以交流更多了",
+    "translation": "He is a good friend, but his English is not good. I think I can learn Chinese and we can communicate more",
+    "tokens": [
+      "他",
+      "是",
+      "个",
+      "很",
+      "好",
+      "的",
+      "朋友",
+      "，",
+      "但是",
+      "他",
+      "的",
+      "英语",
+      "不好",
+      "，",
+      "我",
+      "想",
+      "我",
+      "可以",
+      "学习",
+      "汉语",
+      "，",
+      "我们",
+      "就",
+      "可以",
+      "交流",
+      "更",
+      "多",
+      "了"
+    ]
+  },
+  {
+    "chinese": "一个人带着他买的狗到宠物店，说：“我不要这只狗了",
+    "translation": "A man took the dog he bought to the pet store and said, \"I don't want this dog anymore.\"",
+    "tokens": [
+      "一个",
+      "人带",
+      "着",
+      "他",
+      "买",
+      "的",
+      "狗",
+      "到",
+      "宠物店",
+      "，",
+      "说",
+      "：",
+      "“",
+      "我",
+      "不要",
+      "这",
+      "只",
+      "狗",
+      "了"
+    ]
+  },
+  {
+    "chinese": "”\n\n老板说：“这只狗很聪明，你为什么不想要了呢",
+    "translation": "”\n\nThe boss said: \"This dog is very smart, why don't you want it anymore.\"",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "老板",
+      "说",
+      "：",
+      "“",
+      "这",
+      "只",
+      "狗",
+      "很",
+      "聪明",
+      "，",
+      "你",
+      "为什么",
+      "不",
+      "想要",
+      "了",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "”\n\n他说：“我觉得它一点儿也不聪明，昨天学校的作业它做错了很多",
+    "translation": "”\n\nHe said: \"I don't think it's smart at all. I did a lot of mistakes in school yesterday.",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "他",
+      "说",
+      "：",
+      "“",
+      "我",
+      "觉得",
+      "它",
+      "一点儿",
+      "也",
+      "不",
+      "聪明",
+      "，",
+      "昨天",
+      "学校",
+      "的",
+      "作业",
+      "它",
+      "做",
+      "错",
+      "了",
+      "很多"
+    ]
+  },
+  {
+    "chinese": "”\n\n星期日，爸爸妈妈都不在家，只有哥哥和弟弟两个人",
+    "translation": "”\n\nOn Sunday, my parents were not at home, only my brother and younger brother",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "星期日",
+      "，",
+      "爸爸妈妈",
+      "都",
+      "不",
+      "在家",
+      "，",
+      "只有",
+      "哥哥",
+      "和",
+      "弟弟",
+      "两个",
+      "人"
+    ]
+  },
+  {
+    "chinese": "桌子上有一个苹果，弟弟看见了，说：“哥哥，我想吃苹果",
+    "translation": "There was an apple on the table. My younger brother saw it and said, \"Brother, I want to eat apples.\"",
+    "tokens": [
+      "桌子",
+      "上",
+      "有",
+      "一个",
+      "苹果",
+      "，",
+      "弟弟",
+      "看见",
+      "了",
+      "，",
+      "说",
+      "：",
+      "“",
+      "哥哥",
+      "，",
+      "我",
+      "想",
+      "吃",
+      "苹果"
+    ]
+  },
+  {
+    "chinese": "”\n\n哥哥说：“可以啊，但是不知道苹果有没有坏",
+    "translation": "”\n\nMy brother said, \"Yes, but I don't know if Apple is broken.\"",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "哥哥",
+      "说",
+      "：",
+      "“",
+      "可以",
+      "啊",
+      "，",
+      "但是",
+      "不",
+      "知道",
+      "苹果",
+      "有没有",
+      "坏"
+    ]
+  },
+  {
+    "chinese": "我先帮你尝尝",
+    "translation": "I'll try it for you first",
+    "tokens": [
+      "我",
+      "先",
+      "帮",
+      "你",
+      "尝尝"
+    ]
+  },
+  {
+    "chinese": "”说着，哥哥把苹果吃完了",
+    "translation": "\"As he said that, my brother finished the apple",
+    "tokens": [
+      "”",
+      "说",
+      "着",
+      "，",
+      "哥哥",
+      "把",
+      "苹果",
+      "吃",
+      "完",
+      "了"
+    ]
+  },
+  {
+    "chinese": "妈妈带儿子坐公共汽车去学校，谁知第一天就迟到了",
+    "translation": "Mom took her son to school by bus, but she was late on the first day",
+    "tokens": [
+      "妈妈",
+      "带",
+      "儿子",
+      "坐",
+      "公共汽车",
+      "去",
+      "学校",
+      "，",
+      "谁知",
+      "第一天",
+      "就",
+      "迟到",
+      "了"
+    ]
+  },
+  {
+    "chinese": "第二天，儿子一上车就在车里跑了起来",
+    "translation": "The next day, my son ran in the car as soon as he got in.",
+    "tokens": [
+      "第二天",
+      "，",
+      "儿子",
+      "一",
+      "上车",
+      "就",
+      "在",
+      "车里",
+      "跑",
+      "了",
+      "起来"
+    ]
+  },
+  {
+    "chinese": "“你在做什么",
+    "translation": "\"What are you doing",
+    "tokens": [
+      "“",
+      "你",
+      "在",
+      "做",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "快点儿坐下来",
+    "translation": "Sit down quickly",
+    "tokens": [
+      "快点儿",
+      "坐下",
+      "来"
+    ]
+  },
+  {
+    "chinese": "”妈妈说",
+    "translation": "\"Mom said",
+    "tokens": [
+      "”",
+      "妈妈",
+      "说"
+    ]
+  },
+  {
+    "chinese": "“我和车子一起跑，这样就不会迟到了",
+    "translation": "\"I'll run with the car so I won't be late",
+    "tokens": [
+      "“",
+      "我",
+      "和",
+      "车子",
+      "一起",
+      "跑",
+      "，",
+      "这样",
+      "就",
+      "不会",
+      "迟到",
+      "了"
+    ]
+  },
+  {
+    "chinese": "”\n\n妈妈问儿子：“你今年几岁了",
+    "translation": "”\n\nMom asked her son: \"How old are you this year",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "妈妈",
+      "问",
+      "儿子",
+      "：",
+      "“",
+      "你",
+      "今年",
+      "几岁",
+      "了"
+    ]
+  },
+  {
+    "chinese": "”\n\n儿子回答：“我今年三岁了",
+    "translation": "”\n\nMy son replied: \"I am three years old this year",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "儿子",
+      "回答",
+      "：",
+      "“",
+      "我",
+      "今年",
+      "三岁",
+      "了"
+    ]
+  },
+  {
+    "chinese": "”\n\n妈妈又问：“那爸爸几岁了",
+    "translation": "”\n\nMom asked again: \"How old is that dad?",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "妈妈",
+      "又",
+      "问",
+      "：",
+      "“",
+      "那",
+      "爸爸",
+      "几岁",
+      "了"
+    ]
+  },
+  {
+    "chinese": "”\n\n儿子说：“爸爸也三岁",
+    "translation": "”\n\nThe son said, \"Dad is also three years old.\"",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "儿子",
+      "说",
+      "：",
+      "“",
+      "爸爸",
+      "也",
+      "三岁"
+    ]
+  },
+  {
+    "chinese": "”\n\n妈妈很奇怪：“爸爸为什么只有三岁呢",
+    "translation": "”\n\nMom is very surprised: \"Why is Dad only three years old?",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "妈妈",
+      "很",
+      "奇怪",
+      "：",
+      "“",
+      "爸爸",
+      "为什么",
+      "只有",
+      "三岁",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "”\n\n“因为爸爸是在我出生那一天才变成爸爸的",
+    "translation": "”\n\n\"Because my dad became my dad on the day I was born",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "“",
+      "因为",
+      "爸爸",
+      "是",
+      "在",
+      "我",
+      "出生",
+      "那",
+      "一天",
+      "才",
+      "变成",
+      "爸爸",
+      "的"
+    ]
+  },
+  {
+    "chinese": "”\n\n小刚说：“妈妈，爸爸今天打了我两次",
+    "translation": "”\n\nXiaogang said: \"Mom, dad hit me twice today",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "小刚",
+      "说",
+      "：",
+      "“",
+      "妈妈",
+      "，",
+      "爸爸",
+      "今天",
+      "打",
+      "了",
+      "我",
+      "两次"
+    ]
+  },
+  {
+    "chinese": "”\n\n妈妈问：“你做什么了",
+    "translation": "”\n\nMom asked: \"What have you done",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "妈妈",
+      "问",
+      "：",
+      "“",
+      "你",
+      "做",
+      "什么",
+      "了"
+    ]
+  },
+  {
+    "chinese": "”\n\n小刚回答：“第一次是因为我给他看了一张零分的试卷",
+    "translation": "”\n\nXiaogang replied: \"The first time it was because I showed him a zero-point test paper",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "小刚",
+      "回答",
+      "：",
+      "“",
+      "第一次",
+      "是因为",
+      "我",
+      "给",
+      "他",
+      "看",
+      "了",
+      "一张",
+      "零分",
+      "的",
+      "试卷"
+    ]
+  },
+  {
+    "chinese": "”\n\n“那第二次呢",
+    "translation": "”\n\n“What about the second time",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "“",
+      "那",
+      "第二次",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "”妈妈问",
+    "translation": "\"Mom asked",
+    "tokens": [
+      "”",
+      "妈妈",
+      "问"
+    ]
+  },
+  {
+    "chinese": "小刚回答：“我告诉他，那张是他小时候的试卷",
+    "translation": "Xiaogang replied: \"I told him that it was his test paper when he was a child.",
+    "tokens": [
+      "小刚",
+      "回答",
+      "：",
+      "“",
+      "我",
+      "告诉",
+      "他",
+      "，",
+      "那张",
+      "是",
+      "他",
+      "小时候",
+      "的",
+      "试卷"
+    ]
+  },
+  {
+    "chinese": "”\n\n老师对一个学生说：“你来说说这道题怎么做",
+    "translation": "”\n\nThe teacher said to a student: \"Tell me how to do this question",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "老师",
+      "对",
+      "一个",
+      "学生",
+      "说",
+      "：",
+      "“",
+      "你",
+      "来说",
+      "说",
+      "这道题",
+      "怎么",
+      "做"
+    ]
+  },
+  {
+    "chinese": "”\n\n学生说：“我不知道，老师",
+    "translation": "”\n\nThe student said, \"I don't know, teacher",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "学生",
+      "说",
+      "：",
+      "“",
+      "我",
+      "不",
+      "知道",
+      "，",
+      "老师"
+    ]
+  },
+  {
+    "chinese": "”\n\n老师问：“怎么会不知道呢",
+    "translation": "”\n\nThe teacher asked, \"How come I don't know.\"",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "老师",
+      "问",
+      "：",
+      "“",
+      "怎么",
+      "会",
+      "不",
+      "知道",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "从昨天的作业看，你已经会做了",
+    "translation": "Judging from yesterday's homework, you already know how to do it.",
+    "tokens": [
+      "从",
+      "昨天",
+      "的",
+      "作业",
+      "看",
+      "，",
+      "你",
+      "已经",
+      "会",
+      "做",
+      "了"
+    ]
+  },
+  {
+    "chinese": "”\n\n学生说：“我真的不知道，昨天我睡觉的时候，爸爸还没做到这道题呢",
+    "translation": "”\n\nThe student said, \"I really don't know. When I was sleeping yesterday, my father hadn't done this question yet.",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "学生",
+      "说",
+      "：",
+      "“",
+      "我",
+      "真的",
+      "不",
+      "知道",
+      "，",
+      "昨天",
+      "我",
+      "睡觉",
+      "的",
+      "时候",
+      "，",
+      "爸爸",
+      "还",
+      "没",
+      "做到",
+      "这道题",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "”\n\n有一天，妈妈陪着她六岁的女儿学习",
+    "translation": "”\n\nOne day, my mother accompanied her six-year-old daughter to study",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "有",
+      "一天",
+      "，",
+      "妈妈",
+      "陪",
+      "着",
+      "她",
+      "六岁",
+      "的",
+      "女儿",
+      "学习"
+    ]
+  },
+  {
+    "chinese": "女儿突然说：“妈妈，你真幸福，都不用做作业",
+    "translation": "My daughter suddenly said, \"Mom, you are so happy, you don't have to do your homework.\"",
+    "tokens": [
+      "女儿",
+      "突然",
+      "说",
+      "：",
+      "“",
+      "妈妈",
+      "，",
+      "你",
+      "真幸福",
+      "，",
+      "都",
+      "不用",
+      "做作业"
+    ]
+  },
+  {
+    "chinese": "”妈妈回答：“那我帮你写作业，你来检查，好吗",
+    "translation": "\"Mom replied: \"Then I will help you do your homework, you can check it, okay",
+    "tokens": [
+      "”",
+      "妈妈",
+      "回答",
+      "：",
+      "“",
+      "那",
+      "我",
+      "帮",
+      "你",
+      "写",
+      "作业",
+      "，",
+      "你",
+      "来",
+      "检查",
+      "，",
+      "好",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "”女儿高兴地答应了",
+    "translation": "\"The daughter agreed happily",
+    "tokens": [
+      "”",
+      "女儿",
+      "高兴",
+      "地",
+      "答应",
+      "了"
+    ]
+  },
+  {
+    "chinese": "检查作业时，女儿把作业都做了一遍",
+    "translation": "When checking homework, my daughter did all the homework",
+    "tokens": [
+      "检查",
+      "作业",
+      "时",
+      "，",
+      "女儿",
+      "把",
+      "作业",
+      "都",
+      "做",
+      "了",
+      "一遍"
+    ]
+  },
+  {
+    "chinese": "有一天，妈妈和女儿一起洗盘子，爸爸和儿子一起看电视",
+    "translation": "One day, the mother and daughter wash dishes together, and the father and son watch TV together",
+    "tokens": [
+      "有",
+      "一天",
+      "，",
+      "妈妈",
+      "和",
+      "女儿",
+      "一起",
+      "洗",
+      "盘子",
+      "，",
+      "爸爸",
+      "和",
+      "儿子",
+      "一起",
+      "看电视"
+    ]
+  },
+  {
+    "chinese": "突然，他们听见打破盘子的声音",
+    "translation": "Suddenly, they heard the sound of breaking the plate",
+    "tokens": [
+      "突然",
+      "，",
+      "他们",
+      "听见",
+      "打破",
+      "盘子",
+      "的",
+      "声音"
+    ]
+  },
+  {
+    "chinese": "儿子看着他父亲，说：“一定是妈妈打破的",
+    "translation": "The son looked at his father and said, \"It must be broken by his mother.\"",
+    "tokens": [
+      "儿子",
+      "看着",
+      "他",
+      "父亲",
+      "，",
+      "说",
+      "：",
+      "“",
+      "一定",
+      "是",
+      "妈妈",
+      "打破",
+      "的"
+    ]
+  },
+  {
+    "chinese": "”爸爸问：“你怎么知道",
+    "translation": "\"Dad asked, \"How do you know",
+    "tokens": [
+      "”",
+      "爸爸",
+      "问",
+      "：",
+      "“",
+      "你",
+      "怎么",
+      "知道"
+    ]
+  },
+  {
+    "chinese": "”儿子回答:“昨天，我打破了一个盘子，妈妈很不高兴",
+    "translation": "\"The son replied: \"Yesterday, I broke a plate and my mother was very unhappy",
+    "tokens": [
+      "”",
+      "儿子",
+      "回答",
+      ":",
+      "“",
+      "昨天",
+      "，",
+      "我",
+      "打破",
+      "了",
+      "一个",
+      "盘子",
+      "，",
+      "妈妈",
+      "很",
+      "不",
+      "高兴"
+    ]
+  },
+  {
+    "chinese": "但是今天妈妈没有骂人",
+    "translation": "But today my mom didn't scold anyone",
+    "tokens": [
+      "但是",
+      "今天",
+      "妈妈",
+      "没有",
+      "骂人"
+    ]
+  },
+  {
+    "chinese": "”\n\n女儿有两个苹果，妈妈问：“给我一个好不好",
+    "translation": "”\n\nMy daughter has two apples, and my mother asked, \"Is it okay to give me one?\"",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "女儿",
+      "有",
+      "两个",
+      "苹果",
+      "，",
+      "妈妈",
+      "问",
+      "：",
+      "“",
+      "给",
+      "我",
+      "一个",
+      "好不好"
+    ]
+  },
+  {
+    "chinese": "”\n\n女儿看着妈妈，把两个苹果都咬了一口",
+    "translation": "”\n\nMy daughter looked at her mother and took a bite of both apples",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "女儿",
+      "看着",
+      "妈妈",
+      "，",
+      "把",
+      "两个",
+      "苹果",
+      "都",
+      "咬了一口"
+    ]
+  },
+  {
+    "chinese": "这时候，妈妈很伤心",
+    "translation": "At this time, my mother was very sad",
+    "tokens": [
+      "这时候",
+      "，",
+      "妈妈",
+      "很",
+      "伤心"
+    ]
+  },
+  {
+    "chinese": "但是女儿吃完后，对妈妈说：“这个甜，给妈妈",
+    "translation": "But after the daughter finished eating, she said to her mother: \"This is sweet, give it to her mother",
+    "tokens": [
+      "但是",
+      "女儿",
+      "吃",
+      "完后",
+      "，",
+      "对",
+      "妈妈",
+      "说",
+      "：",
+      "“",
+      "这个",
+      "甜",
+      "，",
+      "给",
+      "妈妈"
+    ]
+  },
+  {
+    "chinese": "“\n\n小月对正在做饭的妈妈说：“妈妈，今天天气太热了，你能给我一块钱吗",
+    "translation": "“\n\nXiaoyue said to her mother who was cooking: \"Mom, it's too hot today. Can you give me a dollar?",
+    "tokens": [
+      "“",
+      "\n",
+      "\n",
+      "小月",
+      "对",
+      "正在",
+      "做饭",
+      "的",
+      "妈妈",
+      "说",
+      "：",
+      "“",
+      "妈妈",
+      "，",
+      "今天天气",
+      "太热",
+      "了",
+      "，",
+      "你",
+      "能",
+      "给",
+      "我",
+      "一块钱",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "我想给学校外面的先生一块钱",
+    "translation": "I want to give a dollar to the teacher outside the school",
+    "tokens": [
+      "我",
+      "想",
+      "给",
+      "学校",
+      "外面",
+      "的",
+      "先生",
+      "一块钱"
+    ]
+  },
+  {
+    "chinese": "”妈妈很高兴，她觉得小月很有爱心，问：“为什么呢?”小月说：“我想买水果吃，小西瓜一块钱一个",
+    "translation": "\"Mom was very happy. She thought Xiaoyue was very caring and asked, \"Why?\" Xiaoyue said, \"I want to buy fruits to eat, and the small watermelon costs one dollar each",
+    "tokens": [
+      "”",
+      "妈妈",
+      "很",
+      "高兴",
+      "，",
+      "她",
+      "觉得",
+      "小月",
+      "很",
+      "有",
+      "爱心",
+      "，",
+      "问",
+      "：",
+      "“",
+      "为什么",
+      "呢",
+      "?",
+      "”",
+      "小月",
+      "说",
+      "：",
+      "“",
+      "我",
+      "想",
+      "买",
+      "水果",
+      "吃",
+      "，",
+      "小",
+      "西瓜",
+      "一块钱",
+      "一个"
+    ]
+  },
+  {
+    "chinese": "”\n\n我会做很多东西，我最喜欢做菜",
+    "translation": "”\n\nI can cook a lot, and I like cooking the most",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "我会",
+      "做",
+      "很多",
+      "东西",
+      "，",
+      "我",
+      "最",
+      "喜欢",
+      "做菜"
+    ]
+  },
+  {
+    "chinese": "我的朋友、爸爸妈妈都喜欢我做的菜",
+    "translation": "My friends, mom and dad like the dishes I cook",
+    "tokens": [
+      "我",
+      "的",
+      "朋友",
+      "、",
+      "爸爸妈妈",
+      "都",
+      "喜欢",
+      "我",
+      "做",
+      "的",
+      "菜"
+    ]
+  },
+  {
+    "chinese": "他们也都很高兴能吃我做的东西，因为很好吃",
+    "translation": "They were also very happy to eat what I made because it was delicious",
+    "tokens": [
+      "他们",
+      "也",
+      "都",
+      "很",
+      "高兴",
+      "能",
+      "吃",
+      "我",
+      "做",
+      "的",
+      "东西",
+      "，",
+      "因为",
+      "很",
+      "好吃"
+    ]
+  },
+  {
+    "chinese": "有一天，我的好朋友说想学做菜，想请我教他，我同意了",
+    "translation": "One day, my good friend said he wanted to learn cooking and wanted to ask me to teach him, and I agreed.",
+    "tokens": [
+      "有",
+      "一天",
+      "，",
+      "我",
+      "的",
+      "好",
+      "朋友",
+      "说",
+      "想学",
+      "做菜",
+      "，",
+      "想",
+      "请",
+      "我",
+      "教",
+      "他",
+      "，",
+      "我",
+      "同意",
+      "了"
+    ]
+  },
+  {
+    "chinese": "我告诉他怎么做，但是他总是做不好",
+    "translation": "I told him how to do it, but he always couldn't do it well",
+    "tokens": [
+      "我",
+      "告诉",
+      "他",
+      "怎么",
+      "做",
+      "，",
+      "但是",
+      "他",
+      "总是",
+      "做",
+      "不好"
+    ]
+  },
+  {
+    "chinese": "我觉得当老师太难了",
+    "translation": "I think it's too difficult to be a teacher",
+    "tokens": [
+      "我",
+      "觉得",
+      "当",
+      "老师",
+      "太难",
+      "了"
+    ]
+  },
+  {
+    "chinese": "一个朋友告诉我，昨天他看见我的男朋友和一个女人一起坐出租车吃饭",
+    "translation": "A friend told me that yesterday he saw my boyfriend having a taxi with a woman",
+    "tokens": [
+      "一个",
+      "朋友",
+      "告诉",
+      "我",
+      "，",
+      "昨天",
+      "他",
+      "看见",
+      "我",
+      "的",
+      "男朋友",
+      "和",
+      "一个",
+      "女人",
+      "一起",
+      "坐",
+      "出租车",
+      "吃饭"
+    ]
+  },
+  {
+    "chinese": "我说不会的，他说他昨天没有时间吃饭",
+    "translation": "I said no, he said he didn't have time to have dinner yesterday",
+    "tokens": [
+      "我",
+      "说",
+      "不会",
+      "的",
+      "，",
+      "他",
+      "说",
+      "他",
+      "昨天",
+      "没有",
+      "时间",
+      "吃饭"
+    ]
+  },
+  {
+    "chinese": "下班以后，我去他的公司，看见他和一个女人一起坐出租车走了",
+    "translation": "After get off work, I went to his company and saw him taking a taxi with a woman.",
+    "tokens": [
+      "下班",
+      "以后",
+      "，",
+      "我",
+      "去",
+      "他",
+      "的",
+      "公司",
+      "，",
+      "看见",
+      "他",
+      "和",
+      "一个",
+      "女人",
+      "一起",
+      "坐",
+      "出租车",
+      "走",
+      "了"
+    ]
+  },
+  {
+    "chinese": "我打电话问他在哪，他说他今天很忙，在公司工作",
+    "translation": "I called him to ask where he was, and he said he was very busy today and worked in the company",
+    "tokens": [
+      "我",
+      "打电话",
+      "问",
+      "他",
+      "在",
+      "哪",
+      "，",
+      "他",
+      "说",
+      "他",
+      "今天",
+      "很",
+      "忙",
+      "，",
+      "在",
+      "公司",
+      "工作"
+    ]
+  },
+  {
+    "chinese": "我不知道怎么做，你们说呢",
+    "translation": "I don't know how to do it, what do you think",
+    "tokens": [
+      "我",
+      "不",
+      "知道",
+      "怎么",
+      "做",
+      "，",
+      "你们",
+      "说",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "李小姐是我今天认识的朋友",
+    "translation": "Miss Li is a friend I met today",
+    "tokens": [
+      "李小姐",
+      "是",
+      "我",
+      "今天",
+      "认识",
+      "的",
+      "朋友"
+    ]
+  },
+  {
+    "chinese": "我今天在咖啡店吃东西，但是没钱",
+    "translation": "I ate in a coffee shop today, but I didn't have money",
+    "tokens": [
+      "我",
+      "今天",
+      "在",
+      "咖啡店",
+      "吃",
+      "东西",
+      "，",
+      "但是",
+      "没",
+      "钱"
+    ]
+  },
+  {
+    "chinese": "李小姐说可以借给我，我有点儿不好意思，但是我很想吃东西，就借了她的钱",
+    "translation": "Miss Li said she could lend it to me. I was a little embarrassed, but I wanted to eat, so I borrowed her money.",
+    "tokens": [
+      "李小姐",
+      "说",
+      "可以",
+      "借给",
+      "我",
+      "，",
+      "我",
+      "有点儿",
+      "不好意思",
+      "，",
+      "但是",
+      "我",
+      "很",
+      "想",
+      "吃",
+      "东西",
+      "，",
+      "就",
+      "借",
+      "了",
+      "她",
+      "的",
+      "钱"
+    ]
+  },
+  {
+    "chinese": "我们一起吃饭，发现我的妈妈和她的爸爸是同学",
+    "translation": "We had a meal together and found that my mother and her dad were classmates",
+    "tokens": [
+      "我们",
+      "一起",
+      "吃饭",
+      "，",
+      "发现",
+      "我",
+      "的",
+      "妈妈",
+      "和",
+      "她",
+      "的",
+      "爸爸",
+      "是",
+      "同学"
+    ]
+  },
+  {
+    "chinese": "我们都很高兴，想明天也一起吃东西",
+    "translation": "We are all very happy and want to eat together tomorrow",
+    "tokens": [
+      "我们",
+      "都",
+      "很",
+      "高兴",
+      "，",
+      "想",
+      "明天",
+      "也",
+      "一起",
+      "吃",
+      "东西"
+    ]
+  },
+  {
+    "chinese": "我在一九九二年二月二十九日出生，那一天是我的生日",
+    "translation": "I was born on February 29, 1992, and that day was my birthday",
+    "tokens": [
+      "我",
+      "在",
+      "一九九二年",
+      "二月",
+      "二十九日",
+      "出生",
+      "，",
+      "那",
+      "一天",
+      "是",
+      "我",
+      "的",
+      "生日"
+    ]
+  },
+  {
+    "chinese": "我不喜欢这一天，因为这一天很不一样",
+    "translation": "I don't like this day because it's very different",
+    "tokens": [
+      "我",
+      "不",
+      "喜欢",
+      "这",
+      "一天",
+      "，",
+      "因为",
+      "这",
+      "一天",
+      "很",
+      "不",
+      "一样"
+    ]
+  },
+  {
+    "chinese": "一九九二年有三百六十六天，不是三百六十五天，多的那一天是二月的二十九日",
+    "translation": "There were 366 days in 1992, not 365 days, and the more day was February 29th.",
+    "tokens": [
+      "一九九二年",
+      "有",
+      "三百",
+      "六十六天",
+      "，",
+      "不是",
+      "三百六十五天",
+      "，",
+      "多",
+      "的",
+      "那",
+      "一天",
+      "是",
+      "二月",
+      "的",
+      "二十九日"
+    ]
+  },
+  {
+    "chinese": "这一年也叫“闰年”",
+    "translation": "This year is also called \"leap year\"",
+    "tokens": [
+      "这",
+      "一年",
+      "也",
+      "叫",
+      "“",
+      "闰年",
+      "”"
+    ]
+  },
+  {
+    "chinese": "你知道吗",
+    "translation": "Do you know",
+    "tokens": [
+      "你",
+      "知道",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "你们每一年都可以过生日，我每四年才能过生日",
+    "translation": "You can celebrate your birthday every year, I can celebrate your birthday every four years",
+    "tokens": [
+      "你们",
+      "每",
+      "一年",
+      "都",
+      "可以",
+      "过生日",
+      "，",
+      "我",
+      "每",
+      "四年",
+      "才能",
+      "过生日"
+    ]
+  },
+  {
+    "chinese": "明天是妈妈的生日，她今年55岁",
+    "translation": "Tomorrow is my mother's birthday, she is 55 years old this year",
+    "tokens": [
+      "明天",
+      "是",
+      "妈妈",
+      "的",
+      "生日",
+      "，",
+      "她",
+      "今年",
+      "55",
+      "岁"
+    ]
+  },
+  {
+    "chinese": "她有一个姐姐和两个弟弟",
+    "translation": "She has an older sister and two younger brothers",
+    "tokens": [
+      "她",
+      "有",
+      "一个",
+      "姐姐",
+      "和",
+      "两个",
+      "弟弟"
+    ]
+  },
+  {
+    "chinese": "她不喜欢喝咖啡，但是很喜欢吃水果",
+    "translation": "She doesn't like coffee, but she likes to eat fruit",
+    "tokens": [
+      "她",
+      "不",
+      "喜欢",
+      "喝咖啡",
+      "，",
+      "但是",
+      "很",
+      "喜欢",
+      "吃水果"
+    ]
+  },
+  {
+    "chinese": "她在医院工作，是一个医生，每天都很忙，工作的时间很长",
+    "translation": "She works in the hospital and is a doctor. She is very busy every day and works very long.",
+    "tokens": [
+      "她",
+      "在",
+      "医院",
+      "工作",
+      "，",
+      "是",
+      "一个",
+      "医生",
+      "，",
+      "每天",
+      "都",
+      "很",
+      "忙",
+      "，",
+      "工作",
+      "的",
+      "时间",
+      "很长"
+    ]
+  },
+  {
+    "chinese": "有时候她下午6点下班，有时候晚上10点下班",
+    "translation": "Sometimes she gets off work at 6 pm, sometimes she gets off work at 10 pm",
+    "tokens": [
+      "有时候",
+      "她",
+      "下午",
+      "6",
+      "点",
+      "下班",
+      "，",
+      "有时候",
+      "晚上",
+      "10",
+      "点",
+      "下班"
+    ]
+  },
+  {
+    "chinese": "她也喜欢买东西，所以她非常喜欢去商店",
+    "translation": "She also likes to buy things, so she really likes to go to the store",
+    "tokens": [
+      "她",
+      "也",
+      "喜欢",
+      "买",
+      "东西",
+      "，",
+      "所以",
+      "她",
+      "非常",
+      "喜欢",
+      "去",
+      "商店"
+    ]
+  },
+  {
+    "chinese": "这是我的爸爸，今年55岁",
+    "translation": "This is my dad, 55 years old this year",
+    "tokens": [
+      "这",
+      "是",
+      "我",
+      "的",
+      "爸爸",
+      "，",
+      "今年",
+      "55",
+      "岁"
+    ]
+  },
+  {
+    "chinese": "他是一个老师，在四川的大学工作，星期一到星期五都要上班",
+    "translation": "He is a teacher who works in a university in Sichuan and works from Monday to Friday.",
+    "tokens": [
+      "他",
+      "是",
+      "一个",
+      "老师",
+      "，",
+      "在",
+      "四川",
+      "的",
+      "大学",
+      "工作",
+      "，",
+      "星期一",
+      "到",
+      "星期五",
+      "都",
+      "要",
+      "上班"
+    ]
+  },
+  {
+    "chinese": "他早上八点去学校，下午六点回家，吃饭以后喜欢喝茶，晚上十点睡觉",
+    "translation": "He went to school at 8 a.m., went home at 6 p.m., after dinner, he liked to drink tea, and went to bed at 10 p.m.",
+    "tokens": [
+      "他",
+      "早上",
+      "八点",
+      "去",
+      "学校",
+      "，",
+      "下午",
+      "六点",
+      "回家",
+      "，",
+      "吃饭",
+      "以后",
+      "喜欢",
+      "喝茶",
+      "，",
+      "晚上",
+      "十点",
+      "睡觉"
+    ]
+  },
+  {
+    "chinese": "这是他的一天",
+    "translation": "This is his day",
+    "tokens": [
+      "这",
+      "是",
+      "他",
+      "的",
+      "一天"
+    ]
+  },
+  {
+    "chinese": "儿子想去学校玩",
+    "translation": "My son wants to go to school",
+    "tokens": [
+      "儿子",
+      "想",
+      "去",
+      "学校",
+      "玩"
+    ]
+  },
+  {
+    "chinese": "今天很热，车里开着空调，我们喝着可乐，到了学校，儿子对爸爸说：你自己去玩吧，我和妈妈在车里等你",
+    "translation": "It was very hot today, the car was running on the air conditioner, we were drinking Coke, and when we arrived at school, my son said to my father: Go and play by yourself, my mother and I are waiting for you in the car",
+    "tokens": [
+      "今天",
+      "很",
+      "热",
+      "，",
+      "车里",
+      "开着",
+      "空调",
+      "，",
+      "我们",
+      "喝",
+      "着",
+      "可乐",
+      "，",
+      "到",
+      "了",
+      "学校",
+      "，",
+      "儿子",
+      "对",
+      "爸爸",
+      "说",
+      "：",
+      "你",
+      "自己",
+      "去",
+      "玩吧",
+      "，",
+      "我",
+      "和",
+      "妈妈",
+      "在",
+      "车里",
+      "等",
+      "你"
+    ]
+  },
+  {
+    "chinese": "四是四，\n\n十是十，\n\n十四是十四，\n\n四十是四十，\n\n四和十、十和四，\n\n四十和四十，\n\n十四和十四",
+    "translation": "Four is four,\n\nTen is ten,\n\nFourteen is fourteen.\n\nForty is forty,\n\nFour and ten, ten and four,\n\nForty and forty,\n\nFourteen and fourteen",
+    "tokens": [
+      "四是",
+      "四",
+      "，",
+      "\n",
+      "\n",
+      "十是",
+      "十",
+      "，",
+      "\n",
+      "\n",
+      "十四",
+      "是",
+      "十四",
+      "，",
+      "\n",
+      "\n",
+      "四十",
+      "是",
+      "四十",
+      "，",
+      "\n",
+      "\n",
+      "四和十",
+      "、",
+      "十和四",
+      "，",
+      "\n",
+      "\n",
+      "四十",
+      "和",
+      "四十",
+      "，",
+      "\n",
+      "\n",
+      "十四",
+      "和",
+      "十四"
+    ]
+  },
+  {
+    "chinese": "请你来，试一试",
+    "translation": "Please come and give it a try",
+    "tokens": [
+      "请",
+      "你",
+      "来",
+      "，",
+      "试一试"
+    ]
+  },
+  {
+    "chinese": "我们都知道，一年有12个月，365天",
+    "translation": "We all know that there are 12 months and 365 days a year",
+    "tokens": [
+      "我们",
+      "都",
+      "知道",
+      "，",
+      "一年",
+      "有",
+      "12",
+      "个",
+      "月",
+      "，",
+      "365",
+      "天"
+    ]
+  },
+  {
+    "chinese": "有365天的这一年，我们叫“平年”",
+    "translation": "This year has 365 days, we call it \"Ping Nian\"",
+    "tokens": [
+      "有",
+      "365",
+      "天",
+      "的",
+      "这",
+      "一年",
+      "，",
+      "我们",
+      "叫",
+      "“",
+      "平",
+      "年",
+      "”"
+    ]
+  },
+  {
+    "chinese": "有时候，一年有366天，这一年叫“闰年”",
+    "translation": "Sometimes, there are 366 days a year, and this year is called \"leap year\"",
+    "tokens": [
+      "有时候",
+      "，",
+      "一年",
+      "有",
+      "366",
+      "天",
+      "，",
+      "这",
+      "一年",
+      "叫",
+      "“",
+      "闰年",
+      "”"
+    ]
+  },
+  {
+    "chinese": "每四年有一个闰年",
+    "translation": "There is a leap year every four years",
+    "tokens": [
+      "每",
+      "四年",
+      "有",
+      "一个",
+      "闰年"
+    ]
+  },
+  {
+    "chinese": "闰年的二月有二十九天，平年的二月有二十八天",
+    "translation": "February in a leap year has twenty-nine days, and February in a common year has twenty-eight days.",
+    "tokens": [
+      "闰年",
+      "的",
+      "二月",
+      "有",
+      "二十九",
+      "天",
+      "，",
+      "平年",
+      "的",
+      "二月",
+      "有",
+      "二十八",
+      "天"
+    ]
+  },
+  {
+    "chinese": "我今天7点起床吃东西，9点去学校上课",
+    "translation": "I get up at 7 o'clock today and go to school to attend classes at 9 o'clock today",
+    "tokens": [
+      "我",
+      "今天",
+      "7",
+      "点",
+      "起床",
+      "吃",
+      "东西",
+      "，",
+      "9",
+      "点去",
+      "学校",
+      "上课"
+    ]
+  },
+  {
+    "chinese": "我的汉语不好，下午汉语老师帮助我学习，我们一起喝咖啡学习汉语",
+    "translation": "My Chinese is not good, so the Chinese teacher helped me study in the afternoon. Let’s drink coffee together to learn Chinese",
+    "tokens": [
+      "我",
+      "的",
+      "汉语",
+      "不好",
+      "，",
+      "下午",
+      "汉语",
+      "老师",
+      "帮助",
+      "我",
+      "学习",
+      "，",
+      "我们",
+      "一起",
+      "喝咖啡",
+      "学习",
+      "汉语"
+    ]
+  },
+  {
+    "chinese": "很谢谢我的汉语老师，现在都懂了",
+    "translation": "Thank you very much for my Chinese teacher, I understand it now",
+    "tokens": [
+      "很",
+      "谢谢",
+      "我",
+      "的",
+      "汉语",
+      "老师",
+      "，",
+      "现在",
+      "都",
+      "懂",
+      "了"
+    ]
+  },
+  {
+    "chinese": "晚上6点，我回家和爸爸妈妈吃饭",
+    "translation": "At 6 pm, I went home to have dinner with my parents",
+    "tokens": [
+      "晚上",
+      "6",
+      "点",
+      "，",
+      "我",
+      "回家",
+      "和",
+      "爸爸妈妈",
+      "吃饭"
+    ]
+  },
+  {
+    "chinese": "今天不想看书了，睡觉吧",
+    "translation": "I don't want to read books today, go to bed",
+    "tokens": [
+      "今天",
+      "不想",
+      "看书",
+      "了",
+      "，",
+      "睡觉",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "我和我的好朋友都有孩子，我有一个女儿，她有一个儿子",
+    "translation": "My good friend and I have children, I have a daughter, she has a son",
+    "tokens": [
+      "我",
+      "和",
+      "我",
+      "的",
+      "好",
+      "朋友",
+      "都",
+      "有",
+      "孩子",
+      "，",
+      "我",
+      "有",
+      "一个",
+      "女儿",
+      "，",
+      "她",
+      "有",
+      "一个",
+      "儿子"
+    ]
+  },
+  {
+    "chinese": "我的女儿在2017年2月16日星期四出生",
+    "translation": "My daughter was born on Thursday, February 16, 2017",
+    "tokens": [
+      "我",
+      "的",
+      "女儿",
+      "在",
+      "2017",
+      "年",
+      "2",
+      "月",
+      "16",
+      "日",
+      "星期四",
+      "出生"
+    ]
+  },
+  {
+    "chinese": "朋友的儿子生日是6月30日",
+    "translation": "My friend's son's birthday is June 30",
+    "tokens": [
+      "朋友",
+      "的",
+      "儿子",
+      "生日",
+      "是",
+      "6",
+      "月",
+      "30",
+      "日"
+    ]
+  },
+  {
+    "chinese": "他的生日快到了，不知道他想要什么礼物呢",
+    "translation": "His birthday is coming soon, I don't know what gift he wants",
+    "tokens": [
+      "他",
+      "的",
+      "生日",
+      "快到",
+      "了",
+      "，",
+      "不",
+      "知道",
+      "他",
+      "想要",
+      "什么",
+      "礼物",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "我和杨陈是2017年9月在学校认识的，他是我同学",
+    "translation": "Yang Chen and I met at school in September 2017. He is my classmate",
+    "tokens": [
+      "我",
+      "和",
+      "杨",
+      "陈是",
+      "2017",
+      "年",
+      "9",
+      "月",
+      "在",
+      "学校",
+      "认识",
+      "的",
+      "，",
+      "他",
+      "是",
+      "我",
+      "同学"
+    ]
+  },
+  {
+    "chinese": "他每天坐出租车去学校，我走去学校，每天车很多，他常常迟到",
+    "translation": "He takes a taxi to school every day, and I walk to school. There are a lot of cars every day, and he is often late.",
+    "tokens": [
+      "他",
+      "每天",
+      "坐",
+      "出租车",
+      "去",
+      "学校",
+      "，",
+      "我",
+      "走",
+      "去",
+      "学校",
+      "，",
+      "每天",
+      "车",
+      "很多",
+      "，",
+      "他",
+      "常常",
+      "迟到"
+    ]
+  },
+  {
+    "chinese": "今年我们去上海旅游，他坐飞机，我坐火车，天气不好，飞机晚了，他又迟到了",
+    "translation": "This year we went to Shanghai for a trip. He took a plane and I took a train. The weather was bad. The plane was late and he was late again.",
+    "tokens": [
+      "今年",
+      "我们",
+      "去",
+      "上海",
+      "旅游",
+      "，",
+      "他",
+      "坐飞机",
+      "，",
+      "我",
+      "坐火车",
+      "，",
+      "天气",
+      "不好",
+      "，",
+      "飞机",
+      "晚",
+      "了",
+      "，",
+      "他",
+      "又",
+      "迟到",
+      "了"
+    ]
+  },
+  {
+    "chinese": "昨天上午，我和妹妹去商店买东西了，很晚回家",
+    "translation": "Yesterday morning, my sister and I went to the store to buy things and went home very late",
+    "tokens": [
+      "昨天上午",
+      "，",
+      "我",
+      "和",
+      "妹妹",
+      "去",
+      "商店",
+      "买",
+      "东西",
+      "了",
+      "，",
+      "很",
+      "晚",
+      "回家"
+    ]
+  },
+  {
+    "chinese": "她买了一点儿水果，我买了不少衣服",
+    "translation": "She bought some fruit, I bought a lot of clothes",
+    "tokens": [
+      "她",
+      "买",
+      "了",
+      "一点儿",
+      "水果",
+      "，",
+      "我",
+      "买",
+      "了",
+      "不少",
+      "衣服"
+    ]
+  },
+  {
+    "chinese": "我还看见了王先生，他去学开车了",
+    "translation": "I also saw Mr. Wang, he went to learn to drive",
+    "tokens": [
+      "我",
+      "还",
+      "看见",
+      "了",
+      "王先生",
+      "，",
+      "他",
+      "去",
+      "学",
+      "开车",
+      "了"
+    ]
+  },
+  {
+    "chinese": "王先生说我买的新衣服很漂亮，我很高兴",
+    "translation": "Mr. Wang said that the new clothes I bought were very beautiful, and I was very happy.",
+    "tokens": [
+      "王先生",
+      "说",
+      "我",
+      "买",
+      "的",
+      "新",
+      "衣服",
+      "很漂亮",
+      "，",
+      "我",
+      "很",
+      "高兴"
+    ]
+  },
+  {
+    "chinese": "我是Erica，我的中文名字叫杨陈",
+    "translation": "I'm Erica, my Chinese name is Yang Chen",
+    "tokens": [
+      "我",
+      "是",
+      "Erica",
+      "，",
+      "我",
+      "的",
+      "中文",
+      "名字",
+      "叫",
+      "杨",
+      "陈"
+    ]
+  },
+  {
+    "chinese": "我家有三口人，丈夫、儿子和我",
+    "translation": "My family has three people, husband, son and me",
+    "tokens": [
+      "我家",
+      "有",
+      "三口",
+      "人",
+      "，",
+      "丈夫",
+      "、",
+      "儿子",
+      "和",
+      "我"
+    ]
+  },
+  {
+    "chinese": "我的丈夫是一个美国人，他是一个老师",
+    "translation": "My husband is an American and he is a teacher",
+    "tokens": [
+      "我",
+      "的",
+      "丈夫",
+      "是",
+      "一个",
+      "美国",
+      "人",
+      "，",
+      "他",
+      "是",
+      "一个",
+      "老师"
+    ]
+  },
+  {
+    "chinese": "我是中国人，我在医院工作，是一个医生",
+    "translation": "I am Chinese, I work in the hospital, I am a doctor",
+    "tokens": [
+      "我",
+      "是",
+      "中国",
+      "人",
+      "，",
+      "我",
+      "在",
+      "医院",
+      "工作",
+      "，",
+      "是",
+      "一个",
+      "医生"
+    ]
+  },
+  {
+    "chinese": "我们的儿子今年两岁了，很可爱",
+    "translation": "Our son is two years old this year and is very cute",
+    "tokens": [
+      "我们",
+      "的",
+      "儿子",
+      "今年",
+      "两岁",
+      "了",
+      "，",
+      "很",
+      "可爱"
+    ]
+  },
+  {
+    "chinese": "我们还有一只小狗",
+    "translation": "We have a puppy",
+    "tokens": [
+      "我们",
+      "还有",
+      "一只",
+      "小狗"
+    ]
+  },
+  {
+    "chinese": "我很爱他们",
+    "translation": "I love them very much",
+    "tokens": [
+      "我",
+      "很",
+      "爱",
+      "他们"
+    ]
+  },
+  {
+    "chinese": "你家呢",
+    "translation": "Where is your home",
+    "tokens": [
+      "你家",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "妻子：马上过年了，你想送我妈什么东西",
+    "translation": "Wife: The Chinese New Year is coming soon, what do you want to give to my mom?",
+    "tokens": [
+      "妻子",
+      "：",
+      "马上",
+      "过年",
+      "了",
+      "，",
+      "你",
+      "想",
+      "送",
+      "我",
+      "妈",
+      "什么",
+      "东西"
+    ]
+  },
+  {
+    "chinese": "丈夫：送一瓶好酒",
+    "translation": "Husband: Give a bottle of good wine",
+    "tokens": [
+      "丈夫",
+      "：",
+      "送",
+      "一瓶",
+      "好酒"
+    ]
+  },
+  {
+    "chinese": "妻子：为什么?我爸爸已经去世五年了，我妈妈不喝酒，你为什么要送酒",
+    "translation": "Wife: Why? My dad has been dead for five years. My mom doesn’t drink, so why do you give me wine?",
+    "tokens": [
+      "妻子",
+      "：",
+      "为什么",
+      "?",
+      "我",
+      "爸爸",
+      "已经",
+      "去世",
+      "五年",
+      "了",
+      "，",
+      "我",
+      "妈妈",
+      "不",
+      "喝酒",
+      "，",
+      "你",
+      "为什么",
+      "要",
+      "送",
+      "酒"
+    ]
+  },
+  {
+    "chinese": "丈夫：因为我每次去她家，她只给我喝茶",
+    "translation": "Husband: Because every time I go to her house, she only gives me tea",
+    "tokens": [
+      "丈夫",
+      "：",
+      "因为",
+      "我",
+      "每次",
+      "去",
+      "她家",
+      "，",
+      "她",
+      "只",
+      "给",
+      "我",
+      "喝茶"
+    ]
+  },
+  {
+    "chinese": "新年，在中国也叫元旦",
+    "translation": "New Year, also called New Year's Day in China",
+    "tokens": [
+      "新年",
+      "，",
+      "在",
+      "中国",
+      "也",
+      "叫",
+      "元旦"
+    ]
+  },
+  {
+    "chinese": "元旦有4000多年历史了",
+    "translation": "New Year's Day has more than 4,000 years of history",
+    "tokens": [
+      "元旦",
+      "有",
+      "4000",
+      "多年",
+      "历史",
+      "了"
+    ]
+  },
+  {
+    "chinese": "每年1月1日，新的一年到来",
+    "translation": "Every year on January 1st, the new year is here",
+    "tokens": [
+      "每年",
+      "1",
+      "月",
+      "1",
+      "日",
+      "，",
+      "新",
+      "的",
+      "一年",
+      "到来"
+    ]
+  },
+  {
+    "chinese": "下个星期一是元旦节，2018年开始",
+    "translation": "Next Monday is New Year's Day, and it will start in 2018",
+    "tokens": [
+      "下个星期",
+      "一是",
+      "元旦节",
+      "，",
+      "2018",
+      "年",
+      "开始"
+    ]
+  },
+  {
+    "chinese": "12月30号到1月1号，放假三天",
+    "translation": "From December 30 to January 1, three days off",
+    "tokens": [
+      "12",
+      "月",
+      "30",
+      "号",
+      "到",
+      "1",
+      "月",
+      "1",
+      "号",
+      "，",
+      "放假",
+      "三天"
+    ]
+  },
+  {
+    "chinese": "你们去哪儿",
+    "translation": "Where are you going",
+    "tokens": [
+      "你们",
+      "去",
+      "哪儿"
+    ]
+  },
+  {
+    "chinese": "再见，2017",
+    "translation": "Goodbye, 2017",
+    "tokens": [
+      "再见",
+      "，",
+      "2017"
+    ]
+  },
+  {
+    "chinese": "你好，2018",
+    "translation": "Hello, 2018",
+    "tokens": [
+      "你好",
+      "，",
+      "2018"
+    ]
+  },
+  {
+    "chinese": "祝你们元旦节快乐",
+    "translation": "Happy New Year's Day",
+    "tokens": [
+      "祝你们",
+      "元旦节",
+      "快乐"
+    ]
+  },
+  {
+    "chinese": "新年快乐",
+    "translation": "Happy New Year",
+    "tokens": [
+      "新年快乐"
+    ]
+  },
+  {
+    "chinese": "哥哥和弟弟两个人在看一些漂亮的画",
+    "translation": "Brother and brother are looking at some beautiful paintings",
+    "tokens": [
+      "哥哥",
+      "和",
+      "弟弟",
+      "两个",
+      "人",
+      "在",
+      "看",
+      "一些",
+      "漂亮",
+      "的",
+      "画"
+    ]
+  },
+  {
+    "chinese": "“看，”哥哥说，“这些画多漂亮啊",
+    "translation": "\"Look,\" said the brother, \"how beautiful these paintings are these",
+    "tokens": [
+      "“",
+      "看",
+      "，",
+      "”",
+      "哥哥",
+      "说",
+      "，",
+      "“",
+      "这些",
+      "画多",
+      "漂亮",
+      "啊"
+    ]
+  },
+  {
+    "chinese": "”\n\n“是啊，”弟弟说，“但是这些画只有妈妈和孩子",
+    "translation": "”\n\n\"Yes,\" said the younger brother, \"but only the mother and the child are these paintings",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "“",
+      "是",
+      "啊",
+      "，",
+      "”",
+      "弟弟",
+      "说",
+      "，",
+      "“",
+      "但是",
+      "这些",
+      "画",
+      "只有",
+      "妈妈",
+      "和",
+      "孩子"
+    ]
+  },
+  {
+    "chinese": "”\n\n“那爸爸去哪儿了呢",
+    "translation": "”\n\n\"Where has Dad been?",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "“",
+      "那",
+      "爸爸",
+      "去",
+      "哪儿",
+      "了",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "”哥哥想了想说：“他在画这些画啊",
+    "translation": "\"The brother thought for a while and said, \"He is drawing these paintings.\"",
+    "tokens": [
+      "”",
+      "哥哥",
+      "想",
+      "了",
+      "想",
+      "说",
+      "：",
+      "“",
+      "他",
+      "在",
+      "画",
+      "这些",
+      "画",
+      "啊"
+    ]
+  },
+  {
+    "chinese": "”\n\n你有空吗",
+    "translation": "”\n\nare you free",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "你",
+      "有空",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "小明：小红，你最近忙不忙",
+    "translation": "Xiao Ming: Xiaohong, are you busy lately",
+    "tokens": [
+      "小明",
+      "：",
+      "小红",
+      "，",
+      "你",
+      "最近",
+      "忙",
+      "不忙"
+    ]
+  },
+  {
+    "chinese": "小红：和平时一样，不怎么忙，怎么了",
+    "translation": "Xiaohong: Just like usual, I'm not very busy, what's wrong",
+    "tokens": [
+      "小红",
+      "：",
+      "和",
+      "平时",
+      "一样",
+      "，",
+      "不怎么",
+      "忙",
+      "，",
+      "怎么",
+      "了"
+    ]
+  },
+  {
+    "chinese": "小明：我最近开始喜欢打乒乓球，想找你一起打",
+    "translation": "Xiao Ming: I have started to like playing table tennis recently, and I want to find you to play together",
+    "tokens": [
+      "小明",
+      "：",
+      "我",
+      "最近",
+      "开始",
+      "喜欢",
+      "打乒乓球",
+      "，",
+      "想",
+      "找",
+      "你",
+      "一起",
+      "打"
+    ]
+  },
+  {
+    "chinese": "小红：周六下午我有空，但还不会打乒乓球",
+    "translation": "Xiaohong: I have time on Saturday afternoon, but I can’t play table tennis yet",
+    "tokens": [
+      "小红",
+      "：",
+      "周六",
+      "下午",
+      "我",
+      "有空",
+      "，",
+      "但",
+      "还",
+      "不会",
+      "打乒乓球"
+    ]
+  },
+  {
+    "chinese": "小明：没关系，我可以教你",
+    "translation": "Xiao Ming: It doesn't matter, I can teach you",
+    "tokens": [
+      "小明",
+      "：",
+      "没关系",
+      "，",
+      "我",
+      "可以",
+      "教",
+      "你"
+    ]
+  },
+  {
+    "chinese": "你爸爸是干什么的",
+    "translation": "What is your dad doing",
+    "tokens": [
+      "你",
+      "爸爸",
+      "是",
+      "干什么",
+      "的"
+    ]
+  },
+  {
+    "chinese": "小明：我爸爸昨天才回到家，他从新加坡给我带了礼物",
+    "translation": "Xiao Ming: My father just returned home yesterday, and he brought me a gift from Singapore",
+    "tokens": [
+      "小明",
+      "：",
+      "我",
+      "爸爸",
+      "昨天",
+      "才",
+      "回到",
+      "家",
+      "，",
+      "他",
+      "从",
+      "新加坡",
+      "给",
+      "我",
+      "带",
+      "了",
+      "礼物"
+    ]
+  },
+  {
+    "chinese": "小红：为什么你爸爸前几天不在家",
+    "translation": "Xiaohong: Why is your father not at home a few days ago",
+    "tokens": [
+      "小红",
+      "：",
+      "为什么",
+      "你",
+      "爸爸",
+      "前",
+      "几天",
+      "不",
+      "在家"
+    ]
+  },
+  {
+    "chinese": "小明：因为他出差了",
+    "translation": "Xiao Ming: Because he was on a business trip",
+    "tokens": [
+      "小明",
+      "：",
+      "因为",
+      "他",
+      "出差",
+      "了"
+    ]
+  },
+  {
+    "chinese": "小红：你爸爸是干什么的",
+    "translation": "Xiaohong: What is your father doing",
+    "tokens": [
+      "小红",
+      "：",
+      "你",
+      "爸爸",
+      "是",
+      "干什么",
+      "的"
+    ]
+  },
+  {
+    "chinese": "小明：他是一个公司的经理，经常不在家",
+    "translation": "Xiao Ming: He is a company manager and is often not at home",
+    "tokens": [
+      "小明",
+      "：",
+      "他",
+      "是",
+      "一个",
+      "公司",
+      "的",
+      "经理",
+      "，",
+      "经常",
+      "不",
+      "在家"
+    ]
+  },
+  {
+    "chinese": "回家第一天\n\n妈妈：你回来了，我好想你",
+    "translation": "The first day of home\n\nMom: You are back, I miss you very much",
+    "tokens": [
+      "回家",
+      "第一天",
+      "\n",
+      "\n",
+      "妈妈",
+      "：",
+      "你",
+      "回来",
+      "了",
+      "，",
+      "我",
+      "好想你"
+    ]
+  },
+  {
+    "chinese": "真开心啊",
+    "translation": "So happy",
+    "tokens": [
+      "真",
+      "开心",
+      "啊"
+    ]
+  },
+  {
+    "chinese": "我：是啊妈妈，我也很想你",
+    "translation": "Me: Yes, Mom, I miss you very much, too",
+    "tokens": [
+      "我",
+      "：",
+      "是",
+      "啊",
+      "妈妈",
+      "，",
+      "我",
+      "也",
+      "很",
+      "想",
+      "你"
+    ]
+  },
+  {
+    "chinese": "妈妈：你想吃什么",
+    "translation": "Mom: What do you want to eat",
+    "tokens": [
+      "妈妈",
+      "：",
+      "你",
+      "想",
+      "吃",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "我去给你做饭",
+    "translation": "I'll cook for you",
+    "tokens": [
+      "我",
+      "去",
+      "给",
+      "你",
+      "做饭"
+    ]
+  },
+  {
+    "chinese": "我：都可以，妈妈做的我都爱吃",
+    "translation": "Me: It's OK, I love eating everything my mother makes",
+    "tokens": [
+      "我",
+      "：",
+      "都",
+      "可以",
+      "，",
+      "妈妈",
+      "做",
+      "的",
+      "我",
+      "都",
+      "爱",
+      "吃"
+    ]
+  },
+  {
+    "chinese": "妈妈，房间脏了，我扫一下地",
+    "translation": "Mom, the room is dirty, I'll sweep the floor",
+    "tokens": [
+      "妈妈",
+      "，",
+      "房间",
+      "脏",
+      "了",
+      "，",
+      "我",
+      "扫",
+      "一下",
+      "地"
+    ]
+  },
+  {
+    "chinese": "妈妈：你刚回家，太累了，不用扫地，快去休息吧",
+    "translation": "Mom: You just came home and were so tired that you don’t have to sweep the floor. Go and have a rest",
+    "tokens": [
+      "妈妈",
+      "：",
+      "你",
+      "刚",
+      "回家",
+      "，",
+      "太累",
+      "了",
+      "，",
+      "不用",
+      "扫地",
+      "，",
+      "快去",
+      "休息",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "小明：你以后想干什么",
+    "translation": "Xiao Ming: What do you want to do in the future",
+    "tokens": [
+      "小明",
+      "：",
+      "你",
+      "以后",
+      "想干什么"
+    ]
+  },
+  {
+    "chinese": "小红：老师，我喜欢小孩儿，你呢",
+    "translation": "Xiaohong: Teacher, I like children, what about you",
+    "tokens": [
+      "小红",
+      "：",
+      "老师",
+      "，",
+      "我",
+      "喜欢",
+      "小孩儿",
+      "，",
+      "你",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "小明：我想当画家，可是我的妈妈不同意",
+    "translation": "Xiao Ming: I want to be a painter, but my mother disagrees",
+    "tokens": [
+      "小明",
+      "：",
+      "我",
+      "想",
+      "当",
+      "画家",
+      "，",
+      "可是",
+      "我",
+      "的",
+      "妈妈",
+      "不",
+      "同意"
+    ]
+  },
+  {
+    "chinese": "小红：为什么她不同意",
+    "translation": "Xiaohong: Why does she disagree",
+    "tokens": [
+      "小红",
+      "：",
+      "为什么",
+      "她",
+      "不",
+      "同意"
+    ]
+  },
+  {
+    "chinese": "小明：她说当画家没钱，她希望我当商人",
+    "translation": "Xiao Ming: She said she had no money to be a painter, she hoped that I would be a businessman",
+    "tokens": [
+      "小明",
+      "：",
+      "她",
+      "说",
+      "当",
+      "画家",
+      "没",
+      "钱",
+      "，",
+      "她",
+      "希望",
+      "我",
+      "当",
+      "商人"
+    ]
+  },
+  {
+    "chinese": "“百度”是中国人最经常用的软件",
+    "translation": "\"Baidu\" is the most commonly used software for Chinese people",
+    "tokens": [
+      "“",
+      "百度",
+      "”",
+      "是",
+      "中国",
+      "人",
+      "最",
+      "经常",
+      "用",
+      "的",
+      "软件"
+    ]
+  },
+  {
+    "chinese": "百度，和谷歌差不多，可以用来提问，找图片，找视频等等",
+    "translation": "Baidu, similar to Google, can be used to ask questions, find pictures, find videos, etc.",
+    "tokens": [
+      "百度",
+      "，",
+      "和",
+      "谷歌",
+      "差不多",
+      "，",
+      "可以",
+      "用来",
+      "提问",
+      "，",
+      "找",
+      "图片",
+      "，",
+      "找",
+      "视频",
+      "等等"
+    ]
+  },
+  {
+    "chinese": "我们常常说“百度一下，你就知道”，意思是，你有什么不懂的，在百度上都可以找到答案",
+    "translation": "We often say \"You will know on Baidu\", which means that if you don't understand anything, you can find the answer on Baidu",
+    "tokens": [
+      "我们",
+      "常常",
+      "说",
+      "“",
+      "百度",
+      "一下",
+      "，",
+      "你",
+      "就",
+      "知道",
+      "”",
+      "，",
+      "意思",
+      "是",
+      "，",
+      "你",
+      "有",
+      "什么",
+      "不",
+      "懂",
+      "的",
+      "，",
+      "在",
+      "百度",
+      "上",
+      "都",
+      "可以",
+      "找到",
+      "答案"
+    ]
+  },
+  {
+    "chinese": "我们去公园玩吧\n\n小明：小红，你星期六想去玩儿吗",
+    "translation": "Let's go to the park to play\n\nXiao Ming: Xiaohong, do you want to go out for fun on Saturday",
+    "tokens": [
+      "我们",
+      "去",
+      "公园",
+      "玩吧",
+      "\n",
+      "\n",
+      "小明",
+      "：",
+      "小红",
+      "，",
+      "你",
+      "星期六",
+      "想",
+      "去",
+      "玩儿",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "还是你想在学校学习",
+    "translation": "Or do you want to study in school",
+    "tokens": [
+      "还是",
+      "你",
+      "想",
+      "在",
+      "学校",
+      "学习"
+    ]
+  },
+  {
+    "chinese": "小红：你想去哪里",
+    "translation": "Xiaohong: Where do you want to go",
+    "tokens": [
+      "小红",
+      "：",
+      "你",
+      "想",
+      "去",
+      "哪里"
+    ]
+  },
+  {
+    "chinese": "小明：星期六我们去公园吧，夏天来了，我们可以去游泳",
+    "translation": "Xiao Ming: Let’s go to the park on Saturday. Summer is coming, we can go swimming",
+    "tokens": [
+      "小明",
+      "：",
+      "星期六",
+      "我们",
+      "去",
+      "公园",
+      "吧",
+      "，",
+      "夏天",
+      "来",
+      "了",
+      "，",
+      "我们",
+      "可以",
+      "去",
+      "游泳"
+    ]
+  },
+  {
+    "chinese": "小红：好啊",
+    "translation": "Xiaohong: OK",
+    "tokens": [
+      "小红",
+      "：",
+      "好",
+      "啊"
+    ]
+  },
+  {
+    "chinese": "小明：那星期六早上九点，我在学校门口等你",
+    "translation": "Xiao Ming: At nine o'clock on Saturday morning, I'll be waiting for you at the school gate",
+    "tokens": [
+      "小明",
+      "：",
+      "那",
+      "星期六",
+      "早上",
+      "九点",
+      "，",
+      "我",
+      "在",
+      "学校",
+      "门口",
+      "等",
+      "你"
+    ]
+  },
+  {
+    "chinese": "你是哪国人",
+    "translation": "Which country are you from",
+    "tokens": [
+      "你",
+      "是",
+      "哪",
+      "国人"
+    ]
+  },
+  {
+    "chinese": "小明：小红，你是英国人吗",
+    "translation": "Xiao Ming: Xiaohong, are you British?",
+    "tokens": [
+      "小明",
+      "：",
+      "小红",
+      "，",
+      "你",
+      "是",
+      "英国人",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "小红：我不是，我是美国人，你呢",
+    "translation": "Xiaohong: I'm not, I'm an American, what about you",
+    "tokens": [
+      "小红",
+      "：",
+      "我",
+      "不是",
+      "，",
+      "我",
+      "是",
+      "美国",
+      "人",
+      "，",
+      "你",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "小明: 我是加拿大人，我爸爸是中国人，我妈妈是加拿大人",
+    "translation": "Xiao Ming: I am Canadian, my dad is Chinese, and my mom is Canadian",
+    "tokens": [
+      "小明",
+      ":",
+      " ",
+      "我",
+      "是",
+      "加拿大人",
+      "，",
+      "我",
+      "爸爸",
+      "是",
+      "中国",
+      "人",
+      "，",
+      "我",
+      "妈妈",
+      "是",
+      "加拿大人"
+    ]
+  },
+  {
+    "chinese": "小红：哦，我们班也有一个加拿大人",
+    "translation": "Xiaohong: Oh, there is also a Canadian in our class",
+    "tokens": [
+      "小红",
+      "：",
+      "哦",
+      "，",
+      "我们",
+      "班",
+      "也",
+      "有",
+      "一个",
+      "加拿大人"
+    ]
+  },
+  {
+    "chinese": "小明：是吗",
+    "translation": "Xiao Ming: Is that true",
+    "tokens": [
+      "小明",
+      "：",
+      "是",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "那下次我去找他玩儿",
+    "translation": "Then next time I'll go and play with him",
+    "tokens": [
+      "那",
+      "下次",
+      "我",
+      "去",
+      "找",
+      "他",
+      "玩儿"
+    ]
+  },
+  {
+    "chinese": "最喜欢的动物\n\n小明：小红，你最喜欢什么动物",
+    "translation": "Favorite animal\n\nXiao Ming: Xiaohong, what animal do you like the most",
+    "tokens": [
+      "最",
+      "喜欢",
+      "的",
+      "动物",
+      "\n",
+      "\n",
+      "小明",
+      "：",
+      "小红",
+      "，",
+      "你",
+      "最",
+      "喜欢",
+      "什么",
+      "动物"
+    ]
+  },
+  {
+    "chinese": "小红：最喜欢狗，你呢",
+    "translation": "Xiaohong: What about you",
+    "tokens": [
+      "小红",
+      "：",
+      "最",
+      "喜欢",
+      "狗",
+      "，",
+      "你",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "小明：猫，我想养一只猫",
+    "translation": "Xiao Ming: Cat, I want to keep a cat",
+    "tokens": [
+      "小明",
+      "：",
+      "猫",
+      "，",
+      "我想养",
+      "一只",
+      "猫"
+    ]
+  },
+  {
+    "chinese": "小红：你可以养啊，你自己住吗",
+    "translation": "Xiaohong: Can you raise it, can you live by yourself?",
+    "tokens": [
+      "小红",
+      "：",
+      "你",
+      "可以",
+      "养",
+      "啊",
+      "，",
+      "你",
+      "自己",
+      "住",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "小明：是的，我自己住",
+    "translation": "Xiao Ming: Yes, I live by myself",
+    "tokens": [
+      "小明",
+      "：",
+      "是",
+      "的",
+      "，",
+      "我",
+      "自己",
+      "住"
+    ]
+  },
+  {
+    "chinese": "你下午跟我一起去宠物店，可以吗",
+    "translation": "You go to the pet shop with me in the afternoon, can you?",
+    "tokens": [
+      "你",
+      "下午",
+      "跟",
+      "我",
+      "一起",
+      "去",
+      "宠物店",
+      "，",
+      "可以",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "小红：好的",
+    "translation": "Xiaohong: OK",
+    "tokens": [
+      "小红",
+      "：",
+      "好",
+      "的"
+    ]
+  },
+  {
+    "chinese": "中国的国旗\n\n中国的国旗有两种颜色：红色和黄色；国旗主要是红色的，星星是黄色的",
+    "translation": "China's national flag\n\nThe national flag of China comes in two colors: red and yellow; the national flag is mainly red and the stars are yellow.",
+    "tokens": [
+      "中国",
+      "的",
+      "国旗",
+      "\n",
+      "\n",
+      "中国",
+      "的",
+      "国旗",
+      "有",
+      "两种",
+      "颜色",
+      "：",
+      "红色",
+      "和",
+      "黄色",
+      "；",
+      "国旗",
+      "主要",
+      "是",
+      "红色",
+      "的",
+      "，",
+      "星星",
+      "是",
+      "黄色",
+      "的"
+    ]
+  },
+  {
+    "chinese": "国旗上有五颗星星，一颗大星星，和四颗小星星",
+    "translation": "There are five stars on the national flag, one big star, and four small stars",
+    "tokens": [
+      "国旗",
+      "上",
+      "有",
+      "五颗星",
+      "星",
+      "，",
+      "一颗",
+      "大",
+      "星星",
+      "，",
+      "和",
+      "四颗",
+      "小星星"
+    ]
+  },
+  {
+    "chinese": "五颗星星是人民团结在一起的意思",
+    "translation": "Five stars mean the people unite",
+    "tokens": [
+      "五颗星",
+      "星是",
+      "人民",
+      "团结",
+      "在",
+      "一起",
+      "的",
+      "意思"
+    ]
+  },
+  {
+    "chinese": "中国在亚洲的东南部，是全世界人口最多的国家",
+    "translation": "China is the most populous country in the world in the southeast of Asia.",
+    "tokens": [
+      "中国",
+      "在",
+      "亚洲",
+      "的",
+      "东南部",
+      "，",
+      "是",
+      "全世界",
+      "人口",
+      "最多",
+      "的",
+      "国家"
+    ]
+  },
+  {
+    "chinese": "中国很大，是世界第二大国家，面积为960万平方公里；从地图上看，中国像一只公鸡",
+    "translation": "China is very large and is the second largest country in the world, with an area of ​​9.6 million square kilometers; from the map, China is like a rooster",
+    "tokens": [
+      "中国",
+      "很大",
+      "，",
+      "是",
+      "世界",
+      "第二",
+      "大",
+      "国家",
+      "，",
+      "面积",
+      "为",
+      "960",
+      "万平方公里",
+      "；",
+      "从",
+      "地图",
+      "上",
+      "看",
+      "，",
+      "中国",
+      "像",
+      "一只",
+      "公鸡"
+    ]
+  },
+  {
+    "chinese": "中国一共有五千年的历史",
+    "translation": "China has a history of 5,000 years",
+    "tokens": [
+      "中国",
+      "一共",
+      "有",
+      "五千年",
+      "的",
+      "历史"
+    ]
+  },
+  {
+    "chinese": "今天早上，我发烧了，就去了医院",
+    "translation": "This morning, I had a fever and went to the hospital",
+    "tokens": [
+      "今天",
+      "早上",
+      "，",
+      "我",
+      "发烧",
+      "了",
+      "，",
+      "就",
+      "去",
+      "了",
+      "医院"
+    ]
+  },
+  {
+    "chinese": "我坐在医院的椅子上，等医生看病",
+    "translation": "I sat in a chair in the hospital, waiting for the doctor to see the doctor",
+    "tokens": [
+      "我",
+      "坐在",
+      "医院",
+      "的",
+      "椅子",
+      "上",
+      "，",
+      "等",
+      "医生",
+      "看病"
+    ]
+  },
+  {
+    "chinese": "有一个奶奶问我，是不是自己来的医院",
+    "translation": "A grandma asked me if I had come to the hospital myself",
+    "tokens": [
+      "有",
+      "一个",
+      "奶奶",
+      "问",
+      "我",
+      "，",
+      "是不是",
+      "自己",
+      "来",
+      "的",
+      "医院"
+    ]
+  },
+  {
+    "chinese": "我说：“是的",
+    "translation": "I said, “Yes",
+    "tokens": [
+      "我",
+      "说",
+      "：",
+      "“",
+      "是",
+      "的"
+    ]
+  },
+  {
+    "chinese": "”\n\n她就给了我面包和一杯水",
+    "translation": "”\n\nShe gave me bread and a glass of water",
+    "tokens": [
+      "”",
+      "\n",
+      "\n",
+      "她",
+      "就",
+      "给",
+      "了",
+      "我",
+      "面包",
+      "和",
+      "一杯",
+      "水"
+    ]
+  },
+  {
+    "chinese": "我真感动啊",
+    "translation": "I'm so touched",
+    "tokens": [
+      "我",
+      "真",
+      "感动",
+      "啊"
+    ]
+  },
+  {
+    "chinese": "你在家干什么",
+    "translation": "What are you doing at home",
+    "tokens": [
+      "你",
+      "在家",
+      "干什么"
+    ]
+  },
+  {
+    "chinese": "小红：小明，你在家会干什么",
+    "translation": "Xiaohong: Xiaoming, what will you do at home",
+    "tokens": [
+      "小红",
+      "：",
+      "小明",
+      "，",
+      "你",
+      "在家",
+      "会",
+      "干什么"
+    ]
+  },
+  {
+    "chinese": "小明：我会在家玩电脑游戏，你呢",
+    "translation": "Xiao Ming: I can play computer games at home, what about you",
+    "tokens": [
+      "小明",
+      "：",
+      "我会",
+      "在家",
+      "玩",
+      "电脑游戏",
+      "，",
+      "你",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "小红：我喜欢在家看电视",
+    "translation": "Xiaohong: I like watching TV at home",
+    "tokens": [
+      "小红",
+      "：",
+      "我",
+      "喜欢",
+      "在家",
+      "看电视"
+    ]
+  },
+  {
+    "chinese": "小明：你喜欢看什么节目",
+    "translation": "Xiao Ming: What kind of shows do you like to watch",
+    "tokens": [
+      "小明",
+      "：",
+      "你",
+      "喜欢",
+      "看",
+      "什么",
+      "节目"
+    ]
+  },
+  {
+    "chinese": "小红：我喜欢看体育比赛",
+    "translation": "Xiaohong: I like watching sports games",
+    "tokens": [
+      "小红",
+      "：",
+      "我",
+      "喜欢",
+      "看",
+      "体育比赛"
+    ]
+  },
+  {
+    "chinese": "我最喜欢看篮球比赛了",
+    "translation": "My favorite is watching basketball games",
+    "tokens": [
+      "我",
+      "最",
+      "喜欢",
+      "看",
+      "篮球比赛",
+      "了"
+    ]
+  },
+  {
+    "chinese": "小明：那周末我们一起看吧",
+    "translation": "Xiao Ming: Let's watch it together that weekend",
+    "tokens": [
+      "小明",
+      "：",
+      "那",
+      "周末",
+      "我们",
+      "一起",
+      "看吧"
+    ]
+  },
+  {
+    "chinese": "我最喜欢北京的春天",
+    "translation": "My favorite spring in Beijing",
+    "tokens": [
+      "我",
+      "最",
+      "喜欢",
+      "北京",
+      "的",
+      "春天"
+    ]
+  },
+  {
+    "chinese": "因为在春天，北京的天气特别好，总是晴天，天空很蓝，我喜欢蓝天",
+    "translation": "Because in spring, the weather in Beijing is very good, it is always sunny and the sky is very blue. I like the blue sky",
+    "tokens": [
+      "因为",
+      "在",
+      "春天",
+      "，",
+      "北京",
+      "的",
+      "天气",
+      "特别",
+      "好",
+      "，",
+      "总是",
+      "晴天",
+      "，",
+      "天空",
+      "很",
+      "蓝",
+      "，",
+      "我",
+      "喜欢",
+      "蓝天"
+    ]
+  },
+  {
+    "chinese": "但是我不喜欢下雨，所以不喜欢冬天的桂林",
+    "translation": "But I don't like rain, so I don't like Guilin in winter",
+    "tokens": [
+      "但是",
+      "我",
+      "不",
+      "喜欢",
+      "下雨",
+      "，",
+      "所以",
+      "不",
+      "喜欢",
+      "冬天",
+      "的",
+      "桂林"
+    ]
+  },
+  {
+    "chinese": "冬天的时候，桂林一下雨就冷，天气很不好",
+    "translation": "In winter, Guilin will be cold when it rains, and the weather is very bad",
+    "tokens": [
+      "冬天",
+      "的",
+      "时候",
+      "，",
+      "桂林",
+      "一",
+      "下雨",
+      "就",
+      "冷",
+      "，",
+      "天气",
+      "很",
+      "不好"
+    ]
+  },
+  {
+    "chinese": "小明：喂，你好",
+    "translation": "Xiao Ming: Hello",
+    "tokens": [
+      "小明",
+      "：",
+      "喂",
+      "，",
+      "你好"
+    ]
+  },
+  {
+    "chinese": "我是小明",
+    "translation": "I'm Xiao Ming",
+    "tokens": [
+      "我",
+      "是",
+      "小明"
+    ]
+  },
+  {
+    "chinese": "小红：你好，小明，请问你有什么事吗",
+    "translation": "Xiaohong: Hello, Xiaoming, is there anything you have to do?",
+    "tokens": [
+      "小红",
+      "：",
+      "你好",
+      "，",
+      "小明",
+      "，",
+      "请问",
+      "你",
+      "有",
+      "什么",
+      "事",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "小明：请问今天中午张医生有空吗",
+    "translation": "Xiao Ming: Doctor Zhang is free at noon today",
+    "tokens": [
+      "小明",
+      "：",
+      "请问",
+      "今天",
+      "中午",
+      "张",
+      "医生",
+      "有空",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "小红：张医生中午没空，但是下午有空",
+    "translation": "Xiaohong: Dr. Zhang is not available at noon, but is available in the afternoon",
+    "tokens": [
+      "小红",
+      "：",
+      "张",
+      "医生",
+      "中午",
+      "没空",
+      "，",
+      "但是",
+      "下午",
+      "有空"
+    ]
+  },
+  {
+    "chinese": "小明：好的，我下午去医院找她",
+    "translation": "Xiao Ming: OK, I'll go to the hospital to find her in the afternoon",
+    "tokens": [
+      "小明",
+      "：",
+      "好",
+      "的",
+      "，",
+      "我",
+      "下午",
+      "去",
+      "医院",
+      "找",
+      "她"
+    ]
+  },
+  {
+    "chinese": "谢谢，再见",
+    "translation": "Thank you, goodbye",
+    "tokens": [
+      "谢谢",
+      "，",
+      "再见"
+    ]
+  },
+  {
+    "chinese": "小红：再见",
+    "translation": "Xiaohong: Goodbye",
+    "tokens": [
+      "小红",
+      "：",
+      "再见"
+    ]
+  },
+  {
+    "chinese": "我的家人\n大家好，我的名字是小明，今年七岁了",
+    "translation": "my family\nHello everyone, my name is Xiao Ming, I am seven years old this year",
+    "tokens": [
+      "我",
+      "的",
+      "家人",
+      "\n",
+      "大家",
+      "好",
+      "，",
+      "我",
+      "的",
+      "名字",
+      "是",
+      "小明",
+      "，",
+      "今年",
+      "七岁",
+      "了"
+    ]
+  },
+  {
+    "chinese": "我家有五口人，爸爸、妈妈、姐姐和弟弟",
+    "translation": "My family has five people, father, mother, sister and brother",
+    "tokens": [
+      "我家",
+      "有",
+      "五口",
+      "人",
+      "，",
+      "爸爸",
+      "、",
+      "妈妈",
+      "、",
+      "姐姐",
+      "和",
+      "弟弟"
+    ]
+  },
+  {
+    "chinese": "我的爸爸是老师，他教数学",
+    "translation": "My dad is a teacher and he teaches math",
+    "tokens": [
+      "我",
+      "的",
+      "爸爸",
+      "是",
+      "老师",
+      "，",
+      "他教",
+      "数学"
+    ]
+  },
+  {
+    "chinese": "我的妈妈也是老师，她教地理",
+    "translation": "My mother is also a teacher, she teaches geography",
+    "tokens": [
+      "我",
+      "的",
+      "妈妈",
+      "也",
+      "是",
+      "老师",
+      "，",
+      "她",
+      "教",
+      "地理"
+    ]
+  },
+  {
+    "chinese": "我的姐姐是一名大学生，弟弟还没上学",
+    "translation": "My sister is a college student, and my younger brother hasn't gone to school yet",
+    "tokens": [
+      "我",
+      "的",
+      "姐姐",
+      "是",
+      "一名",
+      "大学生",
+      "，",
+      "弟弟",
+      "还",
+      "没",
+      "上学"
+    ]
+  },
+  {
+    "chinese": "中国的学生\n中国的学生，六岁读小学，小学有六年",
+    "translation": "Chinese students\nChinese students, who are six years old, have been in elementary school for six years",
+    "tokens": [
+      "中国",
+      "的",
+      "学生",
+      "\n",
+      "中国",
+      "的",
+      "学生",
+      "，",
+      "六岁",
+      "读",
+      "小学",
+      "，",
+      "小学",
+      "有",
+      "六年"
+    ]
+  },
+  {
+    "chinese": "他们十二岁读初中，初中有三年",
+    "translation": "They were in junior high school at the age of twelve, and they had three years of junior high school.",
+    "tokens": [
+      "他们",
+      "十二岁",
+      "读",
+      "初中",
+      "，",
+      "初中",
+      "有",
+      "三年"
+    ]
+  },
+  {
+    "chinese": "十五岁的时候读高中，高中有三年",
+    "translation": "I went to high school when I was fifteen, and I had three years of high school.",
+    "tokens": [
+      "十五岁",
+      "的",
+      "时候",
+      "读",
+      "高中",
+      "，",
+      "高中",
+      "有",
+      "三年"
+    ]
+  },
+  {
+    "chinese": "学生在学校里可以学习，还可以交很多朋友，和朋友们一起玩",
+    "translation": "Students can study at school, make many friends, and play with friends",
+    "tokens": [
+      "学生",
+      "在",
+      "学校",
+      "里",
+      "可以",
+      "学习",
+      "，",
+      "还",
+      "可以",
+      "交",
+      "很多",
+      "朋友",
+      "，",
+      "和",
+      "朋友",
+      "们",
+      "一起",
+      "玩"
+    ]
+  },
+  {
+    "chinese": "今天中午吃什么",
+    "translation": "What to eat for lunch today",
+    "tokens": [
+      "今天",
+      "中午",
+      "吃",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "小明：小花，你中午去哪里吃饭",
+    "translation": "Xiao Ming: Xiaohua, where do you go to have lunch",
+    "tokens": [
+      "小明",
+      "：",
+      "小花",
+      "，",
+      "你",
+      "中午",
+      "去",
+      "哪里",
+      "吃饭"
+    ]
+  },
+  {
+    "chinese": "小花：去饭店",
+    "translation": "Xiaohua: Go to the hotel",
+    "tokens": [
+      "小花",
+      "：",
+      "去",
+      "饭店"
+    ]
+  },
+  {
+    "chinese": "小明：你去吃什么呢",
+    "translation": "Xiao Ming: What are you going to eat",
+    "tokens": [
+      "小明",
+      "：",
+      "你",
+      "去",
+      "吃",
+      "什么",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "小花：我吃米饭和宫保鸡丁",
+    "translation": "Xiaohua: I eat rice and Kung Pao chicken",
+    "tokens": [
+      "小花",
+      "：",
+      "我",
+      "吃",
+      "米饭",
+      "和",
+      "宫保鸡",
+      "丁"
+    ]
+  },
+  {
+    "chinese": "小明：我也想吃宫保鸡丁，我们一起去吧",
+    "translation": "Xiao Ming: I also want to eat Kung Pao Chicken, let's go together",
+    "tokens": [
+      "小明",
+      "：",
+      "我",
+      "也",
+      "想",
+      "吃",
+      "宫保鸡",
+      "丁",
+      "，",
+      "我们",
+      "一起",
+      "去",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "我们一起去北京\n儿子：爸爸，我想去北京",
+    "translation": "Let's go to Beijing together\nSon: Dad, I want to go to Beijing",
+    "tokens": [
+      "我们",
+      "一起",
+      "去",
+      "北京",
+      "\n",
+      "儿子",
+      "：",
+      "爸爸",
+      "，",
+      "我",
+      "想",
+      "去",
+      "北京"
+    ]
+  },
+  {
+    "chinese": "爸爸：为什么呢",
+    "translation": "Dad: Why",
+    "tokens": [
+      "爸爸",
+      "：",
+      "为什么",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "儿子：因为北京很好玩儿，我爱北京",
+    "translation": "Son: Because Beijing is very fun, I love Beijing",
+    "tokens": [
+      "儿子",
+      "：",
+      "因为",
+      "北京",
+      "很",
+      "好玩儿",
+      "，",
+      "我",
+      "爱",
+      "北京"
+    ]
+  },
+  {
+    "chinese": "爸爸：那我们现在就坐出租车去机场吧",
+    "translation": "Dad: Then let's take a taxi to the airport now",
+    "tokens": [
+      "爸爸",
+      "：",
+      "那",
+      "我们",
+      "现在",
+      "就",
+      "坐",
+      "出租车",
+      "去",
+      "机场",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "儿子：爸爸真好",
+    "translation": "Son: Dad is so good",
+    "tokens": [
+      "儿子",
+      "：",
+      "爸爸",
+      "真",
+      "好"
+    ]
+  },
+  {
+    "chinese": "谢谢爸爸",
+    "translation": "Thank you dad",
+    "tokens": [
+      "谢谢",
+      "爸爸"
+    ]
+  },
+  {
+    "chinese": "爸爸：不客气",
+    "translation": "Dad: You're welcome",
+    "tokens": [
+      "爸爸",
+      "：",
+      "不",
+      "客气"
+    ]
+  },
+  {
+    "chinese": "让我们打篮球吧",
+    "translation": "Let's play basketball",
+    "tokens": [
+      "让",
+      "我们",
+      "打篮球",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "莉莉：今天天气那么好，你想要做什么",
+    "translation": "Lily: The weather is so good today, what do you want to do",
+    "tokens": [
+      "莉莉",
+      "：",
+      "今天天气",
+      "那么",
+      "好",
+      "，",
+      "你",
+      "想要",
+      "做",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "小明：让我们打篮球吧",
+    "translation": "Xiao Ming: Let's play basketball",
+    "tokens": [
+      "小明",
+      "：",
+      "让",
+      "我们",
+      "打篮球",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "莉莉：在哪里有篮球场呢",
+    "translation": "Lily: Where is the basketball court?",
+    "tokens": [
+      "莉莉",
+      "：",
+      "在",
+      "哪里",
+      "有",
+      "篮球场",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "好像城市里没有篮球场",
+    "translation": "There seems to be no basketball court in the city",
+    "tokens": [
+      "好像",
+      "城市",
+      "里",
+      "没有",
+      "篮球场"
+    ]
+  },
+  {
+    "chinese": "小明：新开的体育馆有啊，我可以开车去",
+    "translation": "Xiao Ming: There is a new gymnasium, I can drive there",
+    "tokens": [
+      "小明",
+      "：",
+      "新开",
+      "的",
+      "体育馆",
+      "有",
+      "啊",
+      "，",
+      "我",
+      "可以",
+      "开车",
+      "去"
+    ]
+  },
+  {
+    "chinese": "莉莉：好吧，但是你要让着我",
+    "translation": "Lily: OK, but you have to give in to me",
+    "tokens": [
+      "莉莉",
+      "：",
+      "好",
+      "吧",
+      "，",
+      "但是",
+      "你",
+      "要",
+      "让",
+      "着",
+      "我"
+    ]
+  },
+  {
+    "chinese": "你能帮我一下吗",
+    "translation": "Can you help me",
+    "tokens": [
+      "你",
+      "能",
+      "帮",
+      "我",
+      "一下",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "妈妈：小红，你能帮我一下吗",
+    "translation": "Mom: Xiaohong, can you help me",
+    "tokens": [
+      "妈妈",
+      "：",
+      "小红",
+      "，",
+      "你",
+      "能",
+      "帮",
+      "我",
+      "一下",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "小红：你想要什么帮助",
+    "translation": "Xiaohong: What help do you want",
+    "tokens": [
+      "小红",
+      "：",
+      "你",
+      "想要",
+      "什么",
+      "帮助"
+    ]
+  },
+  {
+    "chinese": "妈妈：我的新帽子丢了，你能帮我找一下吗",
+    "translation": "Mom: I lost my new hat, can you find it for me?",
+    "tokens": [
+      "妈妈",
+      "：",
+      "我",
+      "的",
+      "新",
+      "帽子",
+      "丢",
+      "了",
+      "，",
+      "你",
+      "能",
+      "帮",
+      "我",
+      "找",
+      "一下",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "小红：好的，你看看是不是在厨房里，我看下是不是在客厅里",
+    "translation": "Xiaohong: OK, see if it's in the kitchen, I'll see if it's in the living room",
+    "tokens": [
+      "小红",
+      "：",
+      "好",
+      "的",
+      "，",
+      "你",
+      "看看",
+      "是不是",
+      "在",
+      "厨房",
+      "里",
+      "，",
+      "我",
+      "看",
+      "下",
+      "是不是",
+      "在",
+      "客厅",
+      "里"
+    ]
+  },
+  {
+    "chinese": "两分钟以后",
+    "translation": "Two minutes later",
+    "tokens": [
+      "两分钟",
+      "以后"
+    ]
+  },
+  {
+    "chinese": "小红：我找到了",
+    "translation": "Xiaohong: I found it",
+    "tokens": [
+      "小红",
+      "：",
+      "我",
+      "找到",
+      "了"
+    ]
+  },
+  {
+    "chinese": "你的帽子在沙发下面",
+    "translation": "Your hat is under the sofa",
+    "tokens": [
+      "你",
+      "的",
+      "帽子",
+      "在",
+      "沙发",
+      "下面"
+    ]
+  },
+  {
+    "chinese": "妈妈：谢谢你",
+    "translation": "Mom: Thank you",
+    "tokens": [
+      "妈妈",
+      "：",
+      "谢谢",
+      "你"
+    ]
+  },
+  {
+    "chinese": "大家好，我的名字叫小红",
+    "translation": "Hello everyone, my name is Xiaohong",
+    "tokens": [
+      "大家",
+      "好",
+      "，",
+      "我",
+      "的",
+      "名字",
+      "叫小红"
+    ]
+  },
+  {
+    "chinese": "今年我三十五岁",
+    "translation": "I'm thirty-five this year",
+    "tokens": [
+      "今年",
+      "我",
+      "三十五岁"
+    ]
+  },
+  {
+    "chinese": "我有我自己的家，里面有很多东西，比如，电视，冰箱，沙发等等",
+    "translation": "I have my own home, there are a lot of things in it, such as TV, refrigerator, sofa, etc.",
+    "tokens": [
+      "我",
+      "有",
+      "我",
+      "自己",
+      "的",
+      "家",
+      "，",
+      "里面",
+      "有",
+      "很多",
+      "东西",
+      "，",
+      "比如",
+      "，",
+      "电视",
+      "，",
+      "冰箱",
+      "，",
+      "沙发",
+      "等等"
+    ]
+  },
+  {
+    "chinese": "我的家也有一个车库，一个小花园，还有一个地下室",
+    "translation": "My home also has a garage, a small garden, and a basement",
+    "tokens": [
+      "我",
+      "的",
+      "家",
+      "也",
+      "有",
+      "一个",
+      "车库",
+      "，",
+      "一个",
+      "小",
+      "花园",
+      "，",
+      "还有",
+      "一个",
+      "地下室"
+    ]
+  },
+  {
+    "chinese": "你想来看看我的家吗",
+    "translation": "Do you want to come and see my home",
+    "tokens": [
+      "你",
+      "想来",
+      "看看",
+      "我",
+      "的",
+      "家",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "我的朋友送给我一个礼物\n今天我很高兴，因为我的好朋友送给我一个礼物",
+    "translation": "My friend gave me a gift\nI'm very happy today because my good friend gave me a gift",
+    "tokens": [
+      "我",
+      "的",
+      "朋友",
+      "送给",
+      "我",
+      "一个",
+      "礼物",
+      "\n",
+      "今天",
+      "我",
+      "很",
+      "高兴",
+      "，",
+      "因为",
+      "我",
+      "的",
+      "好",
+      "朋友",
+      "送给",
+      "我",
+      "一个",
+      "礼物"
+    ]
+  },
+  {
+    "chinese": "当我回家的时候我会打开这个礼物",
+    "translation": "I will open this gift when I go home",
+    "tokens": [
+      "当",
+      "我",
+      "回家",
+      "的",
+      "时候",
+      "我会",
+      "打开",
+      "这个",
+      "礼物"
+    ]
+  },
+  {
+    "chinese": "我很想知道里面有什么",
+    "translation": "I'd love to know what's inside",
+    "tokens": [
+      "我",
+      "很",
+      "想",
+      "知道",
+      "里面",
+      "有",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "我的朋友为什么给我一个礼物呢",
+    "translation": "Why did my friend give me a gift?",
+    "tokens": [
+      "我",
+      "的",
+      "朋友",
+      "为什么",
+      "给",
+      "我",
+      "一个",
+      "礼物",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "因为今天是我的生日",
+    "translation": "Because today is my birthday",
+    "tokens": [
+      "因为",
+      "今天",
+      "是",
+      "我",
+      "的",
+      "生日"
+    ]
+  },
+  {
+    "chinese": "你想跟我看电影吗",
+    "translation": "Do you want to watch a movie with me",
+    "tokens": [
+      "你",
+      "想",
+      "跟",
+      "我",
+      "看",
+      "电影",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "小红：小明，你明天想跟我去看电影吗",
+    "translation": "Xiaohong: Xiaoming, do you want to go to the movie with me tomorrow?",
+    "tokens": [
+      "小红",
+      "：",
+      "小明",
+      "，",
+      "你",
+      "明天",
+      "想",
+      "跟",
+      "我",
+      "去",
+      "看",
+      "电影",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "小明：什么电影",
+    "translation": "Xiao Ming: What movie",
+    "tokens": [
+      "小明",
+      "：",
+      "什么",
+      "电影"
+    ]
+  },
+  {
+    "chinese": "小红：狮子王",
+    "translation": "Little Red: The Lion King",
+    "tokens": [
+      "小红",
+      "：",
+      "狮子王"
+    ]
+  },
+  {
+    "chinese": "小明：我不太喜欢狮子王",
+    "translation": "Xiao Ming: I don't like the Lion King very much",
+    "tokens": [
+      "小明",
+      "：",
+      "我",
+      "不",
+      "太",
+      "喜欢",
+      "狮子王"
+    ]
+  },
+  {
+    "chinese": "小红：那我们看星球大战吧",
+    "translation": "Xiaohong: Then let's watch Star Wars",
+    "tokens": [
+      "小红",
+      "：",
+      "那",
+      "我们",
+      "看",
+      "星球大战",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "小明：好的，然后我们可以喝咖啡",
+    "translation": "Xiao Ming: OK, then we can have coffee",
+    "tokens": [
+      "小明",
+      "：",
+      "好",
+      "的",
+      "，",
+      "然后",
+      "我们",
+      "可以",
+      "喝咖啡"
+    ]
+  },
+  {
+    "chinese": "小红：好的，明天见!\n\n走路去上学\n今天我七点醒了",
+    "translation": "Xiaohong: OK, see you tomorrow!\n\nWalk to school\nI woke up at 7 o'clock today",
+    "tokens": [
+      "小红",
+      "：",
+      "好",
+      "的",
+      "，",
+      "明天",
+      "见",
+      "!",
+      "\n",
+      "\n",
+      "走路",
+      "去",
+      "上学",
+      "\n",
+      "今天",
+      "我",
+      "七点",
+      "醒",
+      "了"
+    ]
+  },
+  {
+    "chinese": "然后，我穿好衣服了",
+    "translation": "Then, I put on my clothes",
+    "tokens": [
+      "然后",
+      "，",
+      "我",
+      "穿",
+      "好",
+      "衣服",
+      "了"
+    ]
+  },
+  {
+    "chinese": "我八点半走路去上学",
+    "translation": "I'll walk to school at half past eight",
+    "tokens": [
+      "我",
+      "八点半",
+      "走路",
+      "去",
+      "上学"
+    ]
+  },
+  {
+    "chinese": "我不骑自行车，因为车子坏了",
+    "translation": "I don't ride a bike because the car breaks down",
+    "tokens": [
+      "我",
+      "不",
+      "骑",
+      "自行车",
+      "，",
+      "因为",
+      "车子",
+      "坏",
+      "了"
+    ]
+  },
+  {
+    "chinese": "我不坐公共汽车，因为公交车车票太贵了",
+    "translation": "I don't take the bus because the bus tickets are too expensive",
+    "tokens": [
+      "我",
+      "不",
+      "坐",
+      "公共汽车",
+      "，",
+      "因为",
+      "公交车",
+      "车票",
+      "太贵",
+      "了"
+    ]
+  },
+  {
+    "chinese": "走路的时候突然下雨了，我讨厌下雨",
+    "translation": "It suddenly rained while walking, I hate it",
+    "tokens": [
+      "走路",
+      "的",
+      "时候",
+      "突然",
+      "下雨",
+      "了",
+      "，",
+      "我",
+      "讨厌",
+      "下雨"
+    ]
+  },
+  {
+    "chinese": "我喜欢晴天",
+    "translation": "I like sunny days",
+    "tokens": [
+      "我",
+      "喜欢",
+      "晴天"
+    ]
+  },
+  {
+    "chinese": "布朗先生的花园\n布朗先生住在一个漂亮的房子里",
+    "translation": "Mr. Brown's Garden\nMr Brown lives in a beautiful house",
+    "tokens": [
+      "布朗",
+      "先生",
+      "的",
+      "花园",
+      "\n",
+      "布朗",
+      "先生",
+      "住",
+      "在",
+      "一个",
+      "漂亮",
+      "的",
+      "房子",
+      "里"
+    ]
+  },
+  {
+    "chinese": "从周一到周五，他在自己家附近的一间办公室里工作",
+    "translation": "From Monday to Friday, he works in an office near his home",
+    "tokens": [
+      "从",
+      "周一",
+      "到",
+      "周五",
+      "，",
+      "他",
+      "在",
+      "自己",
+      "家",
+      "附近",
+      "的",
+      "一间",
+      "办公室",
+      "里",
+      "工作"
+    ]
+  },
+  {
+    "chinese": "周末的时候，他不需要工作",
+    "translation": "He doesn't need to work on weekends",
+    "tokens": [
+      "周末",
+      "的",
+      "时候",
+      "，",
+      "他",
+      "不",
+      "需要",
+      "工作"
+    ]
+  },
+  {
+    "chinese": "他还有一个漂亮的花园，他会在花园里种些植物",
+    "translation": "He also has a beautiful garden where he will plant some plants in the garden",
+    "tokens": [
+      "他",
+      "还有",
+      "一个",
+      "漂亮",
+      "的",
+      "花园",
+      "，",
+      "他会",
+      "在",
+      "花园里",
+      "种些",
+      "植物"
+    ]
+  },
+  {
+    "chinese": "他很享受在花园里忙碌的时光，那是他最开心的时候",
+    "translation": "He enjoyed his busy time in the garden, and that was his happiest time.",
+    "tokens": [
+      "他",
+      "很",
+      "享受",
+      "在",
+      "花园里",
+      "忙碌",
+      "的",
+      "时光",
+      "，",
+      "那",
+      "是",
+      "他",
+      "最",
+      "开心",
+      "的",
+      "时候"
+    ]
+  },
+  {
+    "chinese": "吉姆的家庭\n我的名字是艾米",
+    "translation": "Jim's Family\nMy name is Amy",
+    "tokens": [
+      "吉姆",
+      "的",
+      "家庭",
+      "\n",
+      "我",
+      "的",
+      "名字",
+      "是",
+      "艾米"
+    ]
+  },
+  {
+    "chinese": "我来自美国",
+    "translation": "I'm from the United States",
+    "tokens": [
+      "我",
+      "来自",
+      "美国"
+    ]
+  },
+  {
+    "chinese": "吉姆是我的好朋友，他来自英国",
+    "translation": "Jim is my good friend, he is from the UK",
+    "tokens": [
+      "吉姆",
+      "是",
+      "我",
+      "的",
+      "好",
+      "朋友",
+      "，",
+      "他",
+      "来自",
+      "英国"
+    ]
+  },
+  {
+    "chinese": "吉姆的爸爸是一名警察",
+    "translation": "Jim's dad is a policeman",
+    "tokens": [
+      "吉姆",
+      "的",
+      "爸爸",
+      "是",
+      "一名",
+      "警察"
+    ]
+  },
+  {
+    "chinese": "吉姆的妈妈是一名漂亮的护士",
+    "translation": "Jim's mom is a beautiful nurse",
+    "tokens": [
+      "吉姆",
+      "的",
+      "妈妈",
+      "是",
+      "一名",
+      "漂亮",
+      "的",
+      "护士"
+    ]
+  },
+  {
+    "chinese": "哦，对了，吉姆的姑姑是一名电视主持人",
+    "translation": "Oh, by the way, Jim's aunt is a TV host",
+    "tokens": [
+      "哦",
+      "，",
+      "对",
+      "了",
+      "，",
+      "吉姆",
+      "的",
+      "姑姑",
+      "是",
+      "一名",
+      "电视",
+      "主持人"
+    ]
+  },
+  {
+    "chinese": "吉姆还有一个妹妹，她今年七岁了",
+    "translation": "Jim has a sister, she is seven years old this year",
+    "tokens": [
+      "吉姆",
+      "还有",
+      "一个",
+      "妹妹",
+      "，",
+      "她",
+      "今年",
+      "七岁",
+      "了"
+    ]
+  },
+  {
+    "chinese": "我和她也是好朋友",
+    "translation": "She and I are good friends too",
+    "tokens": [
+      "我",
+      "和",
+      "她",
+      "也",
+      "是",
+      "好",
+      "朋友"
+    ]
+  },
+  {
+    "chinese": "我和我的家庭\n\n我的名字是亚历山大，我二十岁",
+    "translation": "Me and my family\n\nMy name is Alexander, I'm twenty years old",
+    "tokens": [
+      "我",
+      "和",
+      "我",
+      "的",
+      "家庭",
+      "\n",
+      "\n",
+      "我",
+      "的",
+      "名字",
+      "是",
+      "亚历山大",
+      "，",
+      "我",
+      "二十岁"
+    ]
+  },
+  {
+    "chinese": "我的家里有四口人",
+    "translation": "There are four people in my family",
+    "tokens": [
+      "我",
+      "的",
+      "家里",
+      "有",
+      "四口",
+      "人"
+    ]
+  },
+  {
+    "chinese": "我的爸爸是一位生意人",
+    "translation": "My dad is a businessman",
+    "tokens": [
+      "我",
+      "的",
+      "爸爸",
+      "是",
+      "一位",
+      "生意人"
+    ]
+  },
+  {
+    "chinese": "他喜欢他的工作",
+    "translation": "He likes his job",
+    "tokens": [
+      "他",
+      "喜欢",
+      "他",
+      "的",
+      "工作"
+    ]
+  },
+  {
+    "chinese": "我的妈妈是一位护士",
+    "translation": "My mom is a nurse",
+    "tokens": [
+      "我",
+      "的",
+      "妈妈",
+      "是",
+      "一位",
+      "护士"
+    ]
+  },
+  {
+    "chinese": "她不喜欢她的工作",
+    "translation": "She doesn't like her job",
+    "tokens": [
+      "她",
+      "不",
+      "喜欢",
+      "她",
+      "的",
+      "工作"
+    ]
+  },
+  {
+    "chinese": "我的哥哥和我都上大学",
+    "translation": "My brother and I are in college",
+    "tokens": [
+      "我",
+      "的",
+      "哥哥",
+      "和",
+      "我",
+      "都",
+      "上",
+      "大学"
+    ]
+  },
+  {
+    "chinese": "我们喜欢和不喜欢的食物\n我叫比尔",
+    "translation": "Foods we like and don't like\nMy name is Bill",
+    "tokens": [
+      "我们",
+      "喜欢",
+      "和",
+      "不",
+      "喜欢",
+      "的",
+      "食物",
+      "\n",
+      "我",
+      "叫",
+      "比尔"
+    ]
+  },
+  {
+    "chinese": "我有两个好朋友，凯利和吉姆",
+    "translation": "I have two good friends, Kelly and Jim",
+    "tokens": [
+      "我",
+      "有",
+      "两个",
+      "好",
+      "朋友",
+      "，",
+      "凯利",
+      "和",
+      "吉姆"
+    ]
+  },
+  {
+    "chinese": "我们都喜欢早餐吃热狗，午餐吃鸡肉和土豆",
+    "translation": "We all love hot dogs for breakfast and chicken and potatoes for lunch",
+    "tokens": [
+      "我们",
+      "都",
+      "喜欢",
+      "早餐",
+      "吃",
+      "热狗",
+      "，",
+      "午餐",
+      "吃",
+      "鸡肉",
+      "和",
+      "土豆"
+    ]
+  },
+  {
+    "chinese": "凯利喜欢胡萝卜和西红柿",
+    "translation": "Kelly loves carrots and tomatoes",
+    "tokens": [
+      "凯利",
+      "喜欢",
+      "胡萝卜",
+      "和",
+      "西红柿"
+    ]
+  },
+  {
+    "chinese": "吉姆不喜欢",
+    "translation": "Jim doesn't like it",
+    "tokens": [
+      "吉姆",
+      "不",
+      "喜欢"
+    ]
+  },
+  {
+    "chinese": "他只喜欢西兰花",
+    "translation": "He only likes broccoli",
+    "tokens": [
+      "他",
+      "只",
+      "喜欢",
+      "西兰花"
+    ]
+  },
+  {
+    "chinese": "吉姆和我晩饭喜欢吃冰淇淋和沙拉",
+    "translation": "Jim and I love ice cream and salad for rice",
+    "tokens": [
+      "吉姆",
+      "和",
+      "我",
+      "晩",
+      "饭",
+      "喜欢",
+      "吃",
+      "冰淇淋",
+      "和",
+      "沙拉"
+    ]
+  },
+  {
+    "chinese": "但是凯利喜欢茄子和大米",
+    "translation": "But Kelly likes eggplant and rice",
+    "tokens": [
+      "但是",
+      "凯利",
+      "喜欢",
+      "茄子",
+      "和",
+      "大米"
+    ]
+  },
+  {
+    "chinese": "我和我的朋友\n\n你好",
+    "translation": "Me and my friends\n\nHello",
+    "tokens": [
+      "我",
+      "和",
+      "我",
+      "的",
+      "朋友",
+      "\n",
+      "\n",
+      "你好"
+    ]
+  },
+  {
+    "chinese": "我叫高伟",
+    "translation": "My name is Gao Wei",
+    "tokens": [
+      "我",
+      "叫",
+      "高伟"
+    ]
+  },
+  {
+    "chinese": "我有一个朋友，他是英国人",
+    "translation": "I have a friend who is British",
+    "tokens": [
+      "我",
+      "有",
+      "一个",
+      "朋友",
+      "，",
+      "他",
+      "是",
+      "英国人"
+    ]
+  },
+  {
+    "chinese": "他的名字叫大卫",
+    "translation": "His name is David",
+    "tokens": [
+      "他",
+      "的",
+      "名字",
+      "叫",
+      "大卫"
+    ]
+  },
+  {
+    "chinese": "他十二岁",
+    "translation": "He is twelve years old",
+    "tokens": [
+      "他",
+      "十二岁"
+    ]
+  },
+  {
+    "chinese": "我也是十二岁",
+    "translation": "I'm twelve years old too",
+    "tokens": [
+      "我",
+      "也",
+      "是",
+      "十二岁"
+    ]
+  },
+  {
+    "chinese": "我们都喜欢骑自行车",
+    "translation": "We all love riding bicycles",
+    "tokens": [
+      "我们",
+      "都",
+      "喜欢",
+      "骑",
+      "自行车"
+    ]
+  },
+  {
+    "chinese": "我们不喜欢打篮球",
+    "translation": "We don't like playing basketball",
+    "tokens": [
+      "我们",
+      "不",
+      "喜欢",
+      "打篮球"
+    ]
+  },
+  {
+    "chinese": "大卫最喜欢的季节是冬天",
+    "translation": "David's favorite season is winter",
+    "tokens": [
+      "大卫",
+      "最",
+      "喜欢",
+      "的",
+      "季节",
+      "是",
+      "冬天"
+    ]
+  },
+  {
+    "chinese": "我最喜欢的季节是夏天",
+    "translation": "My favorite season is summer",
+    "tokens": [
+      "我",
+      "最",
+      "喜欢",
+      "的",
+      "季节",
+      "是",
+      "夏天"
+    ]
+  },
+  {
+    "chinese": "你最喜欢的科目是什么",
+    "translation": "What is your favorite subject",
+    "tokens": [
+      "你",
+      "最",
+      "喜欢",
+      "的",
+      "科目",
+      "是",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "丽丽：请问，你最喜欢的科目是什么",
+    "translation": "Lili: What is your favorite subject?",
+    "tokens": [
+      "丽丽",
+      "：",
+      "请问",
+      "，",
+      "你",
+      "最",
+      "喜欢",
+      "的",
+      "科目",
+      "是",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "小明：我最喜欢历史",
+    "translation": "Xiao Ming: I like history the most",
+    "tokens": [
+      "小明",
+      "：",
+      "我",
+      "最",
+      "喜欢",
+      "历史"
+    ]
+  },
+  {
+    "chinese": "我对历史很感兴趣",
+    "translation": "I'm very interested in history",
+    "tokens": [
+      "我",
+      "对",
+      "历史",
+      "很感兴趣"
+    ]
+  },
+  {
+    "chinese": "你呢",
+    "translation": "And you",
+    "tokens": [
+      "你",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "丽丽：我最喜欢地理，因为我觉得看地图很有意思",
+    "translation": "Lili: I like geography the most because I think it’s interesting to read the map",
+    "tokens": [
+      "丽丽",
+      "：",
+      "我",
+      "最",
+      "喜欢",
+      "地理",
+      "，",
+      "因为",
+      "我",
+      "觉得",
+      "看",
+      "地图",
+      "很",
+      "有意思"
+    ]
+  },
+  {
+    "chinese": "小明：那你长大以后想做什么",
+    "translation": "Xiao Ming: Then what do you want to do when you grow up",
+    "tokens": [
+      "小明",
+      "：",
+      "那",
+      "你",
+      "长大",
+      "以后",
+      "想",
+      "做",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "丽丽：我想当地理学家",
+    "translation": "Lili: I want a locator",
+    "tokens": [
+      "丽丽",
+      "：",
+      "我",
+      "想",
+      "当",
+      "地理学家"
+    ]
+  },
+  {
+    "chinese": "你呢",
+    "translation": "And you",
+    "tokens": [
+      "你",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "小明：我想当历史学家",
+    "translation": "Xiao Ming: I want to be a historian",
+    "tokens": [
+      "小明",
+      "：",
+      "我",
+      "想",
+      "当",
+      "历史学家"
+    ]
+  },
+  {
+    "chinese": "让我们一起去踢足球\n小刚：今天天气怎么样",
+    "translation": "Let's play football together\nXiaogang: How is the weather today",
+    "tokens": [
+      "让",
+      "我们",
+      "一起",
+      "去",
+      "踢足球",
+      "\n",
+      "小刚",
+      "：",
+      "今天天气",
+      "怎么样"
+    ]
+  },
+  {
+    "chinese": "小明：今天天气很晴朗",
+    "translation": "Xiao Ming: The weather is very clear today",
+    "tokens": [
+      "小明",
+      "：",
+      "今天天气",
+      "很",
+      "晴朗"
+    ]
+  },
+  {
+    "chinese": "小刚：那我们一起去踢足球吧，好久都没有去了",
+    "translation": "Xiaogang: Let's go play football together, I haven't been there for a long time",
+    "tokens": [
+      "小刚",
+      "：",
+      "那",
+      "我们",
+      "一起",
+      "去",
+      "踢足球",
+      "吧",
+      "，",
+      "好久",
+      "都",
+      "没有",
+      "去",
+      "了"
+    ]
+  },
+  {
+    "chinese": "小明：好，那我们一起去",
+    "translation": "Xiao Ming: OK, let's go together",
+    "tokens": [
+      "小明",
+      "：",
+      "好",
+      "，",
+      "那",
+      "我们",
+      "一起",
+      "去"
+    ]
+  },
+  {
+    "chinese": "天气怎么样",
+    "translation": "How is the weather",
+    "tokens": [
+      "天气",
+      "怎么样"
+    ]
+  },
+  {
+    "chinese": "小明： 今天天气怎么样",
+    "translation": "Xiao Ming: What's the weather today",
+    "tokens": [
+      "小明",
+      "：",
+      " ",
+      "今天天气",
+      "怎么样"
+    ]
+  },
+  {
+    "chinese": "小刚： 今天天气很好，阳光很好",
+    "translation": "Xiaogang: The weather is very good today and the sun is very good",
+    "tokens": [
+      "小刚",
+      "：",
+      " ",
+      "今天天气",
+      "很",
+      "好",
+      "，",
+      "阳光",
+      "很",
+      "好"
+    ]
+  },
+  {
+    "chinese": "小明：我们一起去放风筝吧",
+    "translation": "Xiao Ming: Let's fly a kite together",
+    "tokens": [
+      "小明",
+      "：",
+      "我们",
+      "一起",
+      "去",
+      "放风筝",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "小刚： 太好了",
+    "translation": "Xiaogang: That's great",
+    "tokens": [
+      "小刚",
+      "：",
+      " ",
+      "太好了"
+    ]
+  },
+  {
+    "chinese": "你喜欢吃蔬菜吗",
+    "translation": "Do you like eating vegetables",
+    "tokens": [
+      "你",
+      "喜欢",
+      "吃",
+      "蔬菜",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "小明：这是什么",
+    "translation": "Xiao Ming: What is this",
+    "tokens": [
+      "小明",
+      "：",
+      "这是",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "王刚：这是茄子",
+    "translation": "Wang Gang: This is eggplant",
+    "tokens": [
+      "王刚",
+      "：",
+      "这是",
+      "茄子"
+    ]
+  },
+  {
+    "chinese": "小明：你喜欢茄子吗",
+    "translation": "Xiao Ming: Do you like eggplant?",
+    "tokens": [
+      "小明",
+      "：",
+      "你",
+      "喜欢",
+      "茄子",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "王刚：喜欢",
+    "translation": "Wang Gang: Like",
+    "tokens": [
+      "王刚",
+      "：",
+      "喜欢"
+    ]
+  },
+  {
+    "chinese": "小明：那是什么",
+    "translation": "Xiao Ming: What is that",
+    "tokens": [
+      "小明",
+      "：",
+      "那",
+      "是",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "王刚：那是黄瓜",
+    "translation": "Wang Gang: That's a cucumber",
+    "tokens": [
+      "王刚",
+      "：",
+      "那",
+      "是",
+      "黄瓜"
+    ]
+  },
+  {
+    "chinese": "小明：你喜欢吃黄瓜吗",
+    "translation": "Xiao Ming: Do you like eating cucumbers?",
+    "tokens": [
+      "小明",
+      "：",
+      "你",
+      "喜欢",
+      "吃",
+      "黄瓜",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "王刚：不，我不喜欢，我喜欢吃西红柿",
+    "translation": "Wang Gang: No, I don’t like it, I like to eat tomatoes",
+    "tokens": [
+      "王刚",
+      "：",
+      "不",
+      "，",
+      "我",
+      "不",
+      "喜欢",
+      "，",
+      "我",
+      "喜欢",
+      "吃",
+      "西红柿"
+    ]
+  },
+  {
+    "chinese": "你多高",
+    "translation": "How tall are you",
+    "tokens": [
+      "你",
+      "多",
+      "高"
+    ]
+  },
+  {
+    "chinese": "小明：王刚，好久不见，你看起来长高了",
+    "translation": "Xiao Ming: Wang Gang, long time no see, you look taller",
+    "tokens": [
+      "小明",
+      "：",
+      "王刚",
+      "，",
+      "好久不见",
+      "，",
+      "你",
+      "看起来",
+      "长高",
+      "了"
+    ]
+  },
+  {
+    "chinese": "你多高",
+    "translation": "How tall are you",
+    "tokens": [
+      "你",
+      "多",
+      "高"
+    ]
+  },
+  {
+    "chinese": "王刚：小明，我现在180厘米",
+    "translation": "Wang Gang: Xiao Ming, I am 180 cm now",
+    "tokens": [
+      "王刚",
+      "：",
+      "小明",
+      "，",
+      "我",
+      "现在",
+      "180",
+      "厘米"
+    ]
+  },
+  {
+    "chinese": "暑假锻炼身体，每天游泳，可能长高了",
+    "translation": "Exercise during the summer vacation, swim every day, and you may grow taller",
+    "tokens": [
+      "暑假",
+      "锻炼身体",
+      "，",
+      "每天",
+      "游泳",
+      "，",
+      "可能",
+      "长高",
+      "了"
+    ]
+  },
+  {
+    "chinese": "小明：一定是的，锻炼身体太有帮助了",
+    "translation": "Xiao Ming: It must be yes, exercise is so helpful",
+    "tokens": [
+      "小明",
+      "：",
+      "一定",
+      "是",
+      "的",
+      "，",
+      "锻炼身体",
+      "太有",
+      "帮助",
+      "了"
+    ]
+  },
+  {
+    "chinese": "王刚：小明，你现在多高",
+    "translation": "Wang Gang: Xiao Ming, how tall are you now",
+    "tokens": [
+      "王刚",
+      "：",
+      "小明",
+      "，",
+      "你",
+      "现在",
+      "多高"
+    ]
+  },
+  {
+    "chinese": "小明：我只有170厘米，太矮了",
+    "translation": "Xiao Ming: I'm only 170 cm, too short",
+    "tokens": [
+      "小明",
+      "：",
+      "我",
+      "只有",
+      "170",
+      "厘米",
+      "，",
+      "太矮",
+      "了"
+    ]
+  },
+  {
+    "chinese": "我的家庭\n小明: 王刚，欢迎来到我的家!\n\n王刚: 谢谢小明!\n\n小明: 这是我的爸爸，妈妈.\n\n王刚: 叔叔好，阿姨好",
+    "translation": "My family\nXiao Ming: Wang Gang, welcome to my home!\n\nWang Gang: Thank you Xiao Ming!\n\nXiao Ming: This is my father and mother.\n\nWang Gang: Hello uncle, hello aunt",
+    "tokens": [
+      "我",
+      "的",
+      "家庭",
+      "\n",
+      "小明",
+      ":",
+      " ",
+      "王刚",
+      "，",
+      "欢迎",
+      "来到",
+      "我",
+      "的",
+      "家",
+      "!",
+      "\n",
+      "\n",
+      "王刚",
+      ":",
+      " ",
+      "谢谢",
+      "小明",
+      "!",
+      "\n",
+      "\n",
+      "小明",
+      ":",
+      " ",
+      "这",
+      "是",
+      "我",
+      "的",
+      "爸爸",
+      "，",
+      "妈妈",
+      ".",
+      "\n",
+      "\n",
+      "王刚",
+      ":",
+      " ",
+      "叔叔",
+      "好",
+      "，",
+      "阿姨",
+      "好"
+    ]
+  },
+  {
+    "chinese": "小明经常提到您们",
+    "translation": "Xiao Ming often mentions you",
+    "tokens": [
+      "小明",
+      "经常",
+      "提到",
+      "您们"
+    ]
+  },
+  {
+    "chinese": "妈妈爸爸: 你好，认识你很高兴",
+    "translation": "Mom and Dad: Hello, I'm happy to meet you",
+    "tokens": [
+      "妈妈",
+      "爸爸",
+      ":",
+      " ",
+      "你好",
+      "，",
+      "认识",
+      "你",
+      "很",
+      "高兴"
+    ]
+  },
+  {
+    "chinese": "小明: 我还有一个姐姐，但是她不在",
+    "translation": "Xiao Ming: I have another sister, but she is not here",
+    "tokens": [
+      "小明",
+      ":",
+      " ",
+      "我",
+      "还有",
+      "一个",
+      "姐姐",
+      "，",
+      "但是",
+      "她",
+      "不",
+      "在"
+    ]
+  },
+  {
+    "chinese": "她在大学里工作",
+    "translation": "She works in college",
+    "tokens": [
+      "她",
+      "在",
+      "大学",
+      "里",
+      "工作"
+    ]
+  },
+  {
+    "chinese": "王刚: 希望下次可以看到她!\n\n你想吃什么",
+    "translation": "Wang Gang: I hope I can see her next time!\n\nWhat do you want to eat",
+    "tokens": [
+      "王刚",
+      ":",
+      " ",
+      "希望",
+      "下次",
+      "可以",
+      "看到",
+      "她",
+      "!",
+      "\n",
+      "\n",
+      "你",
+      "想",
+      "吃",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "妈妈：小明，你晚饭想吃什么呢",
+    "translation": "Mom: Xiao Ming, what do you want to eat for dinner",
+    "tokens": [
+      "妈妈",
+      "：",
+      "小明",
+      "，",
+      "你",
+      "晚饭",
+      "想",
+      "吃",
+      "什么",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "小明：我想吃面条",
+    "translation": "Xiao Ming: I want to eat noodles",
+    "tokens": [
+      "小明",
+      "：",
+      "我",
+      "想",
+      "吃",
+      "面条"
+    ]
+  },
+  {
+    "chinese": "妈妈：好啊，那妈妈给你做面条，但是咱们需要先去超市买菜",
+    "translation": "Mom: OK, then mom makes noodles for you, but we need to go to the supermarket to buy vegetables first",
+    "tokens": [
+      "妈妈",
+      "：",
+      "好",
+      "啊",
+      "，",
+      "那",
+      "妈妈",
+      "给",
+      "你",
+      "做",
+      "面条",
+      "，",
+      "但是",
+      "咱们",
+      "需要",
+      "先",
+      "去",
+      "超市",
+      "买菜"
+    ]
+  },
+  {
+    "chinese": "小明：好的，我也想去超市",
+    "translation": "Xiao Ming: OK, I want to go to the supermarket, too",
+    "tokens": [
+      "小明",
+      "：",
+      "好",
+      "的",
+      "，",
+      "我",
+      "也",
+      "想",
+      "去",
+      "超市"
+    ]
+  },
+  {
+    "chinese": "妈妈：那咱们赶紧出发吧",
+    "translation": "Mom: Let's go quickly",
+    "tokens": [
+      "妈妈",
+      "：",
+      "那",
+      "咱们",
+      "赶紧",
+      "出发",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "我会去北京动物园\n明天我会去北京动物园",
+    "translation": "I'll go to Beijing Zoo\nI will go to Beijing Zoo tomorrow",
+    "tokens": [
+      "我会",
+      "去",
+      "北京动物园",
+      "\n",
+      "明天",
+      "我会",
+      "去",
+      "北京动物园"
+    ]
+  },
+  {
+    "chinese": "我会玩的开心",
+    "translation": "I'll have fun",
+    "tokens": [
+      "我会",
+      "玩",
+      "的",
+      "开心"
+    ]
+  },
+  {
+    "chinese": "我会跟我妈妈和妹妹一起去",
+    "translation": "I'll go with my mom and my sister",
+    "tokens": [
+      "我会",
+      "跟",
+      "我",
+      "妈妈",
+      "和",
+      "妹妹",
+      "一起",
+      "去"
+    ]
+  },
+  {
+    "chinese": "我想看狮子，我妈妈想看猴子",
+    "translation": "I want to see the lion, my mom wants to see the monkey",
+    "tokens": [
+      "我",
+      "想",
+      "看",
+      "狮子",
+      "，",
+      "我",
+      "妈妈",
+      "想",
+      "看",
+      "猴子"
+    ]
+  },
+  {
+    "chinese": "我们都想看大熊猫",
+    "translation": "We all want to see giant pandas",
+    "tokens": [
+      "我们",
+      "都",
+      "想",
+      "看",
+      "大熊猫"
+    ]
+  },
+  {
+    "chinese": "大熊猫很可爱",
+    "translation": "Giant pandas are cute",
+    "tokens": [
+      "大熊猫",
+      "很",
+      "可爱"
+    ]
+  },
+  {
+    "chinese": "你喜欢大熊猫吗",
+    "translation": "Do you like giant pandas",
+    "tokens": [
+      "你",
+      "喜欢",
+      "大熊猫",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "你今天会做什么",
+    "translation": "What will you do today",
+    "tokens": [
+      "你",
+      "今天",
+      "会",
+      "做",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "小明：你今天会做什么",
+    "translation": "Xiao Ming: What will you do today",
+    "tokens": [
+      "小明",
+      "：",
+      "你",
+      "今天",
+      "会",
+      "做",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "王刚：我今天会很忙，我会去看我的奶奶",
+    "translation": "Wang Gang: I will be very busy today, I will go see my grandma",
+    "tokens": [
+      "王刚",
+      "：",
+      "我",
+      "今天",
+      "会",
+      "很",
+      "忙",
+      "，",
+      "我会",
+      "去",
+      "看",
+      "我",
+      "的",
+      "奶奶"
+    ]
+  },
+  {
+    "chinese": "你呢",
+    "translation": "And you",
+    "tokens": [
+      "你",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "小明：今天我不忙，我会去看电影",
+    "translation": "Xiao Ming: I'm not busy today, I'll go to the movies",
+    "tokens": [
+      "小明",
+      "：",
+      "今天",
+      "我",
+      "不忙",
+      "，",
+      "我会",
+      "去",
+      "看",
+      "电影"
+    ]
+  },
+  {
+    "chinese": "王刚：你明天会做什么",
+    "translation": "Wang Gang: What will you do tomorrow",
+    "tokens": [
+      "王刚",
+      "：",
+      "你",
+      "明天",
+      "会",
+      "做",
+      "什么"
+    ]
+  },
+  {
+    "chinese": "小明：明天我会学习",
+    "translation": "Xiao Ming: I will study tomorrow",
+    "tokens": [
+      "小明",
+      "：",
+      "明天",
+      "我会",
+      "学习"
+    ]
+  },
+  {
+    "chinese": "你呢",
+    "translation": "And you",
+    "tokens": [
+      "你",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "王刚：明天我会去看我的姥爷",
+    "translation": "Wang Gang: I will go to see my grandfather tomorrow",
+    "tokens": [
+      "王刚",
+      "：",
+      "明天",
+      "我会",
+      "去",
+      "看",
+      "我",
+      "的",
+      "姥爷"
+    ]
+  },
+  {
+    "chinese": "他们在哪儿",
+    "translation": "Where are they",
+    "tokens": [
+      "他们",
+      "在",
+      "哪儿"
+    ]
+  },
+  {
+    "chinese": "你好，我叫小马",
+    "translation": "Hello, my name is Xiaoma",
+    "tokens": [
+      "你好",
+      "，",
+      "我",
+      "叫",
+      "小马"
+    ]
+  },
+  {
+    "chinese": "你的朋友在哪儿",
+    "translation": "Where is your friend",
+    "tokens": [
+      "你",
+      "的",
+      "朋友",
+      "在",
+      "哪儿"
+    ]
+  },
+  {
+    "chinese": "他在看电影",
+    "translation": "He's watching a movie",
+    "tokens": [
+      "他",
+      "在",
+      "看",
+      "电影"
+    ]
+  },
+  {
+    "chinese": "你的儿子在哪儿",
+    "translation": "Where is your son",
+    "tokens": [
+      "你",
+      "的",
+      "儿子",
+      "在",
+      "哪儿"
+    ]
+  },
+  {
+    "chinese": "他去了商店",
+    "translation": "He went to the store",
+    "tokens": [
+      "他",
+      "去",
+      "了",
+      "商店"
+    ]
+  },
+  {
+    "chinese": "你的妈妈在哪儿",
+    "translation": "Where is your mom",
+    "tokens": [
+      "你",
+      "的",
+      "妈妈",
+      "在",
+      "哪儿"
+    ]
+  },
+  {
+    "chinese": "我的妈妈在我的后面",
+    "translation": "My mom is behind me",
+    "tokens": [
+      "我",
+      "的",
+      "妈妈",
+      "在",
+      "我",
+      "的",
+      "后面"
+    ]
+  },
+  {
+    "chinese": "你的狗在哪儿",
+    "translation": "Where is your dog",
+    "tokens": [
+      "你",
+      "的",
+      "狗",
+      "在",
+      "哪儿"
+    ]
+  },
+  {
+    "chinese": "我的狗在桌子下睡觉",
+    "translation": "My dog ​​sleeps under the table",
+    "tokens": [
+      "我",
+      "的",
+      "狗",
+      "在",
+      "桌子",
+      "下",
+      "睡觉"
+    ]
+  },
+  {
+    "chinese": "你的椅子在哪儿",
+    "translation": "Where is your chair",
+    "tokens": [
+      "你",
+      "的",
+      "椅子",
+      "在",
+      "哪儿"
+    ]
+  },
+  {
+    "chinese": "我的椅子在桌子前面",
+    "translation": "My chair is in front of the table",
+    "tokens": [
+      "我",
+      "的",
+      "椅子",
+      "在",
+      "桌子",
+      "前面"
+    ]
+  },
+  {
+    "chinese": "我是一只猫\n我是一只猫",
+    "translation": "I'm a cat\nI'm a cat",
+    "tokens": [
+      "我",
+      "是",
+      "一只",
+      "猫",
+      "\n",
+      "我",
+      "是",
+      "一只",
+      "猫"
+    ]
+  },
+  {
+    "chinese": "我叫小猫",
+    "translation": "My name is a kitten",
+    "tokens": [
+      "我",
+      "叫",
+      "小猫"
+    ]
+  },
+  {
+    "chinese": "我喜欢人",
+    "translation": "I like people",
+    "tokens": [
+      "我",
+      "喜欢",
+      "人"
+    ]
+  },
+  {
+    "chinese": "我不喜欢狗",
+    "translation": "I don't like dogs",
+    "tokens": [
+      "我",
+      "不",
+      "喜欢",
+      "狗"
+    ]
+  },
+  {
+    "chinese": "再见，我去睡觉了",
+    "translation": "Goodbye, I'm going to bed",
+    "tokens": [
+      "再见",
+      "，",
+      "我",
+      "去",
+      "睡觉",
+      "了"
+    ]
+  },
+  {
+    "chinese": "猫和狗\n我很喜欢猫和狗",
+    "translation": "Cats and dogs\nI like cats and dogs very much",
+    "tokens": [
+      "猫",
+      "和",
+      "狗",
+      "\n",
+      "我",
+      "很",
+      "喜欢",
+      "猫",
+      "和",
+      "狗"
+    ]
+  },
+  {
+    "chinese": "我的朋友只喜欢狗",
+    "translation": "My friends only like dogs",
+    "tokens": [
+      "我",
+      "的",
+      "朋友",
+      "只",
+      "喜欢",
+      "狗"
+    ]
+  },
+  {
+    "chinese": "她不喜欢猫",
+    "translation": "She doesn't like cats",
+    "tokens": [
+      "她",
+      "不",
+      "喜欢",
+      "猫"
+    ]
+  },
+  {
+    "chinese": "我有八只猫",
+    "translation": "I have eight cats",
+    "tokens": [
+      "我",
+      "有",
+      "八只",
+      "猫"
+    ]
+  },
+  {
+    "chinese": "我还有五条狗",
+    "translation": "I have five dogs",
+    "tokens": [
+      "我",
+      "还有",
+      "五条",
+      "狗"
+    ]
+  },
+  {
+    "chinese": "我的朋友有两条狗",
+    "translation": "My friend has two dogs",
+    "tokens": [
+      "我",
+      "的",
+      "朋友",
+      "有",
+      "两条",
+      "狗"
+    ]
+  },
+  {
+    "chinese": "但是她没有猫",
+    "translation": "But she doesn't have a cat",
+    "tokens": [
+      "但是",
+      "她",
+      "没有",
+      "猫"
+    ]
+  },
+  {
+    "chinese": "我去了哪里",
+    "translation": "Where did I go",
+    "tokens": [
+      "我",
+      "去",
+      "了",
+      "哪里"
+    ]
+  },
+  {
+    "chinese": "你好，我叫小迪",
+    "translation": "Hello, my name is Xiaodi",
+    "tokens": [
+      "你好",
+      "，",
+      "我",
+      "叫",
+      "小迪"
+    ]
+  },
+  {
+    "chinese": "今天上午，我去了医院",
+    "translation": "This morning, I went to the hospital",
+    "tokens": [
+      "今天上午",
+      "，",
+      "我",
+      "去",
+      "了",
+      "医院"
+    ]
+  },
+  {
+    "chinese": "今天中午，我去了商店",
+    "translation": "At noon today, I went to the store",
+    "tokens": [
+      "今天",
+      "中午",
+      "，",
+      "我",
+      "去",
+      "了",
+      "商店"
+    ]
+  },
+  {
+    "chinese": "今天下午，我去饭店吃了饭",
+    "translation": "This afternoon, I went to the restaurant for dinner",
+    "tokens": [
+      "今天下午",
+      "，",
+      "我",
+      "去",
+      "饭店",
+      "吃了饭"
+    ]
+  },
+  {
+    "chinese": "现在，我在家看电视",
+    "translation": "Now, I'm watching TV at home",
+    "tokens": [
+      "现在",
+      "，",
+      "我",
+      "在家",
+      "看电视"
+    ]
+  },
+  {
+    "chinese": "我想我的朋友",
+    "translation": "I miss my friends",
+    "tokens": [
+      "我",
+      "想",
+      "我",
+      "的",
+      "朋友"
+    ]
+  },
+  {
+    "chinese": "他是一名医生",
+    "translation": "He is a doctor",
+    "tokens": [
+      "他",
+      "是",
+      "一名",
+      "医生"
+    ]
+  },
+  {
+    "chinese": "他现在在医院工作",
+    "translation": "He is working in the hospital now",
+    "tokens": [
+      "他",
+      "现在",
+      "在",
+      "医院",
+      "工作"
+    ]
+  },
+  {
+    "chinese": "我在我家",
+    "translation": "I'm at my house",
+    "tokens": [
+      "我",
+      "在",
+      "我家"
+    ]
+  },
+  {
+    "chinese": "今天晚上他会来我家，我很高兴",
+    "translation": "He will come to my house tonight, I'm very happy",
+    "tokens": [
+      "今天",
+      "晚上",
+      "他会来",
+      "我家",
+      "，",
+      "我",
+      "很",
+      "高兴"
+    ]
+  },
+  {
+    "chinese": "你好，我叫王迪迪",
+    "translation": "Hello, my name is Wang Didi",
+    "tokens": [
+      "你好",
+      "，",
+      "我",
+      "叫",
+      "王迪迪"
+    ]
+  },
+  {
+    "chinese": "我的妈妈叫韩梅梅",
+    "translation": "My mother's name is Han Meimei",
+    "tokens": [
+      "我",
+      "的",
+      "妈妈",
+      "叫",
+      "韩梅梅"
+    ]
+  },
+  {
+    "chinese": "她是一名医生",
+    "translation": "She is a doctor",
+    "tokens": [
+      "她",
+      "是",
+      "一名",
+      "医生"
+    ]
+  },
+  {
+    "chinese": "我的爸爸叫王明",
+    "translation": "My dad is Wang Ming",
+    "tokens": [
+      "我",
+      "的",
+      "爸爸",
+      "叫",
+      "王明"
+    ]
+  },
+  {
+    "chinese": "他是一名教师",
+    "translation": "He is a teacher",
+    "tokens": [
+      "他",
+      "是",
+      "一名",
+      "教师"
+    ]
+  },
+  {
+    "chinese": "我也是一名教师",
+    "translation": "I'm also a teacher",
+    "tokens": [
+      "我",
+      "也",
+      "是",
+      "一名",
+      "教师"
+    ]
+  },
+  {
+    "chinese": "我的儿子叫张帅",
+    "translation": "My son is Zhang Shuai",
+    "tokens": [
+      "我",
+      "的",
+      "儿子",
+      "叫",
+      "张帅"
+    ]
+  },
+  {
+    "chinese": "他是一名学生",
+    "translation": "He is a student",
+    "tokens": [
+      "他",
+      "是",
+      "一名",
+      "学生"
+    ]
+  },
+  {
+    "chinese": "你好，我是一只小狗",
+    "translation": "Hello, I'm a puppy",
+    "tokens": [
+      "你好",
+      "，",
+      "我",
+      "是",
+      "一只",
+      "小狗"
+    ]
+  },
+  {
+    "chinese": "我喜欢喝水",
+    "translation": "I like drinking water",
+    "tokens": [
+      "我",
+      "喜欢",
+      "喝水"
+    ]
+  },
+  {
+    "chinese": "我的妈妈不喜欢喝水",
+    "translation": "My mom doesn't like drinking water",
+    "tokens": [
+      "我",
+      "的",
+      "妈妈",
+      "不",
+      "喜欢",
+      "喝水"
+    ]
+  },
+  {
+    "chinese": "我的爸爸喜欢喝水",
+    "translation": "My dad likes to drink water",
+    "tokens": [
+      "我",
+      "的",
+      "爸爸",
+      "喜欢",
+      "喝水"
+    ]
+  },
+  {
+    "chinese": "我喜欢睡觉",
+    "translation": "I like sleeping",
+    "tokens": [
+      "我",
+      "喜欢",
+      "睡觉"
+    ]
+  },
+  {
+    "chinese": "你也喜欢睡觉吗",
+    "translation": "Do you like sleeping too",
+    "tokens": [
+      "你",
+      "也",
+      "喜欢",
+      "睡觉",
+      "吗"
+    ]
+  },
+  {
+    "chinese": "我现在想去睡觉了",
+    "translation": "I want to go to bed now",
+    "tokens": [
+      "我",
+      "现在",
+      "想",
+      "去",
+      "睡觉",
+      "了"
+    ]
+  },
+  {
+    "chinese": "拜拜",
+    "translation": "Bye-Bye",
+    "tokens": [
+      "拜拜"
+    ]
+  },
+  {
+    "chinese": "我在火车站等火车",
+    "translation": "I'm waiting for the train at the train station",
+    "tokens": [
+      "我",
+      "在",
+      "火车站",
+      "等",
+      "火车"
+    ]
+  },
+  {
+    "chinese": "我要去学校",
+    "translation": "I'm going to school",
+    "tokens": [
+      "我要",
+      "去",
+      "学校"
+    ]
+  },
+  {
+    "chinese": "我的学校在商店的前面",
+    "translation": "My school is in front of the store",
+    "tokens": [
+      "我",
+      "的",
+      "学校",
+      "在",
+      "商店",
+      "的",
+      "前面"
+    ]
+  },
+  {
+    "chinese": "我妈妈是我学校的老师",
+    "translation": "My mom is my school teacher",
+    "tokens": [
+      "我",
+      "妈妈",
+      "是",
+      "我",
+      "学校",
+      "的",
+      "老师"
+    ]
+  },
+  {
+    "chinese": "我们一起去学校",
+    "translation": "Let's go to school together",
+    "tokens": [
+      "我们",
+      "一起",
+      "去",
+      "学校"
+    ]
+  },
+  {
+    "chinese": "你好，我的名字叫何华",
+    "translation": "Hello, my name is He Hua",
+    "tokens": [
+      "你好",
+      "，",
+      "我",
+      "的",
+      "名字",
+      "叫",
+      "何华"
+    ]
+  },
+  {
+    "chinese": "我是中国人",
+    "translation": "I am Chinese",
+    "tokens": [
+      "我",
+      "是",
+      "中国",
+      "人"
+    ]
+  },
+  {
+    "chinese": "我住在中国",
+    "translation": "I live in China",
+    "tokens": [
+      "我",
+      "住",
+      "在",
+      "中国"
+    ]
+  },
+  {
+    "chinese": "我说汉语",
+    "translation": "I speak Chinese",
+    "tokens": [
+      "我",
+      "说",
+      "汉语"
+    ]
+  },
+  {
+    "chinese": "现在中国的天气很好",
+    "translation": "The weather in China is good now",
+    "tokens": [
+      "现在",
+      "中国",
+      "的",
+      "天气",
+      "很",
+      "好"
+    ]
+  },
+  {
+    "chinese": "美国的天气也很好",
+    "translation": "The weather in the United States is also very good",
+    "tokens": [
+      "美国",
+      "的",
+      "天气",
+      "也",
+      "很",
+      "好"
+    ]
+  },
+  {
+    "chinese": "刘燕: 我很饿……\n\n李红: 我也很饿",
+    "translation": "Liu Yan: I'm very hungry...\n\nLi Hong: I'm very hungry, too",
+    "tokens": [
+      "刘燕",
+      ":",
+      " ",
+      "我",
+      "很",
+      "饿",
+      "…",
+      "…",
+      "\n",
+      "\n",
+      "李红",
+      ":",
+      " ",
+      "我",
+      "也",
+      "很",
+      "饿"
+    ]
+  },
+  {
+    "chinese": "刘燕: 我们去饭店吧",
+    "translation": "Liu Yan: Let's go to the hotel",
+    "tokens": [
+      "刘燕",
+      ":",
+      " ",
+      "我们",
+      "去",
+      "饭店",
+      "吧"
+    ]
+  },
+  {
+    "chinese": "李红: 好",
+    "translation": "Li Hong: OK",
+    "tokens": [
+      "李红",
+      ":",
+      " ",
+      "好"
+    ]
+  },
+  {
+    "chinese": "刘燕: 你想吃米饭还是面条",
+    "translation": "Liu Yan: Do you want to eat rice or noodles",
+    "tokens": [
+      "刘燕",
+      ":",
+      " ",
+      "你",
+      "想",
+      "吃",
+      "米饭",
+      "还是",
+      "面条"
+    ]
+  },
+  {
+    "chinese": "李红: 我想吃米饭，你呢",
+    "translation": "Li Hong: I want to eat rice, what about you",
+    "tokens": [
+      "李红",
+      ":",
+      " ",
+      "我",
+      "想",
+      "吃",
+      "米饭",
+      "，",
+      "你",
+      "呢"
+    ]
+  },
+  {
+    "chinese": "刘燕: 我也想吃米饭",
+    "translation": "Liu Yan: I want to eat rice too",
+    "tokens": [
+      "刘燕",
+      ":",
+      " ",
+      "我",
+      "也",
+      "想",
+      "吃",
+      "米饭"
+    ]
+  }
+]
